@@ -36,7 +36,7 @@ def draw_palette(draw: ImageDraw.ImageDraw, image_path: str, accent: bool):
 
     # Optionally draw a rectangle to highlight the accent color
     if accent:
-        draw.rectangle(((0, 860), (570, 870)), fill=color_palette[-1])
+        draw.rectangle(((0, 860), (570, 870)), fill=color_palette[5])
 
 
 def crop_to_square(image_path: str, save_path: str):
