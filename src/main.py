@@ -7,6 +7,7 @@ import argparse
 
 import utils
 import get_info
+import data
 
 # Get the current directory
 current_dictionary = pathlib.Path(__file__).parent.resolve()
@@ -33,7 +34,7 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
 
     # Get the lyrics of the song
     color = (50, 47, 48)
-    if review is not None: 
+    if review is not None:
         music_lyrics = "短评 | " + review
 
     # Open the banner image
@@ -46,7 +47,7 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
     poster = utils.create_image(1140, 1740)
 
     # Specify the region where you want to paste 'banner' onto 'background'
-    left = 220
+    left = 260
     top = 60
     utils.draw_on_poster(top, left, poster, banner)
 
@@ -66,7 +67,7 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
 
     image.write_text(draw, color_palette[2], (60, 1350), category, font_regular, 40)
 
-    if review is not None: 
+    if review is not None:
         image.write_multiline_text(
             draw, color_palette[2], (60, 1400), music_lyrics, font_light, 40
         )
@@ -79,7 +80,7 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
         top = 1120
         utils.draw_on_poster(top, left, poster, svg_image)
 
-    if imdb_score is not None:
+    if doubaninfo.is_movie and imdb_score is not None:
         svg_image = utils.create_badge("yellow", "imdb", str(imdb_score))
         # output_path = os.path.join(output_dir, "imdb.png")
         # svg_image.save(output_path)
@@ -87,7 +88,7 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
         top = 1120
         utils.draw_on_poster(top, left, poster, svg_image)
 
-    if tomato_score is not None:
+    if doubaninfo.is_movie and tomato_score is not None:
         svg_image = utils.create_badge("red", "Rotten Tomato", str(tomato_score))
         # output_path = os.path.join(output_dir, "imdb.png")
         # svg_image.save(output_path)
@@ -115,18 +116,16 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Process URL and review with optional image parsing."
-    )
-    parser.add_argument("--url", type=str, help="URL string")
-    parser.add_argument("--review", type=str, help="Review string")
-    parser.add_argument("--imdb", type=str, help="imdb score")
-    parser.add_argument("--tomato", type=str, help="tomato score")
-    parser.add_argument("--img", type=str, help="URL string for image")
-
+    parser = argparse.ArgumentParser(description="Load data from database.")
+    parser.add_argument("--random", action="store_true", help="Load a random entry")
     args = parser.parse_args()
 
-    if args.url is None:
-        args.url = "https://book.douban.com/subject/36480672/"
+    entry = data.load_one_entry(args.random)
 
-    main(args.url, args.img, args.review, args.imdb, args.tomato)
+    main(
+        entry.get("web_url"),
+        entry.get("image_url"),
+        entry.get('review'),
+        entry.get("imdb_score"),
+        entry.get("tomato_score"),
+    )
