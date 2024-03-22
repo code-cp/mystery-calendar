@@ -30,13 +30,16 @@ def draw_palette(draw: ImageDraw.ImageDraw, image_path: str, accent: bool):
     color_palette = color.get_color_palette(image_path)
 
     # Draw rectangles for each color in the palette
-    for i in range(6):
-        start, end = 85 * i, 85 * (i + 1)
-        draw.rectangle(((30 + start, 560), (30 + end, 580)), fill=color_palette[i])
+    # for i in range(6):
+    #     start, end = 170 * i, 170 * (i + 1)
+    #     draw.rectangle(((60 + start, 1120), (60 + end, 1160)), fill=color_palette[i])
 
     # Optionally draw a rectangle to highlight the accent color
     if accent:
-        draw.rectangle(((0, 860), (570, 870)), fill=color_palette[5])
+        # draw.rectangle(((0, 1720), (1140, 1740)), fill=color_palette[5])
+        draw.rectangle(((60, 1080), (1140, 1100)), fill=color_palette[5])
+        
+    return color_palette 
 
 
 def crop_to_square(image_path: str, save_path: str):
@@ -100,6 +103,7 @@ def remove_white_pixel(image_path: str):
 
 def write_text(
     draw: ImageDraw.ImageDraw,
+    color: tuple, 
     cords: tuple,
     text: str,
     font: str,
@@ -123,12 +127,12 @@ def write_text(
 
     # Draw the text
     draw.text(
-        xy=(cords[0], cords[1]), text=text, fill=(50, 47, 48), font=font, anchor=anchor
+        xy=(cords[0], cords[1]), text=text, fill=color, font=font, anchor=anchor
     )
 
 
 def write_multiline_text(
-    draw: ImageDraw.ImageDraw, cords: tuple, text: str, font: str, size: int
+    draw: ImageDraw.ImageDraw, color: tuple, cords: tuple, text: str, font: str, size: int
 ):
     """
     Draws multi-line text on the image.
@@ -145,7 +149,7 @@ def write_multiline_text(
     font = ImageFont.truetype(font, size)
 
     # Draw the multi-line text
-    draw.multiline_text(xy=cords, text=text, fill=(50, 47, 48), font=font, spacing=0)
+    draw.multiline_text(xy=cords, text=text, fill=color, font=font, spacing=0)
 
 
 def write_title(

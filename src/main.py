@@ -2,98 +2,131 @@ import pathlib
 from PIL import Image
 from PIL import ImageDraw
 import image
-import os 
+import os
+import argparse
 
-import utils 
+import utils
+import get_info
 
 # Get the current directory
 current_dictionary = pathlib.Path(__file__).parent.resolve()
 
-# Get the path of the image
-path = current_dictionary / "../assets/test2.png"
-id = 0
-name = "test"
-year = "2000"
-artist = "tim"
-duration = "1h"
-label = "label"
 
-# Get the lyrics of the song
-color = (50, 47, 48)
-music_lyrics = "a sample"
+def main(url, img_url, review, imdb_score=None, tomato_score=None):
+    # Create folder to save the poster image
+    utils.create_folder()
 
-# Open the banner image
-with Image.open(path) as banner:
-    size = (510, 510)
+    # Generate a unique filename for the poster image
+    output_dir = current_dictionary / "../images"
+    utils.delete_files_in_directory(output_dir)
+
+    doubaninfo = get_info.get_info_from_url(url)
+
+    path = current_dictionary / "../assets/bgimage.png"
+    utils.save_image_from_url(img_url, path)
+
+    id = 0
+    name = doubaninfo.title
+    tag = ""
+    year = doubaninfo.date
+    category = doubaninfo.category
+
+    # Get the lyrics of the song
+    color = (50, 47, 48)
+    if review is not None: 
+        music_lyrics = "短评 | " + review
+
+    # Open the banner image
+    banner = Image.open(path)
+    # banner = utils.resize_image(banner)
+    size = (1000, 1000)
     banner.thumbnail(size, Image.Resampling.LANCZOS)
 
-# Open the poster template image
-poster = utils.create_image(570, 870)
+    # Open the poster template image
+    poster = utils.create_image(1140, 1740)
 
-# Specify the region where you want to paste 'banner' onto 'background'
-left = 110
-top = 30
-right = left + banner.width
-bottom = top + banner.height
-box = (left, top, right, bottom)
+    # Specify the region where you want to paste 'banner' onto 'background'
+    left = 220
+    top = 60
+    utils.draw_on_poster(top, left, poster, banner)
 
-# Paste the banner image onto the poster
-poster.paste(banner, box)
+    font_regular = f"../fonts/cn/wenyi.ttf"
+    font_bold = f"../fonts/cn/wenyi.ttf"
+    font_light = f"../fonts/cn/wenyi.ttf"
 
-# Set font family and paths
-FONT_FAMILY = "Oswald"
+    # Create ImageDraw object for drawing on the poster
+    draw = ImageDraw.Draw(poster)
 
-# font_dir = pathlib.Path.resolve(current_dictionary / f"../fonts/{FONT_FAMILY}/")
+    # Draw the color palette on the poster
+    color_palette = image.draw_palette(draw, path, True)
 
-font_regular = f"../fonts/Oswald/{FONT_FAMILY}-Regular.ttf"
-font_bold = f"../fonts/Oswald/{FONT_FAMILY}-Bold.ttf"
-font_light = f"../fonts/Oswald/{FONT_FAMILY}-Light.ttf"
+    image.write_text(draw, color_palette[2], (60, 1204), name, font_bold, 50)
 
-# Create ImageDraw object for drawing on the poster
-draw = ImageDraw.Draw(poster)
+    image.write_text(draw, color_palette[2], (60, 1298), year, font_regular, 40)
 
-# Draw the color palette on the poster
-image.draw_palette(draw, path, True)
+    image.write_text(draw, color_palette[2], (60, 1350), category, font_regular, 40)
 
-# Write the title (song name and year) on the poster
-image.write_title(draw, (30, 602, 400, 637), name, year, font_bold, 40)
+    if review is not None: 
+        image.write_multiline_text(
+            draw, color_palette[2], (60, 1400), music_lyrics, font_light, 40
+        )
 
-# Write the artist name and duration on the poster
-image.write_text(draw, (30, 649), artist, font_regular, 30)
-image.write_text(draw, (496, 617), duration, font_regular, 20)
+    if doubaninfo.rate is not None:
+        svg_image = utils.create_badge("green", "douban", str(doubaninfo.rate))
+        # output_path = os.path.join(output_dir, "douban.png")
+        # svg_image.save(output_path)
+        left = 50
+        top = 1120
+        utils.draw_on_poster(top, left, poster, svg_image)
 
-# Write the lyrics on the poster
-image.write_multiline_text(draw, (30, 685), music_lyrics, font_light, 21)
+    if imdb_score is not None:
+        svg_image = utils.create_badge("yellow", "imdb", str(imdb_score))
+        # output_path = os.path.join(output_dir, "imdb.png")
+        # svg_image.save(output_path)
+        left = left + 300
+        top = 1120
+        utils.draw_on_poster(top, left, poster, svg_image)
 
-# Write the label information on the poster
-# image.write_text(
-#     draw,
-#     (545, 810),
-#     label[0],
-#     str(font_regular),
-#     13,
-#     anchor="rt",
-# )
+    if tomato_score is not None:
+        svg_image = utils.create_badge("red", "Rotten Tomato", str(tomato_score))
+        # output_path = os.path.join(output_dir, "imdb.png")
+        # svg_image.save(output_path)
+        left = left + 300
+        top = 1120
+        utils.draw_on_poster(top, left, poster, svg_image)
 
-# image.write_text(
-#     draw,
-#     (545, 825),
-#     label[1],
-#     str(font_regular),
-#     13,
-#     anchor="rt",
-# )
+    path = current_dictionary / "../assets/logo.png"
+    with Image.open(path) as banner:
+        size = (200, 200)
+        banner.thumbnail(size, Image.Resampling.LANCZOS)
+    left = 900
+    top = 1500
+    utils.draw_on_poster(top, left, poster, banner)
 
-# Create folder to save the poster image
-utils.create_folder()
+    formatted_date = utils.print_date_cn()
+    image.write_text(draw, color_palette[5], (20, 1600), formatted_date, font_bold, 80)
 
-# Generate a unique filename for the poster image
-output_dir = current_dictionary / "../images"
-utils.delete_files_in_directory(output_dir)
+    filename = f"{utils.create_filename(name, year)}_{utils.special_code()}"
+    output_path = os.path.join(output_dir, f"{filename}.png")
 
-filename = f"{utils.create_filename(name, artist)}_{utils.special_code()}"
-output_path = os.path.join(output_dir, f"{filename}.png")
+    # Save the poster image
+    poster.save(output_path, quality=100)
+    print(f"[☕] Image saved to {output_path}")
 
-# Save the poster image
-poster.save(output_path)
-print(f"[☕] Image saved to {output_path}")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Process URL and review with optional image parsing."
+    )
+    parser.add_argument("--url", type=str, help="URL string")
+    parser.add_argument("--review", type=str, help="Review string")
+    parser.add_argument("--imdb", type=str, help="imdb score")
+    parser.add_argument("--tomato", type=str, help="tomato score")
+    parser.add_argument("--img", type=str, help="URL string for image")
+
+    args = parser.parse_args()
+
+    if args.url is None:
+        args.url = "https://book.douban.com/subject/36480672/"
+
+    main(args.url, args.img, args.review, args.imdb, args.tomato)

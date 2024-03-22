@@ -1,0 +1,16 @@
+[
+    {
+        "web_url": "http://example.com",
+        "image_url": "http://example.com/image.jpg",
+        "imdb_score": 7.5,
+        "tomato_score": 85,
+        "review": "Great movie!"
+    },
+    {
+        "web_url": "http://anotherexample.com",
+        "image_url": "http://anotherexample.com/image.jpg",
+        "imdb_score": null,
+        "tomato_score": 76,
+        "review": "Good movie"
+    }
+]

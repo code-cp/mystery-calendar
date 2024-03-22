@@ -15,10 +15,16 @@ import os
 import datetime
 import pathlib
 from PIL import Image
+import locale
+from pybadges import badge
+from io import BytesIO
+import cairosvg
+import requests
 
 from rich import print
 from lingua import Language
 from lingua import LanguageDetectorBuilder
+
 
 def decide_font(text: str, weight: int):
     """
@@ -53,10 +59,25 @@ def decide_font(text: str, weight: int):
 
     return font
 
+
 def create_image(width, height):
     color = (255, 255, 255)
     image = Image.new("RGB", (width, height), color)
     return image
+
+
+def print_date_cn():
+    # Set the locale to Chinese
+    locale.setlocale(locale.LC_ALL, "zh_CN.UTF-8")
+
+    # Get the current date
+    current_date = datetime.datetime.now()
+
+    # Format and print the date
+    formatted_date = current_date.strftime("%m月%d日 | %A")
+    # print("Today's date in Chinese format:", formatted_date)
+    return formatted_date
+
 
 def delete_files_in_directory(directory):
     for filename in os.listdir(directory):
@@ -67,8 +88,8 @@ def delete_files_in_directory(directory):
                 print(f"{file_path} deleted successfully.")
         except Exception as e:
             print(f"Failed to delete {file_path}. Reason: {e}")
-            
-            
+
+
 def create_folder():
     """
     Creates a folder named 'images' if it doesn't exist.
@@ -83,7 +104,8 @@ def create_folder():
             "[bold underline turquoise4]../images[/bold underline turquoise4] "
             "outside of this directory for output."
         )
-        
+
+
 def special_code():
     """
     Generates a special code based on the current timestamp.
@@ -92,7 +114,8 @@ def special_code():
         int: The generated special code.
     """
     return ((int(datetime.datetime.now().timestamp()) % 10000) + 10000) % 10000
-        
+
+
 def create_filename(song, artist):
     """
     Creates a safe filename based on the song and artist names.
@@ -114,3 +137,61 @@ def create_filename(song, artist):
     )
     safe_text = re.sub(r"_{2,}", "_", safe_text)
     return safe_text[:255]
+
+
+def draw_on_poster(top, left, poster, banner):
+    right = left + banner.width
+    bottom = top + banner.height
+    box = (left, top, right, bottom)
+
+    # Paste the banner image onto the poster
+    poster.paste(banner, box)
+
+
+def create_badge(color, website, score):
+    svg_data = badge(
+        left_text=website, right_text=score, left_color=color, right_color="blue"
+    )
+    png_data = cairosvg.svg2png(bytestring=svg_data)
+    svg_image = Image.open(BytesIO(png_data))
+
+    scale = 3
+    new_size = (svg_image.width * scale, svg_image.height * scale)
+    svg_image = svg_image.resize(new_size)
+    return svg_image
+
+def resize_image(img, max_size=1000):
+    # Get the dimensions
+    width, height = img.size
+    
+    # Calculate the aspect ratio
+    aspect_ratio = width / height
+    
+    # Calculate the new dimensions
+    if width > height:
+        new_width = max_size
+        new_height = int(max_size / aspect_ratio)
+    else:
+        new_height = max_size
+        new_width = int(max_size * aspect_ratio)
+    
+    # Resize the image
+    resized_img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+    
+    return resized_img
+
+def save_image_from_url(url, save_path):
+    try:
+        # Send a GET request to the URL to fetch the image
+        response = requests.get(url)
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Open the image using PIL
+            img = Image.open(BytesIO(response.content))
+            # Save the image to the specified path
+            img.save(save_path)
+            print("Image saved successfully at:", save_path)
+        else:
+            print("Failed to download image. Status code:", response.status_code)
+    except Exception as e:
+        print("An error occurred:", e)
