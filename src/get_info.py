@@ -29,14 +29,19 @@ def format_date(date_str):
     formatted_date = date_obj.strftime('%Y年%m月')
     return formatted_date
 
-def get_info_from_url(url):
+def get_info_from_url(url, download_image_from_douban=False):
     info = DoubanInfo(url)
 
     if "movie" in url:
-        doubaninfo = movie_spider.MovieInfo(url)
+        doubaninfo = movie_spider.MovieInfo(url, download_image=download_image_from_douban)
     else:
-        doubaninfo = book_spider.BookInfo(url)
+        doubaninfo = book_spider.BookInfo(url, download_image=download_image_from_douban)
         info.is_movie = False 
+
+    output_path = current_dictionary / "../assets/bgimage.png"
+    if download_image_from_douban:
+        image = Image.open(BytesIO(doubaninfo.bgimg_content))
+        image.save(output_path)
 
     if info.is_movie: 
         info.date = doubaninfo.describe['date'][0]

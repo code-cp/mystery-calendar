@@ -7,7 +7,7 @@ import re
 
 class BookInfo:
 
-    def __init__(self, url, show_detail_error=False):
+    def __init__(self, url, download_image=False, show_detail_error=False):
 
         self._UserAgents = [
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
@@ -23,7 +23,8 @@ class BookInfo:
 
         self.get_title()
         self.get_describe()
-        # self.get_bgimg_content()
+        if download_image:
+            self.get_bgimg_content()
         self.get_rate_star()
 
     def check_url(self):

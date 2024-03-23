@@ -13,18 +13,21 @@ import data
 current_dictionary = pathlib.Path(__file__).parent.resolve()
 
 
-def main(url, img_url, review, imdb_score=None, tomato_score=None):
+def main(url, img_url, review, imdb_score=None, tomato_score=None, delete_images=False):
     # Create folder to save the poster image
     utils.create_folder()
 
     # Generate a unique filename for the poster image
     output_dir = current_dictionary / "../images"
-    utils.delete_files_in_directory(output_dir)
+    if delete_images:
+        utils.delete_files_in_directory(output_dir)
 
-    doubaninfo = get_info.get_info_from_url(url)
+    download_image_from_douban = True if img_url is None else False 
+    doubaninfo = get_info.get_info_from_url(url, download_image_from_douban)
 
     path = current_dictionary / "../assets/bgimage.png"
-    utils.save_image_from_url(img_url, path)
+    if not download_image_from_douban:
+        utils.save_image_from_url(img_url, path)
 
     id = 0
     name = doubaninfo.title
@@ -39,9 +42,13 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
 
     # Open the banner image
     banner = Image.open(path)
-    # banner = utils.resize_image(banner)
-    size = (1000, 1000)
-    banner.thumbnail(size, Image.Resampling.LANCZOS)
+    default_size = 1000 
+    width, height = banner.size
+    if min(width, height) < default_size: 
+        banner = utils.resize_image(banner)
+    else:
+        size = (default_size, default_size)
+        banner.thumbnail(size, Image.Resampling.LANCZOS)
 
     # Open the poster template image
     poster = utils.create_image(1140, 1740)
@@ -118,6 +125,7 @@ def main(url, img_url, review, imdb_score=None, tomato_score=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Load data from database.")
     parser.add_argument("--random", action="store_true", help="Load a random entry")
+    parser.add_argument("--delete", action="store_true", help="Delete the images")
     args = parser.parse_args()
 
     entry = data.load_one_entry(args.random)
@@ -128,4 +136,5 @@ if __name__ == "__main__":
         entry.get('review'),
         entry.get("imdb_score"),
         entry.get("tomato_score"),
+        args.delete, 
     )
