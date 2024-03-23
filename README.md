@@ -1,1 +1,1 @@
-<img src="./images/daily.png" alt="daily" width="80%"/>
+<img src="./images/daily.png" alt="daily" width="60%"/>
