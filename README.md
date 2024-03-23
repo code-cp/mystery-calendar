@@ -1,3 +1,1 @@
-## 波罗咖啡馆推理日历
-
-![img](./images/千与千寻_by_出版_2021年06月_7003.png)
+![img](./images/daily.png)
