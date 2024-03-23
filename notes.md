@@ -15,3 +15,4 @@ pip install Pillow cairosvg
 - https://blog.waterlemons2k.com/Manual-Run-Github-Actions/
 - https://stackoverflow.com/a/74533413/8519188
 - https://apps.apple.com/us/app/web-widget-webpage-screenshot/id1561605396
+- https://crontab.guru/
