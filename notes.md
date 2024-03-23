@@ -7,3 +7,5 @@
 - https://apps.apple.com/us/app/web-widget-webpage-screenshot/id1561605396
 - https://crontab.guru/
 - https://www.python-engineer.com/posts/run-python-github-actions/
+- https://github.com/lxgw/LxgwWenKai
+- https://github.com/okuRaku/random-jisho-word-widget/tree/main
