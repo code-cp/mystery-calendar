@@ -181,6 +181,7 @@ def resize_image(img, max_size=1000):
     return resized_img
 
 def save_image_from_url(url, save_path):
+    successful = False 
     try:
         # Send a GET request to the URL to fetch the image
         response = requests.get(url)
@@ -191,7 +192,9 @@ def save_image_from_url(url, save_path):
             # Save the image to the specified path
             img.save(save_path)
             print("Image saved successfully at:", save_path)
+            successful = True 
         else:
             print("Failed to download image. Status code:", response.status_code)
     except Exception as e:
         print("An error occurred:", e)
+    return successful 

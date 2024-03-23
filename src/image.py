@@ -5,18 +5,17 @@ Dependicies:
     1. PIL: Image Processing
     2. color: Extract color palette
 """
-
+from typing import * 
 import pathlib
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
-import color
 
 # Get the current dictionary path
 path_to_current_dictionary = pathlib.Path(__file__).parent.resolve()
 
 
-def draw_palette(draw: ImageDraw.ImageDraw, image_path: str, accent: bool):
+def draw_palette(draw: ImageDraw.ImageDraw, image_path: str, color: List[Any]):
     """
     Draws the color palette on the image.
 
@@ -25,22 +24,13 @@ def draw_palette(draw: ImageDraw.ImageDraw, image_path: str, accent: bool):
         image_path (str): The path of the image file.
         accent (bool): Flag indicating whether to highlight the accent color.
     """
-
-    # Get the color palette from the image
-    color_palette = color.get_color_palette(image_path)
-
     # Draw rectangles for each color in the palette
     # for i in range(6):
     #     start, end = 170 * i, 170 * (i + 1)
     #     draw.rectangle(((60 + start, 1120), (60 + end, 1160)), fill=color_palette[i])
 
-    # Optionally draw a rectangle to highlight the accent color
-    if accent:
-        # draw.rectangle(((0, 1720), (1140, 1740)), fill=color_palette[5])
-        draw.rectangle(((60, 1080), (1140, 1100)), fill=color_palette[5])
-        
-    return color_palette 
-
+    # draw.rectangle(((0, 1720), (1140, 1740)), fill=color_palette[5])
+    draw.rectangle(((60, 1080), (1140, 1100)), fill=color)
 
 def crop_to_square(image_path: str, save_path: str):
     """
