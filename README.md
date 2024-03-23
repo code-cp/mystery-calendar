@@ -1,10 +1,3 @@
-## dependency 
+## 波罗咖啡馆推理日历
 
-```
-pip install pybadges
-pip install Pillow cairosvg
-```
-
-## ref 
-
-- https://github.com/lizheming/doumark-action
+![img](./images/千与千寻_by_出版_2021年06月_7003.png)
