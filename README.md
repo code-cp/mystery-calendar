@@ -1,1 +1,1 @@
-![img](./images/daily.png)
+<img src="./images/daily.png" alt="daily" width="80%"/>

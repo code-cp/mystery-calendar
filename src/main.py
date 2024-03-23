@@ -106,14 +106,10 @@ def main():
     formatted_date = utils.print_date_cn()
     image.write_text(draw, doubaninfo.color[1], (20, 1600), formatted_date, font_bold, 80)
 
-    # filename = f"{utils.create_filename(doubaninfo.title, doubaninfo.date)}_{utils.special_code()}"
+    filename = f"{utils.create_filename(doubaninfo.title, doubaninfo.date)}_{utils.special_code()}"
+    utils.save_image_with_filename(poster, filename)
     filename = "daily"
-    output_path = os.path.join(output_dir, f"{filename}.png")
-
-    # Save the poster image
-    poster.save(output_path, quality=100)
-    print(f"[☕] Image saved to {output_path}")
-
+    utils.save_image_with_filename(poster, filename)
 
 if __name__ == "__main__":
     main()

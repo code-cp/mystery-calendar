@@ -198,3 +198,10 @@ def save_image_from_url(url, save_path):
     except Exception as e:
         print("An error occurred:", e)
     return successful 
+
+def save_image_with_filename(img, filename):
+    output_path = os.path.join(output_dir, f"{filename}.png")
+    # Save the poster image
+    img.save(output_path, quality=100)
+    # print(f"[☕] Image saved to {output_path}") 
+    
