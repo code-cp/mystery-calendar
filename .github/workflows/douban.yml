@@ -23,7 +23,7 @@ jobs:
     - name: book
       uses: lizheming/doumark-action@master
       with:
-        id: lizheming
+        id: sholmes
         type: book
         format: json
         dir: ./data/douban
