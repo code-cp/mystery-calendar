@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot
+- https://blog.waterlemons2k.com/Manual-Run-Github-Actions/

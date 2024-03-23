@@ -16,7 +16,7 @@ jobs:
     - name: movie
       uses: lizheming/doumark-action@master
       with:
-        id: sholmes
+        id: sholmes1412
         type: movie
         format: json
         dir: ./data/douban
@@ -24,7 +24,7 @@ jobs:
     - name: book
       uses: lizheming/doumark-action@master
       with:
-        id: sholmes
+        id: sholmes1412
         type: book
         format: json
         dir: ./data/douban
