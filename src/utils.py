@@ -67,9 +67,10 @@ def create_image(width, height):
 
 
 def print_date_cn():
-    # Set the locale to Chinese
-    # locale.setlocale(locale.LC_ALL, "zh_CN.UTF-8")
-    locale.setlocale(locale.LC_ALL, "en_US.UTF-8")
+    # locale_format = "zh_CN.UTF-8"
+    # locale_format = "en_US.UTF-8"
+    locale_format = "ja_JP.UTF-8"
+    locale.setlocale(locale.LC_ALL, locale_format)
 
     # Get the current date
     current_date = datetime.datetime.now()
