@@ -7,7 +7,7 @@ import argparse
 
 import utils
 import data
-import config 
+import config
 
 # Get the current directory
 current_dictionary = pathlib.Path(__file__).parent.resolve()
@@ -15,7 +15,7 @@ current_dictionary = pathlib.Path(__file__).parent.resolve()
 
 def main():
     doubaninfo = data.load_one_entry()
-    
+
     # Create folder to save the poster image
     utils.create_folder()
 
@@ -26,17 +26,17 @@ def main():
 
     path = current_dictionary / "../assets/bgimage.png"
     successful = utils.save_image_from_url(doubaninfo.img_url, path)
-    if not successful: 
-       path = current_dictionary / "../assets/logo.png" 
+    if not successful:
+        path = current_dictionary / "../assets/logo.png"
 
     # Get the lyrics of the song
     color = (50, 47, 48)
 
     # Open the banner image
     banner = Image.open(path)
-    default_size = 1000 
+    default_size = 1000
     width, height = banner.size
-    if min(width, height) < default_size: 
+    if min(width, height) < default_size:
         banner = utils.resize_image(banner)
     else:
         size = (default_size, default_size)
@@ -50,9 +50,9 @@ def main():
     top = 60
     utils.draw_on_poster(top, left, poster, banner)
 
-    font_regular = f"../fonts/cn/wenyi.ttf"
-    font_bold = f"../fonts/cn/wenyi.ttf"
-    font_light = f"../fonts/cn/wenyi.ttf"
+    font_regular = f"../fonts/cn/LXGWWenKai-Regular.ttf"
+    font_bold = f"../fonts/cn/LXGWWenKai-Bold.ttf"
+    font_light = f"../fonts/cn/LXGWWenKai-Light.ttf"
 
     # Create ImageDraw object for drawing on the poster
     draw = ImageDraw.Draw(poster)
@@ -60,11 +60,17 @@ def main():
     # Draw the color palette on the poster
     image.draw_palette(draw, path, doubaninfo.color[0])
 
-    image.write_text(draw, doubaninfo.color[1], (60, 1204), doubaninfo.title, font_bold, 50)
+    image.write_text(
+        draw, doubaninfo.color[1], (60, 1204), doubaninfo.title, font_bold, 50
+    )
 
-    image.write_text(draw, doubaninfo.color[1], (60, 1298), doubaninfo.date, font_regular, 40)
+    image.write_text(
+        draw, doubaninfo.color[1], (60, 1298), doubaninfo.date, font_regular, 40
+    )
 
-    image.write_text(draw, doubaninfo.color[1], (60, 1350), doubaninfo.category, font_regular, 40)
+    image.write_text(
+        draw, doubaninfo.color[1], (60, 1350), doubaninfo.category, font_regular, 40
+    )
 
     if doubaninfo.review is not None:
         image.write_multiline_text(
@@ -104,12 +110,15 @@ def main():
     utils.draw_on_poster(top, left, poster, banner)
 
     formatted_date = utils.print_date_cn()
-    image.write_text(draw, doubaninfo.color[1], (20, 1600), formatted_date, font_bold, 80)
+    image.write_text(
+        draw, doubaninfo.color[1], (20, 1600), formatted_date, font_bold, 80
+    )
 
     # filename = f"{utils.create_filename(doubaninfo.title, doubaninfo.date)}_{utils.special_code()}"
     # utils.save_image_with_filename(poster, output_dir, filename)
     filename = "daily"
     utils.save_image_with_filename(poster, output_dir, filename)
+
 
 if __name__ == "__main__":
     main()

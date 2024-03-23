@@ -65,11 +65,24 @@ def create_image(width, height):
     image = Image.new("RGB", (width, height), color)
     return image
 
+def convert_to_japanese(day):
+    days_dict = {
+        "Monday": "月曜日",
+        "Tuesday": "火曜日",
+        "Wednesday": "水曜日",
+        "Thursday": "木曜日",
+        "Friday": "金曜日",
+        "Saturday": "土曜日",
+        "Sunday": "日曜日"
+    }
+
+    return days_dict.get(day, "Invalid day")
 
 def print_date_cn():
+    # do not work on github action 
     # locale_format = "zh_CN.UTF-8"
-    # locale_format = "en_US.UTF-8"
-    locale_format = "ja_JP.UTF-8"
+    # locale_format = "ja_JP.UTF-8"
+    locale_format = "en_US.UTF-8"
     locale.setlocale(locale.LC_ALL, locale_format)
 
     # Get the current date
@@ -77,7 +90,10 @@ def print_date_cn():
 
     # Format and print the date
     formatted_date = current_date.strftime("%m月%d日 | %A")
-    # print("Today's date in Chinese format:", formatted_date)
+
+    formatted_date = formatted_date.split("|")
+    formatted_date = formatted_date[0] + " | " + convert_to_japanese(formatted_date[1].strip())
+    
     return formatted_date
 
 

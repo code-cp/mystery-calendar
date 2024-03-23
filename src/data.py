@@ -28,13 +28,7 @@ current_dictionary = pathlib.Path(__file__).parent.resolve()
 
 
 def format_date(date_str):
-    date_str = date_str.split("(")[0]
-    try:
-        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
-    except:
-        date_obj = datetime.strptime(date_str, "%Y-%m")
-    # Format the datetime object to the desired format
-    formatted_date = date_obj.strftime("%Y年%m月")
+    formatted_date = date_str.split("(")[0]
     return formatted_date
 
 
@@ -60,7 +54,7 @@ def load_one_entry():
     review = entry.get("comment")
     review = None if len(review) == 0 else review
     if review is not None:
-        if len(review) > 100:
+        if len(review) > 50:
             # too long
             review = None
         else:
@@ -70,14 +64,18 @@ def load_one_entry():
 
     genres = entry.get("subject").get("genres")
 
-    date = entry.get("subject").get("pubdate")[0]
+    date = entry.get("subject").get("pubdate")
+    date = date[0] if isinstance(date, list) else date 
+
+    author = entry.get("subject").get("author")
+    author = author[0] if isinstance(author, list) else author
 
     if my_type == "movie":
         date = "上映 | " + format_date(date)
         category = "类型 | " + " / ".join(genres)
     else:
         date = "出版 | " + format_date(date)
-        category = "作者 | " + entry.get("subject").get("author")[0]
+        category = "作者 | " + author 
 
     def convert_color(color):
         return tuple([int(c * 255) for c in color])
