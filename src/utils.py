@@ -68,7 +68,8 @@ def create_image(width, height):
 
 def print_date_cn():
     # Set the locale to Chinese
-    locale.setlocale(locale.LC_ALL, "zh_CN.UTF-8")
+    # locale.setlocale(locale.LC_ALL, "zh_CN.UTF-8")
+    locale.setlocale(locale.LC_ALL, "en_US.UTF-8")
 
     # Get the current date
     current_date = datetime.datetime.now()
@@ -160,13 +161,14 @@ def create_badge(color, website, score):
     svg_image = svg_image.resize(new_size)
     return svg_image
 
+
 def resize_image(img, max_size=1000):
     # Get the dimensions
     width, height = img.size
-    
+
     # Calculate the aspect ratio
     aspect_ratio = width / height
-    
+
     # Calculate the new dimensions
     if width > height:
         new_width = max_size
@@ -174,14 +176,15 @@ def resize_image(img, max_size=1000):
     else:
         new_height = max_size
         new_width = int(max_size * aspect_ratio)
-    
+
     # Resize the image
     resized_img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
-    
+
     return resized_img
 
+
 def save_image_from_url(url, save_path):
-    successful = False 
+    successful = False
     try:
         # Send a GET request to the URL to fetch the image
         response = requests.get(url)
@@ -192,16 +195,16 @@ def save_image_from_url(url, save_path):
             # Save the image to the specified path
             img.save(save_path)
             print("Image saved successfully at:", save_path)
-            successful = True 
+            successful = True
         else:
             print("Failed to download image. Status code:", response.status_code)
     except Exception as e:
         print("An error occurred:", e)
-    return successful 
+    return successful
 
-def save_image_with_filename(img, filename):
+
+def save_image_with_filename(img, output_dir, filename):
     output_path = os.path.join(output_dir, f"{filename}.png")
     # Save the poster image
     img.save(output_path, quality=100)
-    # print(f"[☕] Image saved to {output_path}") 
-    
+    # print(f"[☕] Image saved to {output_path}")
