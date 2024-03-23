@@ -106,7 +106,8 @@ def main():
     formatted_date = utils.print_date_cn()
     image.write_text(draw, doubaninfo.color[1], (20, 1600), formatted_date, font_bold, 80)
 
-    filename = f"{utils.create_filename(doubaninfo.title, doubaninfo.date)}_{utils.special_code()}"
+    # filename = f"{utils.create_filename(doubaninfo.title, doubaninfo.date)}_{utils.special_code()}"
+    filename = "daily"
     output_path = os.path.join(output_dir, f"{filename}.png")
 
     # Save the poster image
