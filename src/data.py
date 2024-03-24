@@ -55,7 +55,9 @@ def load_one_entry():
         if is_movie: 
             sentence = entry.get("subject").get("genres")
         else: 
-            sentence = entry.get("subject").get("intro") 
+            tags = entry.get("subject").get("tags")
+            tags = "".join(tags) if len(tags) > 0 else ""
+            sentence = tags + entry.get("subject").get("intro") 
         if check_word_in_sentence(words, sentence): 
             break 
 
