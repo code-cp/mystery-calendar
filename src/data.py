@@ -31,18 +31,34 @@ def format_date(date_str):
     formatted_date = date_str.split("(")[0]
     return formatted_date
 
+def check_word_in_sentence(word_list, sentence):
+    for word in word_list:
+        if word in sentence:
+            return True
+    return False
+
 
 def load_one_entry():
     file_path = current_dictionary / "../data/douban/"  # Path to your JSON file
 
     my_type = "movie" if random.random() < 0.5 else "book"
+    is_movie = True if my_type == "movie" else False 
     file_path = file_path / f"{my_type}.json"
 
     with open(file_path, "r") as file:
         json_data = json.load(file)
 
-    idx = random.randint(0, len(json_data) - 1)
-    entry = json_data[idx]
+    while True: 
+        idx = random.randint(0, len(json_data) - 1)
+        entry = json_data[idx]
+        words = ["悬疑", "推理", "侦探", "犯罪", "crime", "mystery", "detective"]
+        if is_movie: 
+            sentence = entry.get("subject").get("genres")
+        else: 
+            sentence = entry.get("subject").get("intro") 
+        if check_word_in_sentence(words, sentence): 
+            break 
+
 
     idx = entry.get("id")
 
@@ -70,7 +86,7 @@ def load_one_entry():
     author = entry.get("subject").get("author")
     author = author[0] if isinstance(author, list) else author
 
-    if my_type == "movie":
+    if is_movie:
         date = "上映 | " + format_date(date)
         category = "类型 | " + " / ".join(genres)
     else:
