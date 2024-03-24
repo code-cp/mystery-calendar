@@ -65,6 +65,7 @@ def create_image(width, height):
     image = Image.new("RGB", (width, height), color)
     return image
 
+
 def convert_to_japanese(day):
     days_dict = {
         "Monday": "月曜日",
@@ -73,13 +74,14 @@ def convert_to_japanese(day):
         "Thursday": "木曜日",
         "Friday": "金曜日",
         "Saturday": "土曜日",
-        "Sunday": "日曜日"
+        "Sunday": "日曜日",
     }
 
     return days_dict.get(day, "Invalid day")
 
+
 def print_date_cn():
-    # do not work on github action 
+    # do not work on github action
     # locale_format = "zh_CN.UTF-8"
     # locale_format = "ja_JP.UTF-8"
     locale_format = "en_US.UTF-8"
@@ -92,8 +94,10 @@ def print_date_cn():
     formatted_date = current_date.strftime("%m月%d日 | %A")
 
     formatted_date = formatted_date.split("|")
-    formatted_date = formatted_date[0] + " | " + convert_to_japanese(formatted_date[1].strip())
-    
+    formatted_date = (
+        formatted_date[0] + " | " + convert_to_japanese(formatted_date[1].strip())
+    )
+
     return formatted_date
 
 
@@ -202,9 +206,10 @@ def resize_image(img, max_size=1000):
 
 def save_image_from_url(url, save_path):
     successful = False
+    timeout_seconds = 30
     try:
         # Send a GET request to the URL to fetch the image
-        response = requests.get(url)
+        response = requests.get(url, timeout=timeout_seconds)
         # Check if the request was successful (status code 200)
         if response.status_code == 200:
             # Open the image using PIL
