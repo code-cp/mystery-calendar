@@ -1,6 +1,7 @@
 ## about 
 
 - website https://code-cp.github.io/mystery-calendar/
+- [Glimpse 2 widget](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/glimpse-2/id1524217845&ved=2ahUKEwiD5Li4-IuFAxXsSGwGHaqcCYQQFnoECBwQAQ&usg=AOvVaw33qq7_1SHx4By3TY4btWFS) 
 
 ## resources 
 
