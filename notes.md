@@ -1,3 +1,7 @@
+## about 
+
+- website https://code-cp.github.io/mystery-calendar/
+
 ## resources 
 
 - https://github.com/lizheming/doumark-action
