@@ -3,7 +3,7 @@ name: run-main
 on:
   workflow_dispatch:
   schedule:
-    - cron: '1 * * * *' 
+    - cron: "35 1 * * *" 
 
 jobs:
   build:
