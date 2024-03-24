@@ -5,7 +5,7 @@ on:
   # push:
   schedule:
     # - cron: "10 0 * * *" 
-    - cron: "*/5 * * * *"
+    - cron: "5 */12 * * *"
   
 jobs:
   build:
