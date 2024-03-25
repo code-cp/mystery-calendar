@@ -56,7 +56,7 @@ def load_one_entry():
             sentence = entry.get("subject").get("genres")
         else: 
             tags = entry.get("subject").get("tags")
-            tags = "".join(tags) if len(tags) > 0 else ""
+            tags = "".join(tags) if tags is not None else ""
             sentence = tags + entry.get("subject").get("intro") 
         if check_word_in_sentence(words, sentence): 
             break 

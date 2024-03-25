@@ -2,7 +2,7 @@ name: run-main
 
 on:
   # workflow_dispatch:
-  # push:
+  push:
   schedule:
     # - cron: "10 0 * * *" 
     - cron: "5 */12 * * *"
