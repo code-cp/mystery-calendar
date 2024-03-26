@@ -206,7 +206,7 @@ def resize_image(img, max_size=1000):
 
 def save_image_from_url(url, save_path):
     successful = False
-    timeout_seconds = 30
+    timeout_seconds = 300
     try:
         # Send a GET request to the URL to fetch the image
         response = requests.get(url, timeout=timeout_seconds)
