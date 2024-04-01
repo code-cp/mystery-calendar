@@ -20,7 +20,8 @@ jobs:
       with:
         id: sholmes1412
         type: movie
-        status: mark 
+        # status: mark 
+        status: done 
         format: json
         dir: ./data/douban
 
@@ -29,7 +30,8 @@ jobs:
       with:
         id: sholmes1412
         type: book
-        status: mark 
+        # status: mark 
+        status: done  
         format: json
         dir: ./data/douban
   
