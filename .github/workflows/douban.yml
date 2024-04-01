@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
   schedule:    
-  - cron: "10 1 1 * *" # Every month 
+  # - cron: "10 1 1 * *" # Every month 
+  - cron: "5 */12 * * 1"
 
 jobs:
   douban:
