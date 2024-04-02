@@ -15,3 +15,4 @@
 - https://github.com/lxgw/LxgwWenKai
 - https://github.com/okuRaku/random-jisho-word-widget/tree/main
 - https://jasonet.co/posts/scheduled-actions/
+- https://github.com/sun0225SUN/douban-poster

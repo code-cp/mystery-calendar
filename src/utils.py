@@ -207,9 +207,19 @@ def resize_image(img, max_size=1000):
 def save_image_from_url(url, save_path):
     successful = False
     timeout_seconds = 300
+
+    agents = [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0",
+    ]
+    headers = {"user-agent": random.choice(agents)}
+
     try:
         # Send a GET request to the URL to fetch the image
-        response = requests.get(url, timeout=timeout_seconds)
+        response = requests.get(url, timeout=timeout_seconds, headers=headers)
         # Check if the request was successful (status code 200)
         if response.status_code == 200:
             # Open the image using PIL
