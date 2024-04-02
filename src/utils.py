@@ -20,6 +20,7 @@ from pybadges import badge
 from io import BytesIO
 import cairosvg
 import requests
+import random
 
 from rich import print
 from lingua import Language
