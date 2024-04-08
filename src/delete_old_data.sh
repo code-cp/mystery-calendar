@@ -14,7 +14,7 @@ if [ ! -d "$folder_path" ]; then
     exit 1
 fi
 
-# Delete all files in the folder
-find "$folder_path" -type f -delete
+# Delete all JSON files in the folder
+find "$folder_path" -type f -name "*.json" -delete
 
-echo "All files in '$folder_path' have been deleted."
+echo "All JSON files in '$folder_path' have been deleted."
