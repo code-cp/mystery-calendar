@@ -18,8 +18,7 @@ jobs:
     # delete the old files 
     - name: execute py script # run main.py
       run: |
-          cd src/ 
-          ./delete_old_data.py
+        ./src/delete_old_data.sh ./data/douban/
 
     - name: movie
       uses: lizheming/doumark-action@master
