@@ -15,6 +15,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
+    # delete the old files 
+    - name: execute py script # run main.py
+      run: |
+          cd src/ 
+          ./delete_old_data.py
+
     - name: movie
       uses: lizheming/doumark-action@master
       with:
