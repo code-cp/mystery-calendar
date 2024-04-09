@@ -27,7 +27,7 @@ def main():
     path = current_dictionary / "../assets/bgimage.png"
     successful = utils.save_image_from_url(doubaninfo.img_url, path)
     if not successful:
-        path = current_dictionary / "../assets/logo.png"
+        path = current_dictionary / "../assets/conan.png"
 
     # Get the lyrics of the song
     color = (50, 47, 48)
