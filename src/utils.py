@@ -220,11 +220,14 @@ def save_image_from_url(url, save_path):
 
     try:
         # Send a GET request to the URL to fetch the image
-        response = requests.get(url, timeout=timeout_seconds, headers=headers)
+        response = requests.get(
+            url, timeout=timeout_seconds, headers=headers, stream=True
+        )
         # Check if the request was successful (status code 200)
         if response.status_code == 200:
             # Open the image using PIL
-            img = Image.open(BytesIO(response.content))
+            output = BytesIO(response.content)
+            img = Image.open(output)
             # Save the image to the specified path
             img.save(save_path)
             print("Image saved successfully at:", save_path)
