@@ -4,6 +4,92 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/36284269/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36284269/interest/4181231322",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-06 20:23:59",
+		"status": "done",
+		"id": 4181231322,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 295,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.6
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-3"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34674768.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34674768.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 8,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+			],
+			"card_subtitle": "高罗佩 / 2023 / 现代出版社",
+			"book_subtitle": "",
+			"id": "36284269",
+			"author": [
+				"高罗佩"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "723826",
+				"_base_color": [
+					0.03921568627450981,
+					0.6623376623376623,
+					0.30196078431372547
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.07175925925925923,
+					0.6101694915254237,
+					0.4627450980392157
+				],
+				"primary_color_dark": "4c2519"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36284269.jpg",
+			"min_sale_price": null,
+			"press": [
+				"现代出版社"
+			],
+			"pages": [
+				"2352"
+			],
+			"sharing_url": "https://book.douban.com/subject/36284269/",
+			"url": "https://book.douban.com/subject/36284269/",
+			"title": "大唐狄公案",
+			"uri": "douban://douban.com/book/36284269",
+			"subtype": "book",
+			"intro": "《大唐狄公案》是荷兰外交官、汉学家、小说家高罗佩历时十八年时间写成的名著。全书以中国唐朝名臣狄仁杰为主人公，讲述其为官断案、与民除害的传奇经历。全书探案情节波诡云谲，谜底判决令人深思，细微之处考证详实，既描写了一身正气的狄仁杰形象，又勾勒了盛唐时期的风情画卷。这部巨著已被译成多国语言，深受各国读者好评，数十年长盛不衰。全套包含14部中长篇、2部中篇、8部短篇，按案件发生地理位置分为6册，分别为《蓬莱篇》《汉源篇》《浦阳篇上》《浦阳篇下》《栏坊篇》与《四方篇》。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 2,
 			"value": 2
 		},
@@ -186,7 +272,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1598,
+				"count": 1599,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -610,7 +696,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 406,
+				"count": 407,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -696,7 +782,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1667,
+				"count": 1668,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -783,7 +869,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1967,
+				"count": 1970,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -870,7 +956,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2530,
+				"count": 2531,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -1209,7 +1295,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1915,
+				"count": 1916,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1378,7 +1464,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 723,
+				"count": 726,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1391,14 +1477,7 @@
 				"large": "https://img1.doubanio.com/view/subject/l/public/s34754118.jpg",
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34754118.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECHU5PTUY?type=rank&category=book&rank_type=weekly",
-					"rank": 10,
-					"title": "悬疑推理小说一周热门榜"
-				}
-			],
+			"honor_infos": [],
 			"other_versions_count": 15,
 			"is_show": false,
 			"vendor_icons": [
@@ -1553,7 +1632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9288,
+				"count": 9289,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1645,7 +1724,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26172,
+				"count": 26177,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1738,7 +1817,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2953,
+				"count": 2958,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -1926,7 +2005,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8640,
+				"count": 8641,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2021,7 +2100,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2685,
+				"count": 2686,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2187,7 +2266,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 301821,
+				"count": 301838,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2607,7 +2686,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1480,
+				"count": 1481,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2706,7 +2785,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2000,
+				"count": 2002,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -3056,7 +3135,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16478,
+				"count": 16492,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -3146,7 +3225,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15751,
+				"count": 15765,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -3735,7 +3814,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 166,
+				"count": 167,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -3984,7 +4063,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22120,
+				"count": 22125,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4248,7 +4327,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4168,
+				"count": 4167,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -4904,7 +4983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2492,
+				"count": 2493,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -5408,7 +5487,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2096,
+				"count": 2097,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5596,7 +5675,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 296,
+				"count": 297,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5771,7 +5850,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 563,
+				"count": 564,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -6117,7 +6196,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18503,
+				"count": 18524,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -6375,7 +6454,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19251,
+				"count": 19257,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6544,7 +6623,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4923,
+				"count": 4924,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -6888,7 +6967,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 780,
+				"count": 781,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -7057,7 +7136,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1002,
+				"count": 1005,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -7307,7 +7386,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 337898,
+				"count": 337915,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -8443,7 +8522,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49352,
+				"count": 49370,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -8726,7 +8805,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16682,
+				"count": 16689,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -8994,7 +9073,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18629,
+				"count": 18630,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -9087,7 +9166,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 132857,
+				"count": 132863,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9181,7 +9260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7776,
+				"count": 7779,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -9443,7 +9522,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18121,
+				"count": 18123,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -10347,7 +10426,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2460,
+				"count": 2462,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -10608,7 +10687,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98522,
+				"count": 98539,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -10783,7 +10862,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12583,
+				"count": 12584,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
