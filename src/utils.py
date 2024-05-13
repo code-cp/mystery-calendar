@@ -189,15 +189,11 @@ def resize_image(img, max_size=1000):
     width, height = img.size
 
     # Calculate the aspect ratio
-    aspect_ratio = width / height
+    aspect_ratio = 428 / 623
 
     # Calculate the new dimensions
-    if width > height:
-        new_width = max_size
-        new_height = int(max_size / aspect_ratio)
-    else:
-        new_height = max_size
-        new_width = int(max_size * aspect_ratio)
+    new_height = max_size
+    new_width = int(max_size * aspect_ratio)
 
     # Resize the image
     resized_img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)

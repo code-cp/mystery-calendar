@@ -31,6 +31,7 @@ def format_date(date_str):
     formatted_date = date_str.split("(")[0]
     return formatted_date
 
+
 def check_word_in_sentence(word_list, sentence):
     for word in word_list:
         if word in sentence:
@@ -38,29 +39,58 @@ def check_word_in_sentence(word_list, sentence):
     return False
 
 
+def is_mystery_type(is_movie, entry):
+    words = ["悬疑", "推理", "侦探", "犯罪", "crime", "mystery", "detective"]
+    if is_movie:
+        sentence = entry.get("subject").get("genres")
+    else:
+        tags = entry.get("subject").get("tags")
+        tags = "".join(tags) if tags is not None else ""
+        sentence = tags + entry.get("subject").get("intro")
+
+    return check_word_in_sentence(words, sentence)
+
+
 def load_one_entry():
-    file_path = current_dictionary / "../data/douban/"  # Path to your JSON file
+    database_file_path = current_dictionary / "../data/douban/"
 
     my_type = "movie" if random.random() < 0.5 else "book"
-    is_movie = True if my_type == "movie" else False 
-    file_path = file_path / f"{my_type}.json"
+    is_movie = True if my_type == "movie" else False
+    database_file_path = database_file_path / f"{my_type}.json"
 
-    with open(file_path, "r") as file:
-        json_data = json.load(file)
+    with open(database_file_path, "r") as file:
+        database = json.load(file)
 
-    while True: 
-        idx = random.randint(0, len(json_data) - 1)
-        entry = json_data[idx]
-        words = ["悬疑", "推理", "侦探", "犯罪", "crime", "mystery", "detective"]
-        if is_movie: 
-            sentence = entry.get("subject").get("genres")
-        else: 
-            tags = entry.get("subject").get("tags")
-            tags = "".join(tags) if tags is not None else ""
-            sentence = tags + entry.get("subject").get("intro") 
-        if check_word_in_sentence(words, sentence): 
-            break 
+    # one issue is the values have duplicates in the
+    # past few days, this function checks if the new
+    # value already exists, if so keep generating new values
+    history_file_path = current_dictionary / "../assets/history.json"
+    with open(history_file_path, "r") as file:
+        history = json.load(file)
+    # reset history after a while
+    if len(history) > 10:
+        history = []
 
+    banned_entry_file_path = current_dictionary / "../assets/banned.json"
+    with open(banned_entry_file_path, "r") as file:
+        banned_titles = json.load(file)
+
+    while True:
+        idx = random.randint(0, len(database) - 1)
+        entry = database[idx]
+        title = entry.get("subject").get("title")
+        if title in banned_titles:
+            continue
+        if not is_mystery_type(is_movie, entry):
+            continue
+        if title in history:
+            continue
+        else:
+            history.append(title)
+            break
+
+    with open(history_file_path, "w") as file:
+        json.dump(history, file, ensure_ascii=False)
 
     idx = entry.get("id")
 
@@ -83,7 +113,7 @@ def load_one_entry():
     genres = entry.get("subject").get("genres")
 
     date = entry.get("subject").get("pubdate")
-    date = date[0] if isinstance(date, list) else date 
+    date = date[0] if isinstance(date, list) else date
 
     author = entry.get("subject").get("author")
     author = author[0] if isinstance(author, list) else author
@@ -93,7 +123,7 @@ def load_one_entry():
         category = "类型 | " + " / ".join(genres)
     else:
         date = "出版 | " + format_date(date)
-        category = "作者 | " + author 
+        category = "作者 | " + author
 
     def convert_color(color):
         return tuple([int(c * 255) for c in color])
@@ -105,12 +135,12 @@ def load_one_entry():
     doubaninfo = DoubanInfo(
         idx,
         img_url,
-        entry.get("subject").get("title"),
+        title,
         rate,
         review,
         category,
         date,
-        my_type == "movie",
+        is_movie,
         color,
     )
 

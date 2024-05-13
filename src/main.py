@@ -35,12 +35,9 @@ def main():
     # Open the banner image
     banner = Image.open(path)
     default_size = 1000
-    width, height = banner.size
-    if min(width, height) < default_size:
-        banner = utils.resize_image(banner)
-    else:
-        size = (default_size, default_size)
-        banner.thumbnail(size, Image.Resampling.LANCZOS)
+    banner = utils.resize_image(banner, default_size)
+    size = (default_size, default_size)
+    banner.thumbnail(size, Image.Resampling.LANCZOS)
 
     # Open the poster template image
     poster = utils.create_image(1140, 1740)
