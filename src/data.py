@@ -17,7 +17,7 @@ class DoubanInfo:
     img_url: str
     title: str
     rate: str
-    review: str
+    message: str
     category: str
     date: str
     is_movie: bool
@@ -99,16 +99,9 @@ def load_one_entry():
     rate = entry.get("subject").get("rating").get("value")
     rate = None if int(rate) == 0 else "{:.1f}".format(rate)
 
-    review = entry.get("comment")
-    review = None if len(review) == 0 else review
-    if review is not None:
-        if len(review) > 50:
-            # too long
-            review = None
-        else:
-            review = textwrap.wrap(review, width=20)
-            review = "\n\n".join(review)
-            review = "短评 | " + review
+    max_len = 50
+    message = entry.get("comment")
+    message = "" if len(message) == 0 else message[:max_len]
 
     genres = entry.get("subject").get("genres")
 
@@ -137,7 +130,7 @@ def load_one_entry():
         img_url,
         title,
         rate,
-        review,
+        message,
         category,
         date,
         is_movie,

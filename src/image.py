@@ -5,7 +5,8 @@ Dependicies:
     1. PIL: Image Processing
     2. color: Extract color palette
 """
-from typing import * 
+
+from typing import *
 import pathlib
 from PIL import Image
 from PIL import ImageDraw
@@ -31,6 +32,7 @@ def draw_palette(draw: ImageDraw.ImageDraw, image_path: str, color: List[Any]):
 
     # draw.rectangle(((0, 1720), (1140, 1740)), fill=color_palette[5])
     draw.rectangle(((60, 1080), (1140, 1100)), fill=color)
+
 
 def crop_to_square(image_path: str, save_path: str):
     """
@@ -93,7 +95,7 @@ def remove_white_pixel(image_path: str):
 
 def write_text(
     draw: ImageDraw.ImageDraw,
-    color: tuple, 
+    color: tuple,
     cords: tuple,
     text: str,
     font: str,
@@ -116,30 +118,33 @@ def write_text(
     font = ImageFont.truetype(font, size)
 
     # Draw the text
-    draw.text(
-        xy=(cords[0], cords[1]), text=text, fill=color, font=font, anchor=anchor
-    )
+    draw.text(xy=(cords[0], cords[1]), text=text, fill=color, font=font, anchor=anchor)
 
 
 def write_multiline_text(
-    draw: ImageDraw.ImageDraw, color: tuple, cords: tuple, text: str, font: str, size: int
+    draw: ImageDraw.ImageDraw,
+    color: tuple,
+    cords: tuple,
+    text: str,
+    font: str,
+    size: int,
 ):
-    """
-    Draws multi-line text on the image.
-
-    Args:
-        draw (ImageDraw.ImageDraw): An ImageDraw object to draw on the image.
-        cords (tuple): Coordinates (x, y) where the text will be drawn.
-        text (str): The text to be drawn.
-        font (str): The path to the font file.
-        size (int): The font size.
-    """
-
     # Load the font
     font = ImageFont.truetype(font, size)
 
     # Draw the multi-line text
-    draw.multiline_text(xy=cords, text=text, fill=color, font=font, spacing=0)
+    n = 20
+    summary_line = 50
+    coord_x, coord_y = cords
+    y = coord_y
+
+    summary_list = [text[i : i + n] for i in range(0, len(text), n)]
+    for num, summary in enumerate(summary_list):
+        y = coord_y + num * summary_line
+        draw.text((coord_x, y), "%s" % summary, color, font)
+
+    if len(summary_list) == 0:
+        draw.text((coord_x, y), "推理日历 By Sholmes", color, font)
 
 
 def write_title(

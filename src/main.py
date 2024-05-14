@@ -77,10 +77,9 @@ def main():
         draw, doubaninfo.color[1], (60, 1350), doubaninfo.category, font_regular, 40
     )
 
-    if doubaninfo.review is not None:
-        image.write_multiline_text(
-            draw, doubaninfo.color[1], (60, 1400), doubaninfo.review, font_light, 40
-        )
+    image.write_multiline_text(
+        draw, doubaninfo.color[1], (60, 1400), doubaninfo.message, font_light, 40
+    )
 
     if doubaninfo.rate is not None:
         svg_image = utils.create_badge("green", "douban", str(doubaninfo.rate))
