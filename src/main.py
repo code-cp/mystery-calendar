@@ -4,6 +4,7 @@ from PIL import ImageDraw
 import image
 import os
 import argparse
+import json
 
 import utils
 import data
@@ -26,14 +27,21 @@ def main():
 
     path = current_dictionary / "../assets/bgimage.png"
     successful = utils.save_image_from_url(doubaninfo.img_url, path)
-    if not successful:
-        path = current_dictionary / "../assets/conan.png"
 
     # Get the lyrics of the song
     color = (50, 47, 48)
 
     # Open the banner image
-    banner = Image.open(path)
+    if not successful:
+        banned_entry_file_path = current_dictionary / "../assets/banned.json"
+        with open(banned_entry_file_path, "r") as file:
+            banned_titles = json.load(file)
+        banned_titles.append(doubaninfo.title)
+        with open(banned_entry_file_path, "w") as file:
+            json.dump(banned_titles, file, ensure_ascii=False)
+        banner = Image.new("RGB", (428, 623), color="white")
+    else:
+        banner = Image.open(path)
     default_size = 1000
     banner = utils.resize_image(banner, default_size)
     size = (default_size, default_size)
