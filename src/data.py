@@ -101,7 +101,10 @@ def load_one_entry():
 
     max_len = 50
     message = entry.get("comment")
-    message = "" if len(message) == 0 else message[:max_len]
+    if len(message) == 0: 
+        message = ""
+    elif len(message) > max_len:
+        message = message[:max_len] + "..."
 
     genres = entry.get("subject").get("genres")
 
