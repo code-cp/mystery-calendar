@@ -1,5 +1,875 @@
 [
 	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://book.douban.com/subject/30468752/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30468752/interest/4190428990",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-16 19:04:54",
+		"status": "done",
+		"id": 4190428990,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1569,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2019-4"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s32278688.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s32278688.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "陆秋槎 / 2019 / 新星出版社",
+			"book_subtitle": "",
+			"id": "30468752",
+			"author": [
+				"陆秋槎"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "3c71a5",
+				"_base_color": [
+					0.5825688073394496,
+					0.6337209302325582,
+					0.6745098039215687
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.5833333333333334,
+					0.41269841269841273,
+					0.7411764705882353
+				],
+				"primary_color_dark": "2e577f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/30468752.jpg",
+			"min_sale_price": null,
+			"press": [
+				"新星出版社"
+			],
+			"pages": [
+				"236"
+			],
+			"sharing_url": "https://book.douban.com/subject/30468752/",
+			"url": "https://book.douban.com/subject/30468752/",
+			"title": "文学少女对数学少女",
+			"uri": "douban://douban.com/book/30468752",
+			"subtype": "book",
+			"intro": "“推理小说虽然是用自然语言写成的，却和形式系统具有相同的性质。”\n文学少女陆秋槎，为探究推理小说的严密性，误闯数学少女韩采芦的寝室，由此展开了一系列思维及身体的大冒险。推理小说的真相，能否像数学定理那样得到无懈可击的证明？困扰数学界三百五十八年的费马大定理，其证明史能否改写成一篇猜凶手谜题？看似条件不足无从推理的案件，又是否能另辟蹊径、直抵真相？最终，她们的友谊又会如何收场？",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 2,
+			"value": 2
+		},
+		"sharing_text": "我的评分：★★ https://book.douban.com/subject/3017523/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3017523/interest/4190428761",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-16 19:04:30",
+		"status": "done",
+		"id": 4190428761,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 356,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.5
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2008年3月"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s2976204.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s2976204.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "杜撰 / 2008年3月 / 内蒙古人民出版社",
+			"book_subtitle": "杜撰探案集",
+			"id": "3017523",
+			"author": [
+				"杜撰"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "727272",
+				"_base_color": [
+					0,
+					0,
+					0.7803921568627451
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0,
+					0,
+					0.12156862745098039
+				],
+				"primary_color_dark": "4c4c4c"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/3017523.jpg",
+			"min_sale_price": null,
+			"press": [
+				"内蒙古人民出版社"
+			],
+			"pages": [],
+			"sharing_url": "https://book.douban.com/subject/3017523/",
+			"url": "https://book.douban.com/subject/3017523/",
+			"title": "纯属杜撰——杜撰探案集",
+			"uri": "douban://douban.com/book/3017523",
+			"subtype": "book",
+			"intro": "落魄的自由撰稿人、同时也是推理小说迷的杜撰，和市刑警支队副队长罗培高算是一对忘年交了，面对一些稀奇古怪的案子，杜撰总是能利用他独特的思维和缜密的逻辑推理能力协助警方破案，而这本集子所讲述的，正是杜撰解决的一些有趣的案子。\n包含篇目：《画鬼》、《作家不见了》、《摩天轮里的秘密》、《食脑妖怪》、《阴差阳错》、《古墓谋杀案》、《从天而降的尸体》、《文字游戏》。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "月夜姐的超新本格事件簿",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ 月夜姐的超新本格事件簿 https://book.douban.com/subject/36170929/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36170929/interest/3787479455",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-16 18:55:07",
+		"status": "done",
+		"id": 3787479455,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3081,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-1"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34449010.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34449010.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECPQ6LCVY?type=rank&category=book&rank_type=year",
+					"rank": 7,
+					"title": "豆瓣2023年度推理·悬疑图书 "
+				}
+			],
+			"other_versions_count": 4,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日] 知念实希人 / 2023 / 四川文艺出版社",
+			"book_subtitle": "",
+			"id": "36170929",
+			"author": [
+				"[日] 知念实希人"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "9e97a5",
+				"_base_color": [
+					0.7456140350877193,
+					0.0875576036866359,
+					0.8509803921568627
+				],
+				"secondary_color": "f7f4f9",
+				"_avg_color": [
+					0.6219512195121952,
+					0.28671328671328666,
+					0.5607843137254902
+				],
+				"primary_color_dark": "79747f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36170929.jpg",
+			"min_sale_price": null,
+			"press": [
+				"四川文艺出版社"
+			],
+			"pages": [
+				"473"
+			],
+			"sharing_url": "https://book.douban.com/subject/36170929/",
+			"url": "https://book.douban.com/subject/36170929/",
+			"title": "玻璃塔谜案",
+			"uri": "douban://douban.com/book/36170929",
+			"subtype": "book",
+			"intro": "一座玻璃塔在雪地深处的森林中闪闪发光。地上十一层，地下一层，它是一个美丽而巨大的尖顶塔。在热爱推理小说的馆主的邀请下，刑警、医生、小说家、编辑、名侦探等各具特色的嘉宾聚集到玻璃塔中。当晚，馆主预定发表重大消息，但在那之前却在密室里被杀了。第二天，玻璃塔因附近山上的雪崩而关闭了交通和通信。被困在塔里的人们，等待警察的帮助，却接二连三地发生了密室杀人事件。此外，还有人用血写下了十三年前的一件疑案。名侦探碧月夜和医生一条游马追查着谜团……\n出人意料的开始，高能不断的剧情，压倒性的诡计伏笔，还有令人惊愕的结局。你准备好接受挑战了吗？",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/27181925/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27181925/interest/4189533357",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-15 20:24:29",
+		"status": "done",
+		"id": 4189533357,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3024,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.8
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2017-12"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29657595.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29657595.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[美] 埃德加·爱伦·坡 / 2017 / 江西人民出版社",
+			"book_subtitle": "爱伦·坡短篇小说精选",
+			"id": "27181925",
+			"author": [
+				"[美] 埃德加·爱伦·坡"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "727271",
+				"_base_color": [
+					0.16666666666666666,
+					0.015151515151515312,
+					0.25882352941176473
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.11111111111111138,
+					0.04225352112676061,
+					0.2784313725490196
+				],
+				"primary_color_dark": "4c4c4b"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/27181925.jpg",
+			"min_sale_price": null,
+			"press": [
+				"江西人民出版社"
+			],
+			"pages": [
+				"448"
+			],
+			"sharing_url": "https://book.douban.com/subject/27181925/",
+			"url": "https://book.douban.com/subject/27181925/",
+			"title": "乌鸦",
+			"uri": "douban://douban.com/book/27181925",
+			"subtype": "book",
+			"intro": "全书精选25篇爱伦·坡的代表作，涵盖其在惊悚小说、推理侦探小说、科幻小说和幽默讽刺小说领域的佳作，包括读者耳熟能详的《莫格街凶杀案》《黑猫》《金甲虫》《泄密的心》《瓶中手稿》《眼镜》《莫斯肯漩涡沉浮记》《一桶蒙特亚白葡萄酒》等篇目，并由爱伦·坡作品研究专家曹明伦翻译。另外，全书选用11幅由爱尔兰画家哈利·克拉克根据爱伦·坡的作品创作的插图，为读者带来一个别样的、极具画面感的阅读体验。《乌鸦》是爱伦·坡最广为流传的一篇诗歌，本书特以此诗命名，书封上的乌鸦则是法国印象派画家马奈为此诗创作的插图，进一步烘托出爱伦·坡作品幻灭而伤悼的忧郁美，及其独有的暗黑风气质。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://book.douban.com/subject/36209186/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36209186/interest/4189533279",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-15 20:24:24",
+		"status": "done",
+		"id": 4189533279,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 650,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-5"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34527300.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34527300.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日] 江户川乱步(编) / 2023 / 浙江文艺出版社",
+			"book_subtitle": "",
+			"id": "36209186",
+			"author": [
+				"[日] 江户川乱步(编)"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "0859a5",
+				"_base_color": [
+					0.5804597701149424,
+					0.9508196721311476,
+					0.47843137254901963
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.5763052208835342,
+					0.4611111111111112,
+					0.7058823529411765
+				],
+				"primary_color_dark": "06447f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36209186.jpg",
+			"min_sale_price": null,
+			"press": [
+				"浙江文艺出版社"
+			],
+			"pages": [
+				"880"
+			],
+			"sharing_url": "https://book.douban.com/subject/36209186/",
+			"url": "https://book.douban.com/subject/36209186/",
+			"title": "推理群星闪耀时",
+			"uri": "douban://douban.com/book/36209186",
+			"subtype": "book",
+			"intro": "推理小说是惊悚悬疑的艺术。本书所选故事多出自推理黄金时代的名家之手，广泛涵盖“侦探、悬疑、惊悚、犯罪、斗智”等领域，在精悍凝练的篇幅中直接展现破解迷案的智慧，悬念迭起又回味无穷。所选故事不仅围绕犯罪进行的，同时涉及爱情、婚姻、家庭、金钱以及各种社会问题，暴露极端条件下的人生困惑，可令读者在收获解密成就的同时，对人性和社会产生更深层的理解。\n◆ 读完这本书，对一百年来侦探/推理小说的版图就会有个清楚的认识了\n◆ “本格之父”心目中最好的推理小说，江户川乱步的私人阅读手记\n◆ 推理界的“开荒者”，打造出耀眼的黄金时代\n◆ 平凡细节的背后藏着恶魔的巧思，攻略真相需要洞烛人性的智慧\n本书是世界短篇推理小说精选集，由被誉为“日本推理小说之父”的著名推理作家江户川乱步精心编选。从推理小说鼻祖爱伦·坡的《失窃的信》开始，收录了柯林斯的《害人反害己》、柯南道尔的《红发会》、杰克·福翠尔的《逃出十三号牢房》等名家名作，选篇时间跨越两个世纪，空间范围则聚焦在推理小说发展最为成熟的欧美，入选作品皆依创作时间排序，其中既有注重诡计的本格派推理，也有回味绵长的悬念故事，同时还囊括了幽默推理、硬汉派等类型分支，兼具代表性和阅读趣味。从中读者可以展望推理小说百年发展历程，俯瞰推理小说的诸多流派。\n全书共分上下两卷。上卷“谜的结构”收录19篇开辟解密类型、侧重本格推理的杰作，下卷“奇妙余味”则收录了19篇文字幽默、回味绵长、侧重刻画侦探个人魅力的侦探故事。篇目都按照写作时间排序，每篇故事皆附有江户川乱步所作点评。作为日本推理小说的鼻祖，江户川乱步不仅是一名推理小说作家，也是推理小说的评论家。在这些点评中，江户川乱步用通俗易懂的语言介绍了作者的生平、流派传承和技巧特色，以及其他关于推理世界的基础性普及知识。江户川乱步的点评并不涉及对悬念谜底的剧透，为读者保留了推理解谜的完整乐趣。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://book.douban.com/subject/34998081/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34998081/interest/4189533205",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-15 20:24:19",
+		"status": "done",
+		"id": 4189533205,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3052,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.5
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2020-4"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s33621376.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s33621376.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日] 谷崎润一郎 [日] 芥川龙之介 [日] 梦野久作 [日] 江户川乱步 [日] 佐藤春夫 [日] 山本周五郎 太宰治 [日] 海野十三 [日] 坂口安吾 小酒井不木等 小酒井不木 大下宇陀儿 / 2020 / 浙江文艺出版社",
+			"book_subtitle": "",
+			"id": "34998081",
+			"author": [
+				"[日] 谷崎润一郎",
+				"[日] 芥川龙之介",
+				"[日] 梦野久作",
+				"[日] 江户川乱步",
+				"[日] 佐藤春夫",
+				"[日] 山本周五郎",
+				"太宰治",
+				"[日] 海野十三",
+				"[日] 坂口安吾",
+				"小酒井不木等",
+				"小酒井不木",
+				"大下宇陀儿"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "208ca5",
+				"_base_color": [
+					0.5311111111111111,
+					0.8064516129032258,
+					0.36470588235294116
+				],
+				"secondary_color": "f4f8f9",
+				"_avg_color": [
+					0.4545454545454546,
+					0.19879518072289154,
+					0.6509803921568628
+				],
+				"primary_color_dark": "186c7f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/34998081.jpg",
+			"min_sale_price": null,
+			"press": [
+				"浙江文艺出版社"
+			],
+			"pages": [
+				"366"
+			],
+			"sharing_url": "https://book.douban.com/subject/34998081/",
+			"url": "https://book.douban.com/subject/34998081/",
+			"title": "推理要在本格前",
+			"uri": "douban://douban.com/book/34998081",
+			"subtype": "book",
+			"intro": "在近百年的日本推理文学史上，\n他们将推理小说送上了新的巅峰，\n使之成为极致“真善美”与“假恶丑”的矛盾体，\n折射出日本文化的底蕴之魅——\n自明治维新之后，受欧美侦探小说影响，日本推理小说逐渐发展起来，并经历了从无到有、由弱变强的蜕变。\n在近百年的发展过程中，无数甘于奉献的创作者们，下至一般素人，上到文豪大师，皆在勇敢尝试着推理文学的无限可能，由此孕育出日本推理史上一个个传奇辉煌的时代。\n本书收录了诸多日本文豪名家写就的推理短篇，均创作于日本推理文学发展的早期。这些颇具里程碑意义的作品，宛如黎明中的闪耀群星，指引着日本的推理，走向更为绚丽的未来。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://book.douban.com/subject/34805594/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34805594/interest/4189533084",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-15 20:24:08",
+		"status": "done",
+		"id": 4189533084,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 3202,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.2
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2019-9"
+			],
+			"pic": {
+				"large": "https://img2.doubanio.com/view/subject/l/public/s33464951.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s33464951.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 124,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[英] 阿瑟·柯南·道尔 / 2019 / 天津人民出版社",
+			"book_subtitle": "",
+			"id": "34805594",
+			"author": [
+				"[英] 阿瑟·柯南·道尔"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a54c04",
+				"_base_color": [
+					0.07415565345080764,
+					0.9742489270386265,
+					0.9137254901960784
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.07398373983739837,
+					0.9761904761904762,
+					0.8235294117647058
+				],
+				"primary_color_dark": "7f3a03"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/34805594.jpg",
+			"min_sale_price": null,
+			"press": [
+				"天津人民出版社"
+			],
+			"pages": [
+				"2080"
+			],
+			"sharing_url": "https://book.douban.com/subject/34805594/",
+			"url": "https://book.douban.com/subject/34805594/",
+			"title": "福尔摩斯探案全集",
+			"uri": "douban://douban.com/book/34805594",
+			"subtype": "book",
+			"intro": "*果麦出品的《福尔摩斯探案全集》是阿瑟·柯南·道尔官方产权会独家认证的中文版本\n*柯南·道尔侄孙，产权会主席理查德·道尔作序推荐\n*权威底本Bantam Classics获得官方认可\n*青年译者张雅琳历时五年研究翻译，300余条译注帮助读者理解创作时代背景\n*66幅Easton Press授权经典插画，增添阅读的画面感和趣味性\n*独家赠品：福尔摩斯探案笔记本（内附《血字的研究》手稿）\n*囊括阿瑟·柯南·道尔爵士创作的4部长篇小说及56部短篇小说\n完整收录《血字的研究·四签名》《福尔摩斯冒险史》《福尔摩斯回忆录》《福尔摩斯归来记》《巴斯克维尔的猎犬·恐怖谷》《最后的致意》《福尔摩斯案件簿》\n*装帧设计符合现代审美，兼具收藏价值",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/35929083/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35929083/interest/4189518217",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-15 20:05:10",
+		"status": "done",
+		"id": 4189518217,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 746,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.8
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2022-11"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34423064.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34423064.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "褚盟 / 2022 / 浙江文艺出版社",
+			"book_subtitle": "世界推理小说简史",
+			"id": "35929083",
+			"author": [
+				"褚盟"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "617da5",
+				"_base_color": [
+					0.5972222222222222,
+					0.41379310344827586,
+					0.11372549019607843
+				],
+				"secondary_color": "f4f6f9",
+				"_avg_color": [
+					0.08333333333333215,
+					0.015151515151515312,
+					0.5176470588235295
+				],
+				"primary_color_dark": "4a607f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/35929083.jpg",
+			"min_sale_price": null,
+			"press": [
+				"浙江文艺出版社"
+			],
+			"pages": [
+				"337"
+			],
+			"sharing_url": "https://book.douban.com/subject/35929083/",
+			"url": "https://book.douban.com/subject/35929083/",
+			"title": "狩猎愉快",
+			"uri": "douban://douban.com/book/35929083",
+			"subtype": "book",
+			"intro": "本书以通俗晓畅的语言，系统梳理了世界推理小说180年历史长河中形成的各大流派，精要介绍了各大流派代表性的作家及作品，是一部轻松幽默、普及性的推理小说简史，可谓推理小说迷的案头必备读物。\n此次修订，作者追踪研究了近十年来世界推理小说的最新发展进程，篇幅由初版的12万字增加到30万字，由7个章节增加到10个章节，在各个方面都进行了补充、完善。\n本书附赠：（1）推理迷专属笔记本（2）推理迷专属卡片（3）推理小说200部推荐阅读打卡表",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 2,
+			"value": 2
+		},
+		"sharing_text": "我的评分：★★ https://book.douban.com/subject/36713186/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36713186/interest/4188742813",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-14 22:22:25",
+		"status": "done",
+		"id": 4188742813,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-1-22"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s34757150.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34757150.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "森見登美彦 / 2024 / 中央公論新社",
+			"book_subtitle": "夏洛克·福尔摩斯的凯旋",
+			"id": "36713186",
+			"author": [
+				"森見登美彦"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a58b74",
+				"_base_color": [
+					0.07723577235772357,
+					0.2949640287769783,
+					0.5450980392156862
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.08974358974358969,
+					0.18181818181818185,
+					0.5607843137254902
+				],
+				"primary_color_dark": "7f6b59"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36713186.jpg",
+			"min_sale_price": null,
+			"press": [
+				"中央公論新社"
+			],
+			"pages": [
+				"480"
+			],
+			"sharing_url": "https://book.douban.com/subject/36713186/",
+			"url": "https://book.douban.com/subject/36713186/",
+			"title": "シャーロック・ホームズの凱旋",
+			"uri": "douban://douban.com/book/36713186",
+			"subtype": "book",
+			"intro": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……まさかの大スランプ！？\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！",
+			"buy_more_uri": "",
+			"null_rating_reason": "暂无评分",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://book.douban.com/subject/36179203/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36179203/interest/4188743038",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-14 22:03:46",
+		"status": "done",
+		"id": 4188743038,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 160,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-2"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34397624.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34397624.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[日] 有栖川有栖 / 2023 / 中国工人出版社",
+			"book_subtitle": "",
+			"id": "36179203",
+			"author": [
+				"[日] 有栖川有栖"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "929ca5",
+				"_base_color": [
+					0.5784313725490197,
+					0.1133333333333333,
+					0.5882352941176471
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.5916666666666667,
+					0.15384615384615374,
+					0.5098039215686274
+				],
+				"primary_color_dark": "71787f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36179203.jpg",
+			"min_sale_price": null,
+			"press": [
+				"中国工人出版社"
+			],
+			"pages": [
+				"312"
+			],
+			"sharing_url": "https://book.douban.com/subject/36179203/",
+			"url": "https://book.douban.com/subject/36179203/",
+			"title": "怪奇小店",
+			"uri": "douban://douban.com/book/36179203",
+			"subtype": "book",
+			"intro": "本书为作者有栖川有栖的知名推理系列——火村英生推理系列，全书为五个中短篇小说的合集，讲述了分别发生在古董商店、旧书店、理发店、一家即将破产倒闭的店铺以及一家让人不知到底经营什么的奇怪的店铺里的五个与“店铺”相关的神秘案件。\n日本新本格推理先锋作者 有栖川有栖代表作\n大受读者欢迎的“火村英生”系列\n临床犯罪学者火村英生与推理作家有栖川有栖的搭档，再次集结，直面挑战。\n隐藏于心中的“魔物”究竟为何？\n“可惜，你下手晚了一天。”\n本书附有知名推理小说家东川笃哉的精彩解说！",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
 		"comment": "有些事儿，希望它发生但没发生，于是编造一些故事情节让它发生，不过很多关于开出租的细节写的很生动",
 		"rating": {
 			"count": 1,
@@ -102,7 +972,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 299,
+				"count": 302,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -441,7 +1311,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3309,
+				"count": 3312,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -526,10 +1396,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 264,
+				"count": 265,
 				"max": 10,
-				"star_count": 3,
-				"value": 6.4
+				"star_count": 3.5,
+				"value": 6.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -779,10 +1649,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 425,
+				"count": 438,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -865,10 +1735,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1678,
+				"count": 1687,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -952,7 +1822,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1985,
+				"count": 1997,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -1039,7 +1909,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2550,
+				"count": 2564,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -1126,7 +1996,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 323,
+				"count": 325,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1292,7 +2162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 404,
+				"count": 407,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -1378,7 +2248,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1917,
+				"count": 1919,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1547,10 +2417,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 749,
+				"count": 773,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1715,7 +2585,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9303,
+				"count": 9311,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -1807,7 +2677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26237,
+				"count": 26279,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1831,6 +2701,7 @@
 			"other_versions_count": 30,
 			"is_show": false,
 			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -1900,7 +2771,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3018,
+				"count": 3057,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -2056,9 +2927,9 @@
 			"null_rating_reason": "暂无评分",
 			"article_intros": [
 				{
-					"useful_count": 0,
+					"useful_count": 1,
 					"uri": "douban://douban.com/review/15791509",
-					"comment_count": 0,
+					"comment_count": 1,
 					"intro": "禁林与阿兹卡班的囚徒",
 					"total": 1,
 					"type": "review"
@@ -2088,7 +2959,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8669,
+				"count": 8688,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2183,7 +3054,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2692,
+				"count": 2695,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2266,7 +3137,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6240,
+				"count": 6248,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2349,7 +3220,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 302093,
+				"count": 302262,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2434,7 +3305,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7700,
+				"count": 7701,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -2769,7 +3640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1502,
+				"count": 1528,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2868,7 +3739,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2023,
+				"count": 2035,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -3218,7 +4089,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16634,
+				"count": 16764,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -3308,7 +4179,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15902,
+				"count": 16024,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -3397,7 +4268,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4181,
+				"count": 4182,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -3480,10 +4351,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 332,
+				"count": 333,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.3
+				"value": 7.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3814,7 +4685,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 83,
+				"count": 84,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -3897,10 +4768,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 173,
+				"count": 184,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4148,7 +5019,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22153,
+				"count": 22189,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4325,10 +5196,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1283,
+				"count": 1285,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4343,6 +5214,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -4574,7 +5446,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 815,
+				"count": 819,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5572,7 +6444,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2110,
+				"count": 2113,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5666,7 +6538,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2858,
+				"count": 2871,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -5760,7 +6632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 298,
+				"count": 300,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -5845,7 +6717,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3798,
+				"count": 3808,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -5935,7 +6807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 569,
+				"count": 570,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -6020,7 +6892,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2550,
+				"count": 2552,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -6044,6 +6916,7 @@
 			"other_versions_count": 2,
 			"is_show": false,
 			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -6281,7 +7154,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18770,
+				"count": 18980,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -6539,7 +7412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19302,
+				"count": 19342,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6708,7 +7581,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4928,
+				"count": 4934,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -6798,7 +7671,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1341,
+				"count": 1342,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -6967,7 +7840,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1137,
+				"count": 1138,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -7138,7 +8011,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 292,
+				"count": 293,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7221,10 +8094,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1011,
+				"count": 1012,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7304,7 +8177,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1102,
+				"count": 1106,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -7471,7 +8344,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 338053,
+				"count": 338148,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -7565,7 +8438,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3760,
+				"count": 3767,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -7645,10 +8518,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 874,
+				"count": 875,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7737,7 +8610,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 392,
+				"count": 393,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -7821,10 +8694,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1236,
+				"count": 1239,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8172,7 +9045,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 708,
+				"count": 709,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -8350,7 +9223,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 319,
+				"count": 321,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -8607,7 +9480,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49511,
+				"count": 49665,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -8624,7 +9497,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 98,
+					"rank": 97,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -8890,7 +9763,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16712,
+				"count": 16732,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -8979,7 +9852,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3150,
+				"count": 3154,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9063,7 +9936,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25854,
+				"count": 25864,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -9158,7 +10031,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18644,
+				"count": 18664,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -9251,7 +10124,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 132941,
+				"count": 133026,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9345,7 +10218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7793,
+				"count": 7805,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -9430,7 +10303,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5083,
+				"count": 5092,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -9519,7 +10392,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2368,
+				"count": 2370,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -9607,7 +10480,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18178,
+				"count": 18214,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -9699,7 +10572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2113,
+				"count": 2115,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -10025,7 +10898,7 @@
 			"null_rating_reason": "",
 			"article_intros": [
 				{
-					"useful_count": 19,
+					"useful_count": 20,
 					"uri": "douban://douban.com/review/13602692",
 					"comment_count": 3,
 					"intro": "2千万美元才买了18集，《老友记》的隐藏剧情如此惊心动魄",
@@ -10060,7 +10933,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13694,
+				"count": 13704,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -10145,7 +11018,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 851,
+				"count": 852,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -10242,7 +11115,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4858,
+				"count": 4866,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -10330,7 +11203,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9116,
+				"count": 9143,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -10511,7 +11384,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2467,
+				"count": 2472,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -10772,7 +11645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98768,
+				"count": 98969,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -10947,7 +11820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12586,
+				"count": 12588,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
