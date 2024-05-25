@@ -19,8 +19,8 @@ import locale
 from pybadges import badge
 from io import BytesIO
 import cairosvg
-import requests
 import random
+import urllib
 
 from rich import print
 from lingua import Language
@@ -202,8 +202,7 @@ def resize_image(img, max_size=1000):
 
 
 def save_image_from_url(url, save_path):
-    successful = False
-    timeout_seconds = 300
+    successful = True
 
     agents = [
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
@@ -214,24 +213,20 @@ def save_image_from_url(url, save_path):
     ]
     headers = {"user-agent": random.choice(agents)}
 
-    try:
-        # Send a GET request to the URL to fetch the image
-        response = requests.get(
-            url, timeout=timeout_seconds, headers=headers, stream=True
-        )
-        # Check if the request was successful (status code 200)
-        if response.status_code == 200:
-            # Open the image using PIL
-            output = BytesIO(response.content)
-            img = Image.open(output)
-            # Save the image to the specified path
-            img.save(save_path)
-            print("Image saved successfully at:", save_path)
-            successful = True
-        else:
-            print("Failed to download image. Status code:", response.status_code)
-    except Exception as e:
-        print("An error occurred:", e)
+    req = urllib.request.Request(url, headers=headers)
+    content = urllib.request.urlopen(req)
+    if content.status != 200:
+        return False
+    content = content.read()
+
+    # Open the image using PIL
+    output = BytesIO(content)
+    img = Image.open(output)
+    # Save the image to the specified path
+    img.save(save_path)
+    print("Image saved successfully at:", save_path)
+    successful = True
+
     return successful
 
 
