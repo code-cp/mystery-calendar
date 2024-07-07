@@ -40,9 +40,11 @@ def check_word_in_sentence(word_list, sentence):
 
 
 def is_mystery_type(is_movie, entry):
-    words = ["悬疑", "推理", "侦探", "犯罪", "crime", "mystery", "detective"]
+    words = ["悬疑", "推理", "侦探", "间谍", "犯罪", "crime", "mystery", "detective"]
     if is_movie:
-        sentence = entry.get("subject").get("genres")
+        genres = entry.get("subject").get("genres")
+        genres = "".join(genres) if genres is not None else ""
+        sentence = genres + entry.get("subject").get("title")
     else:
         tags = entry.get("subject").get("tags")
         tags = "".join(tags) if tags is not None else ""
@@ -101,7 +103,7 @@ def load_one_entry():
 
     max_len = 50
     message = entry.get("comment")
-    if len(message) == 0: 
+    if len(message) == 0:
         message = ""
     elif len(message) > max_len:
         message = message[:max_len] + "..."

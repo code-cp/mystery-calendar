@@ -16,11 +16,11 @@ import datetime
 import pathlib
 from PIL import Image
 import locale
-from pybadges import badge
 from io import BytesIO
 import cairosvg
 import random
 import urllib
+from pybadges import badge
 
 from rich import print
 from lingua import Language
@@ -102,6 +102,22 @@ def print_date_cn():
     return formatted_date
 
 
+def create_badge(left_text, right_text, left_color, right_color):
+    svg_data = badge(
+        left_text=left_text,
+        right_text=right_text,
+        left_color=left_color,
+        right_color=right_color,
+    )
+    png_data = cairosvg.svg2png(bytestring=svg_data)
+    svg_image = Image.open(BytesIO(png_data))
+
+    scale = 3
+    new_size = (svg_image.width * scale, svg_image.height * scale)
+    svg_image = svg_image.resize(new_size)
+    return svg_image
+
+
 def delete_files_in_directory(directory):
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
@@ -169,19 +185,6 @@ def draw_on_poster(top, left, poster, banner):
 
     # Paste the banner image onto the poster
     poster.paste(banner, box)
-
-
-def create_badge(color, website, score):
-    svg_data = badge(
-        left_text=website, right_text=score, left_color=color, right_color="blue"
-    )
-    png_data = cairosvg.svg2png(bytestring=svg_data)
-    svg_image = Image.open(BytesIO(png_data))
-
-    scale = 3
-    new_size = (svg_image.width * scale, svg_image.height * scale)
-    svg_image = svg_image.resize(new_size)
-    return svg_image
 
 
 def resize_image(img, max_size=1000):
