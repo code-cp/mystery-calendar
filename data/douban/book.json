@@ -4,6 +4,421 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/1210338/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1210338/interest/4234889693",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-07-06 12:33:00",
+		"status": "done",
+		"id": 4234889693,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1068,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2002-7"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s1250580.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s1250580.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[日] 青山刚昌 / 2002 / 长春出版社",
+			"book_subtitle": "",
+			"id": "1210338",
+			"author": [
+				"[日] 青山刚昌"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a56e67",
+				"_base_color": [
+					0.020408163265306145,
+					0.3769230769230769,
+					0.5098039215686274
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.625,
+					0.09302325581395349,
+					0.5058823529411764
+				],
+				"primary_color_dark": "7f554f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/1210338.jpg",
+			"min_sale_price": null,
+			"press": [
+				"长春出版社"
+			],
+			"pages": [
+				"186"
+			],
+			"sharing_url": "https://book.douban.com/subject/1210338/",
+			"url": "https://book.douban.com/subject/1210338/",
+			"title": "名侦探柯南8",
+			"uri": "douban://douban.com/book/1210338",
+			"subtype": "book",
+			"intro": "在小兰面前差点暴露身份的柯南，急中生智逃过一劫，不过柯南还是希望能早点变回原来的工新一，好让小兰安心……但接二连三发生的事件，害他无暇追查黑衣男子的下落。这次爸爸著作中的“黑夜的怪男爵”竟真现身、从天而降了。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/1210306/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1210306/interest/4234889552",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-07-06 12:32:48",
+		"status": "done",
+		"id": 4234889552,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1429,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2002-7"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s1151707.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s1151707.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "青山剛昌 / 2002 / 长春出版社",
+			"book_subtitle": "",
+			"id": "1210306",
+			"author": [
+				"青山剛昌"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a57267",
+				"_base_color": [
+					0.029239766081871326,
+					0.37748344370860926,
+					0.592156862745098
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.8988095238095238,
+					0.20588235294117646,
+					0.5333333333333333
+				],
+				"primary_color_dark": "7f574f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/1210306.jpg",
+			"min_sale_price": null,
+			"press": [
+				"长春出版社"
+			],
+			"pages": [
+				"174"
+			],
+			"sharing_url": "https://book.douban.com/subject/1210306/",
+			"url": "https://book.douban.com/subject/1210306/",
+			"title": "名侦探柯南2",
+			"uri": "douban://douban.com/book/1210306",
+			"subtype": "book",
+			"intro": "《名侦探柯南2》内容：新一为找出神秘组织的下落，暂时寄住小兰家。为了隐藏身分，他化名“柯南”，并且还降级念小学。跟在小五郎身边办案的柯南，头脑冷静、推理清晰，即使案子再棘手，也能一一破案！！",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/1210303/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1210303/interest/4234889490",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-07-06 12:32:44",
+		"status": "done",
+		"id": 4234889490,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 5145,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.9
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2002-7"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s8445998.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s8445998.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 3,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[日] 青山刚昌 / 2002 / 长春出版社",
+			"book_subtitle": "",
+			"id": "1210303",
+			"author": [
+				"[日] 青山刚昌"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a57662",
+				"_base_color": [
+					0.04918032786885248,
+					0.40666666666666673,
+					0.5882352941176471
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.07196969696969696,
+					0.31884057971014484,
+					0.5411764705882353
+				],
+				"primary_color_dark": "7f5a4b"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/1210303.jpg",
+			"min_sale_price": null,
+			"press": [
+				"长春出版社"
+			],
+			"pages": [
+				"188"
+			],
+			"sharing_url": "https://book.douban.com/subject/1210303/",
+			"url": "https://book.douban.com/subject/1210303/",
+			"title": "名侦探柯南1",
+			"uri": "douban://douban.com/book/1210303",
+			"subtype": "book",
+			"intro": "以福尔摩斯式的推理能力而声名大噪的高中生名侦探工藤新一，在一次追线索时，被歹徙强行灌下不和名的药，一夜之间变成了一个小孩，化名为“江户川柯南”。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/1138986/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1138986/interest/4234889430",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-07-06 12:32:39",
+		"status": "done",
+		"id": 4234889430,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 11645,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2003-10"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s1106686.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s1106686.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "青山刚昌 / 2003 / 长春出版社",
+			"book_subtitle": "",
+			"id": "1138986",
+			"author": [
+				"青山刚昌"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a56652",
+				"_base_color": [
+					0.04008438818565402,
+					0.5,
+					0.6196078431372549
+				],
+				"secondary_color": "f9f6f4",
+				"_avg_color": [
+					0.020833333333333315,
+					0.3116883116883116,
+					0.6039215686274509
+				],
+				"primary_color_dark": "7f4f3f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/1138986.jpg",
+			"min_sale_price": null,
+			"press": [
+				"长春出版社"
+			],
+			"pages": [
+				"194"
+			],
+			"sharing_url": "https://book.douban.com/subject/1138986/",
+			"url": "https://book.douban.com/subject/1138986/",
+			"title": "名侦探柯南42",
+			"uri": "douban://douban.com/book/1138986",
+			"subtype": "book",
+			"intro": "《名侦探柯南》\n《名侦探柯南》日本国宝级漫画家青山刚昌作品，连载于周刊少年Sunday（周刊少年サンデー），日本小学馆发行的综合性少年漫画杂志。 　　高中生侦探工藤新一，被称为“日本警察的救世主”、“平成年代的福尔摩斯”、“关东的名侦探”。一次在与青梅竹马的同学毛利兰去游乐园游玩时，发现两个行动诡异的黑衣人。工藤新一跟踪他们直到交易现场，另一个黑衣人琴酒趁其不注意从后面将他一棒击倒，并灌下一种名为APTX-4869的神秘毒药企图杀他灭口，但因为副作用他的身体竟回到发育期的孩童状态。考虑到要是黑衣人知道他还活着，必将使周围的亲朋好友受到牵连，于是工藤新一化名为“江户川柯南”寄住在毛利兰的家中，想借助其父亲毛利小五郎来找寻黑衣人。不料小五郎不但对其没有帮助，还是个冒失的迷糊侦探。所以发生案件后，柯南就用阿笠博士发明的手表型麻醉枪让小五郎睡着，接着用蝴蝶结型变声器模仿他的声音来进行推理，解决了许多连警方都束手无策的案件。同时也结交了许多同伴，也一直寻找着黑衣组织的人的下落，希望有朝一日将其绳之以法，并变回原来的样子……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://book.douban.com/subject/36352181/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36352181/interest/4229329367",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-07-03 19:49:17",
+		"status": "done",
+		"id": 4229329367,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2022-5-15"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34496146.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34496146.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[法]Franck Thilliez / 2022 / Fleuve Noir",
+			"book_subtitle": "",
+			"id": "36352181",
+			"author": [
+				"[法]Franck Thilliez"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59c94",
+				"_base_color": [
+					0.07407407407407411,
+					0.10227272727272724,
+					0.6901960784313725
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.07843137254901962,
+					0.11888111888111885,
+					0.5607843137254902
+				],
+				"primary_color_dark": "7f7872"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36352181.jpg",
+			"min_sale_price": null,
+			"press": [
+				"Fleuve Noir"
+			],
+			"pages": [
+				"374"
+			],
+			"sharing_url": "https://book.douban.com/subject/36352181/",
+			"url": "https://book.douban.com/subject/36352181/",
+			"title": "Labyrinthes",
+			"uri": "douban://douban.com/book/36352181",
+			"subtype": "book",
+			"intro": "Suivez le fil infernal Une scène de pure folie dans un chalet. Une victime au visage réduit en bouillie à coups de tisonnier. Et une suspecte atteinte d'une étrange amnésie. Camille Nijinski, en charge de l'enquête, a besoin de comprendre cette subite perte de mémoire, mais le psychiatre avec lequel elle s'entretient a bien plus à lui apprendre. Car avant de tout oublier, sa patiente lui a confié son histoire. Une histoire longue et complexe. Sans doute la plus extraordinaire que Camille entendra de toute sa carrière... Tout d'abord, mademoiselle Nijinski, vous devez savoir qu'il y a cinq protagonistes. Toutes des femmes. Écrivez, c'est important : la journaliste', la psychiatre', la kidnappée', la romancière'... Et concentrez-vous, parce que cette histoire est un vrai labyrinthe où tout s'entremêle. Quant à cette cinquième personne, elle est le fil dans le dédale qui, j'en suis sûr, apportera les réponses à toutes vos questions.",
+			"buy_more_uri": "",
+			"null_rating_reason": "暂无评分",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -19,7 +434,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1379,
+				"count": 1384,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -190,7 +605,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6826,
+				"count": 6828,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -289,7 +704,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s3829681.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 6,
+			"other_versions_count": 7,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -360,10 +775,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 348,
+				"count": 351,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -445,7 +860,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 451,
+				"count": 455,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -535,7 +950,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1524,
+				"count": 1547,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -628,7 +1043,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213046,
+				"count": 213053,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -718,7 +1133,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 367,
+				"count": 369,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -969,7 +1384,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21050,
+				"count": 21066,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -1227,10 +1642,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1604,
+				"count": 1606,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1393,7 +1808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3247,
+				"count": 3275,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -1487,7 +1902,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3095,
+				"count": 3102,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1572,7 +1987,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 701,
+				"count": 704,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1659,7 +2074,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3082,
+				"count": 3089,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -1757,10 +2172,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3238,
+				"count": 3241,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1844,7 +2259,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 772,
+				"count": 773,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2014,7 +2429,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 174,
+				"count": 176,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -2180,10 +2595,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 315,
+				"count": 318,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.6
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2433,7 +2848,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1613,
+				"count": 1614,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -2519,7 +2934,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3345,
+				"count": 3349,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -2602,10 +3017,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 265,
+				"count": 267,
 				"max": 10,
-				"star_count": 3.5,
-				"value": 6.5
+				"star_count": 3,
+				"value": 6.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2770,10 +3185,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 297,
+				"count": 298,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2855,7 +3270,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 490,
+				"count": 497,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -2942,7 +3357,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1736,
+				"count": 1743,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3029,10 +3444,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2059,
+				"count": 2067,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3116,7 +3531,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2629,
+				"count": 2644,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -3286,7 +3701,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 394,
+				"count": 395,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -3369,7 +3784,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 411,
+				"count": 412,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -3455,7 +3870,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1946,
+				"count": 1948,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3624,7 +4039,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 887,
+				"count": 905,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -3792,7 +4207,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9358,
+				"count": 9362,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3884,7 +4299,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26595,
+				"count": 26653,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3978,10 +4393,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3297,
+				"count": 3330,
 				"max": 10,
-				"star_count": 3.5,
-				"value": 6.5
+				"star_count": 3,
+				"value": 6.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4166,7 +4581,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8855,
+				"count": 8889,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -4261,10 +4676,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2734,
+				"count": 2742,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4344,10 +4759,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6305,
+				"count": 6313,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4358,7 +4773,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s28823471.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 37,
+			"other_versions_count": 39,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "刘慈欣 / 2016 / 重庆出版社",
@@ -4427,7 +4842,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 303352,
+				"count": 303523,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4441,7 +4856,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s3078482.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 37,
+			"other_versions_count": 39,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
@@ -4512,7 +4927,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7705,
+				"count": 7707,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -4852,7 +5267,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1622,
+				"count": 1633,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4951,10 +5366,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2121,
+				"count": 2134,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5135,7 +5550,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 880,
+				"count": 881,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -5301,7 +5716,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17638,
+				"count": 17770,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5391,7 +5806,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16765,
+				"count": 16879,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -5412,7 +5827,7 @@
 					"title": "推理·悬疑"
 				}
 			],
-			"other_versions_count": 4,
+			"other_versions_count": 5,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
@@ -5563,10 +5978,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 337,
+				"count": 338,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.2
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5646,10 +6061,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 72,
+				"count": 74,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5980,10 +6395,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 241,
+				"count": 246,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6231,7 +6646,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22422,
+				"count": 22454,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -6325,7 +6740,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 452,
+				"count": 453,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -6408,7 +6823,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1311,
+				"count": 1316,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -6496,7 +6911,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4177,
+				"count": 4182,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -6658,10 +7073,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 832,
+				"count": 833,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7152,7 +7567,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2508,
+				"count": 2510,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -7487,10 +7902,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 300,
+				"count": 302,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7656,7 +8071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2148,
+				"count": 2153,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -7680,9 +8095,7 @@
 			"other_versions_count": 9,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png"
 			],
 			"card_subtitle": "[日] 樱庭一树 / 2020 / 上海文艺出版社",
 			"book_subtitle": "",
@@ -7750,7 +8163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2960,
+				"count": 2968,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -7844,7 +8257,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 316,
+				"count": 317,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -7929,7 +8342,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3845,
+				"count": 3848,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -8019,7 +8432,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 594,
+				"count": 599,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -8104,10 +8517,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2574,
+				"count": 2577,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8283,10 +8696,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 389,
+				"count": 390,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8366,7 +8779,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20340,
+				"count": 20575,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -8624,7 +9037,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19575,
+				"count": 19621,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -8793,7 +9206,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4956,
+				"count": 4959,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -8883,7 +9296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1352,
+				"count": 1353,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8966,10 +9379,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 687,
+				"count": 689,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.2
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9052,7 +9465,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1144,
+				"count": 1148,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -9140,7 +9553,7 @@
 				"count": 791,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.9
+				"value": 6.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9223,7 +9636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 301,
+				"count": 302,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -9306,10 +9719,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1038,
+				"count": 1042,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9389,7 +9802,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1141,
+				"count": 1146,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -9556,7 +9969,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 338867,
+				"count": 338972,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -9573,7 +9986,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 99,
+					"rank": 98,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -9650,7 +10063,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3812,
+				"count": 3819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -9730,7 +10143,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 878,
+				"count": 879,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -9822,7 +10235,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 406,
+				"count": 408,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -9906,7 +10319,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1244,
+				"count": 1246,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -10067,7 +10480,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 151,
+				"count": 152,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -10435,7 +10848,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 325,
+				"count": 326,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -10692,7 +11105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50576,
+				"count": 50716,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10709,7 +11122,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 100,
+					"rank": 101,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -10800,7 +11213,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 264,
+				"count": 263,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -10975,7 +11388,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16876,
+				"count": 16907,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -11064,7 +11477,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3200,
+				"count": 3207,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -11148,7 +11561,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25956,
+				"count": 25968,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -11243,7 +11656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18788,
+				"count": 18802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -11336,7 +11749,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 133487,
+				"count": 133556,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -11430,7 +11843,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7880,
+				"count": 7894,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11444,7 +11857,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s7062710.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 23,
+			"other_versions_count": 25,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "金庸 / 2011 / 广州出版社",
@@ -11515,7 +11928,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5149,
+				"count": 5161,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -11604,7 +12017,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2381,
+				"count": 2384,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -11690,7 +12103,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18440,
+				"count": 18484,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11782,7 +12195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2159,
+				"count": 2166,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -12143,7 +12556,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13764,
+				"count": 13780,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -12325,7 +12738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4908,
+				"count": 4910,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12413,7 +12826,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9280,
+				"count": 9304,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -12594,10 +13007,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2531,
+				"count": 2543,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -12770,7 +13183,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1454,
+				"count": 1455,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12855,7 +13268,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 100158,
+				"count": 100358,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -13030,7 +13443,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12614,
+				"count": 12619,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
