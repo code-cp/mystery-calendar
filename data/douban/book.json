@@ -4,6 +4,174 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://www.douban.com/doubanapp/dispatch/book/26874773 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26874773/interest/4508564596",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-04-16 17:23:55",
+		"status": "done",
+		"id": 4508564596,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 824,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2016-10"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29094929.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29094929.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 3,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日] 松本清张 / 2016 / 浙江人民出版社",
+			"book_subtitle": "",
+			"id": "26874773",
+			"author": [
+				"[日] 松本清张"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "722c39",
+				"_base_color": [
+					0.9696969696969697,
+					0.6111111111111112,
+					0.07058823529411765
+				],
+				"secondary_color": "f9f4f5",
+				"_avg_color": [
+					0.9696969696969697,
+					0.4583333333333333,
+					0.09411764705882353
+				],
+				"primary_color_dark": "4c1d26"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26874773.jpg",
+			"min_sale_price": null,
+			"press": [
+				"浙江人民出版社"
+			],
+			"pages": [
+				"212"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26874773",
+			"url": "https://book.douban.com/subject/26874773/",
+			"title": "黑夜的空白",
+			"uri": "douban://douban.com/book/26874773",
+			"subtype": "book",
+			"intro": "★日本推理宗师 松本清张 生涯收官之作\n★十年前的爱恨情仇，十年后的机关算尽。妒与杀的宿命轮回，多少秘密在黑夜中暗涌。\n★数度改稿，反复推敲，一代大师留给世人最后的谜案\n--------------------------------------------------\n到东京出差的春田市长无故失踪，秘书有岛言辞躲闪似有隐情。五天后，市长的尸体在郊外被发现。政敌早川嫌疑骤升，但不久后早川也陈尸海面。警方在早川家中发现了春田被害的关键证据，一桩罪案本该就此了结。然而，随着七个酒桶神秘地出现，深埋十年的白骨重见天日。一切无不预示着，命案并不只是现在的事情……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://www.douban.com/doubanapp/dispatch/book/26357782 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26357782/interest/4508564404",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-04-16 17:23:36",
+		"status": "done",
+		"id": 4508564404,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 18,
+				"max": 10,
+				"star_count": 3,
+				"value": 6.1
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2015-1"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s28039972.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s28039972.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "［新加坡］王振春 / 2015 / 华中科技大学出版社",
+			"book_subtitle": "",
+			"id": "26357782",
+			"author": [
+				"［新加坡］王振春"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a5a1",
+				"_base_color": [
+					0.13888888888888903,
+					0.025974025974026003,
+					0.9058823529411765
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.10833333333333327,
+					0.10362694300518127,
+					0.7568627450980392
+				],
+				"primary_color_dark": "7f7e7c"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26357782.jpg",
+			"min_sale_price": null,
+			"press": [
+				"华中科技大学出版社"
+			],
+			"pages": [
+				"180"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26357782",
+			"url": "https://book.douban.com/subject/26357782/",
+			"title": "狮城老街故事",
+			"uri": "douban://douban.com/book/26357782",
+			"subtype": "book",
+			"intro": "百年老街连根拔起，痕迹都找不到，如新加坡牛车水的珍珠街、南京街、福建街与红头巾聚集的豆腐街等，年轻一代与外国人，有几个知道新加坡有过和老移民息息相关的老街呢？本书以书写老街的方式，记录新加坡的发展、社会的变迁，是一部充满生活气息的“城市发展史”，也是外国人了解新加坡的另一个视角。\n历史，像是匆匆的过客，谁都没有办法将它挽留，只有透过笔耕，才能尽力把它留住，哪怕是一鳞半爪，也不能放弃。《狮城老街故事》出版了，配上相关的历史照片，做到图文并茂，以加强读者对老街的回忆与印象。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -181,10 +349,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 195,
+				"count": 354,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -262,7 +430,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12727,
+				"count": 12832,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -355,7 +523,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1387,
+				"count": 1395,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -594,10 +762,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14319,
+				"count": 14336,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -686,7 +854,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 627,
+				"count": 628,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -937,7 +1105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 618,
+				"count": 624,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -1023,7 +1191,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2718,
+				"count": 2740,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -1199,7 +1367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 437,
+				"count": 443,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1285,7 +1453,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11680,
+				"count": 11725,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1606,7 +1774,7 @@
 			"star_count": 2,
 			"value": 2
 		},
-		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/36711037 来自@豆瓣App",
+		"sharing_text": "我的评分：★★  来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36711037/interest/4073134266",
 		"tags": [],
 		"charts": [],
@@ -1618,62 +1786,39 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 596,
+				"count": 0,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.7
+				"star_count": 0,
+				"value": 0
 			},
 			"controversy_reason": "",
-			"pubdate": [
-				"2024-1-29"
-			],
+			"pubdate": [],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s34764765.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34764765.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+				"large": "https://qnmob3.doubanio.com/f/frodo/ddc30012b6268cb7371e5e339418018e5fef5e06/pics/subject/book_large.jpg?imageView2/2/q/80/w/600/h/3000/format/jpg",
+				"normal": "https://qnmob3.doubanio.com/f/frodo/b9c30c34e0a0c4697919a65783703492eaf8b674/pics/subject/book_normal.png?imageView2/2/q/80/w/200/h/300/format/jpg"
 			},
 			"honor_infos": [],
 			"other_versions_count": 3,
 			"is_show": false,
 			"vendor_icons": [],
-			"card_subtitle": "陳浩基 / 2024 / 皇冠",
+			"card_subtitle": "",
 			"book_subtitle": "",
 			"id": "36711037",
-			"author": [
-				"陳浩基"
-			],
-			"is_released": true,
+			"author": [],
+			"is_released": false,
 			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "725651",
-				"_base_color": [
-					0.02259887005649717,
-					0.2878048780487806,
-					0.803921568627451
-				],
-				"secondary_color": "f9f5f4",
-				"_avg_color": [
-					0.015151515151515102,
-					0.15714285714285717,
-					0.27450980392156865
-				],
-				"primary_color_dark": "4c3936"
-			},
+			"color_scheme": null,
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36711037.jpg",
 			"min_sale_price": null,
-			"press": [
-				"皇冠"
-			],
-			"pages": [
-				"352"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36711037",
+			"press": [],
+			"pages": [],
+			"sharing_url": "",
 			"url": "https://book.douban.com/subject/36711037/",
-			"title": "隱蔽嫌疑人",
+			"title": "未知图书",
 			"uri": "douban://douban.com/book/36711037",
-			"subtype": "book",
-			"intro": "有些秘密，\n你希望永遠不要說出口……\n繼《13．67》、《網內人》，\n陳浩基探究人性深淵的完美神作！\n驚悚駭人的分屍奇案 ╳ 撼動靈魂的逝者告白 ╳ 猜不透結局的神秘作中作\n──同步超展開，史上最燒腦！\n#無業遊民\n#宅男天國\n#人體標本\n#作家\n#繭居\n#隱蔽青年\n#現實就是一團團由惡意、歧視和自私組成的黏糊糊化合物\n#踐踏弱者就是讓自己顯得崇高的捷徑\n#筲箕灣碎屍案\n#The Loneliest Guy\n#殺人藝術\n#替死鬼\n#孤獨\n#David Bowie\n#人吃人\n#沉默的羔羊\n#破綻\n#我猜我們內心深處都有這種獸性\n我將隻身上路，\n迎向無止盡的黑暗迷霧。\n但我不是最孤寂的人，\n而是最幸運的人……\n許友一督察的眉頭緊蹙，無法將視線從衣櫥裡的東西移開。一個又一個標本瓶裡裝的全是人體的殘肢，其中兩瓶最恐怖的「收藏」，裡頭分別裝有一男一女兩顆頭顱：女子容貌娟秀，隱約有種病態美；男子以斷掌掩面，猶如遭遇莫大痛苦。\n如此殘忍的手法究竟是何人所為？警方的目光全都指向在同一個房間裡燒炭自殺的另一具男屍。房間主人謝柏宸，中年無業，單身未婚，幾乎可以用「精神異常者殺人分屍、及後因故畏罪自殺」來結案。\n沒想到謝母的一句話，竟徹底粉碎了許友一的推論：「他足足二十年沒外出啊！」一個畏懼離家的「繭居族」根本不可能到外面殺人，但謝柏宸若不是兇手，這個殺人魔又是誰？如果兇手仍然逍遙法外，誰將成為他的下一個目標？……\n從疫情衝擊到表裡失序的人心，陳浩基深入香港的時代脈絡，追逐我城的遞變速度，在善惡交錯的喧囂塵世之中，顛覆想像，解構形式，以「分屍奇案」、「逝者告白」、「虛構文本」三線故事層層推進，劇情反轉再反轉，不僅刻劃了人性的幽微明暗，更洞見了生命中的殉美與殘酷。",
+			"subtype": "",
+			"intro": "",
 			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
@@ -1701,7 +1846,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1938,
+				"count": 1939,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -1786,7 +1931,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4049,
+				"count": 4058,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -1873,7 +2018,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1171,
+				"count": 1174,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -1959,7 +2104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 612,
+				"count": 618,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -2042,7 +2187,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 721,
+				"count": 723,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -2059,7 +2204,6 @@
 			"other_versions_count": 1,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "陈拙 / 2022 / 湖南文艺出版社",
@@ -2294,7 +2438,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1224,
+				"count": 1229,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2380,7 +2524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3641,
+				"count": 3642,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -2465,7 +2609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2142,
+				"count": 2147,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2631,10 +2775,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 351,
+				"count": 352,
 				"max": 10,
 				"star_count": 2.5,
-				"value": 5.4
+				"value": 5.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2716,7 +2860,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 885,
+				"count": 886,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -2733,7 +2877,6 @@
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "赵赶鹅 / 2021 / 天地出版社",
@@ -2802,7 +2945,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1345,
+				"count": 1348,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -2887,7 +3030,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7087,
+				"count": 7117,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -3140,7 +3283,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24677,
+				"count": 24745,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -3157,7 +3300,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 133,
+					"rank": 134,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -3230,7 +3373,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1139,
+				"count": 1162,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3402,7 +3545,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1761,
+				"count": 1765,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3654,7 +3797,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4503,
+				"count": 4515,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -3916,7 +4059,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 876,
+				"count": 878,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -3999,10 +4142,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1166,
+				"count": 1167,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4082,7 +4225,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6220,
+				"count": 6221,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -4167,7 +4310,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3734,
+				"count": 3737,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -4253,10 +4396,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 953,
+				"count": 955,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4339,7 +4482,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 271,
+				"count": 272,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -4424,7 +4567,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4185,
+				"count": 4188,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -4509,7 +4652,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10351,
+				"count": 10353,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -4594,7 +4737,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15264,
+				"count": 15273,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -4684,10 +4827,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10294,
+				"count": 10307,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4770,7 +4913,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10920,
+				"count": 10924,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -4855,7 +4998,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1112,
+				"count": 1115,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4938,7 +5081,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1492,
+				"count": 1498,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5021,7 +5164,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5267,
+				"count": 5277,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -5104,7 +5247,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11679,
+				"count": 11678,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5270,7 +5413,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1541,
+				"count": 1548,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5355,7 +5498,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4164,
+				"count": 4167,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -5440,7 +5583,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6966,
+				"count": 6968,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -5525,7 +5668,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4487,
+				"count": 4491,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -5610,10 +5753,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 448,
+				"count": 449,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5783,7 +5926,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2472,
+				"count": 2483,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -5876,7 +6019,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213613,
+				"count": 213626,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5966,10 +6109,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 431,
+				"count": 432,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6217,7 +6360,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21818,
+				"count": 21840,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -6474,10 +6617,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1705,
+				"count": 1707,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6640,7 +6783,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4409,
+				"count": 4430,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -6733,7 +6876,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3415,
+				"count": 3418,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -6818,10 +6961,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 930,
+				"count": 938,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6904,7 +7047,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3271,
+				"count": 3272,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -7001,7 +7144,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3581,
+				"count": 3588,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7015,7 +7158,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s33464951.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 125,
+			"other_versions_count": 66,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
@@ -7087,10 +7230,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 917,
+				"count": 918,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7256,10 +7399,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 244,
+				"count": 246,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.8
+				"value": 6.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7422,10 +7565,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 359,
+				"count": 361,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7675,7 +7818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1671,
+				"count": 1673,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -7761,10 +7904,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3627,
+				"count": 3629,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.8
+				"value": 6.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8096,10 +8239,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 645,
+				"count": 650,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8182,7 +8325,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1913,
+				"count": 1915,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -8268,10 +8411,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2246,
+				"count": 2251,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8354,10 +8497,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3037,
+				"count": 3046,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8591,6 +8734,92 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/30171301 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30171301/interest/4136808961",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-25 19:05:37",
+		"status": "done",
+		"id": 4136808961,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 436,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2018-4"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29715608.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29715608.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日] 永井荷风 / 2018 / 上海译文出版社",
+			"book_subtitle": "",
+			"id": "30171301",
+			"author": [
+				"[日] 永井荷风"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "949fa5",
+				"_base_color": [
+					0.564102564102564,
+					0.10483870967741933,
+					0.9725490196078431
+				],
+				"secondary_color": "f4f7f9",
+				"_avg_color": [
+					0.6052631578947367,
+					0.08482142857142852,
+					0.8784313725490196
+				],
+				"primary_color_dark": "727a7f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/30171301.jpg",
+			"min_sale_price": null,
+			"press": [
+				"上海译文出版社"
+			],
+			"pages": [
+				"208"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30171301",
+			"url": "https://book.douban.com/subject/30171301/",
+			"title": "濹东绮谭",
+			"uri": "douban://douban.com/book/30171301",
+			"subtype": "book",
+			"intro": "《濹东绮谭》是永井荷风的中篇小说集，收入永井荷风晚年的两部中篇小说《梅雨时节》（郭洁敏 译）和《濹东绮谭》。\n《梅雨时节》讲述咖啡馆女招待君江从乡下进城，在东京闹市银座，受到西风东渐的影响，在“快乐”中堕落下去。《濹东绮谭》则以揶揄和嘲笑的笔触描绘了战争年代日本的黑暗形 势和奇怪的社会风气，以优美哀伤的笔触描写了小说家大江匡与娼妓阿雪的恋情，被称为永井荷风小说中的至高杰作。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 5,
 			"value": 5
 		},
@@ -8606,7 +8835,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2130,
+				"count": 2134,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -8677,6 +8906,92 @@
 			"star_count": 5,
 			"value": 5
 		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/1319670 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1319670/interest/4137870399",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-25 08:37:40",
+		"status": "done",
+		"id": 4137870399,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 439,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2005-5"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s11114922.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s11114922.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 12,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "范达因 陈曾纬 / 2005 / 朝华出版社",
+			"book_subtitle": "",
+			"id": "1319670",
+			"author": [
+				"范达因",
+				"陈曾纬"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "727267",
+				"_base_color": [
+					0.16666666666666666,
+					0.1,
+					0.11764705882352941
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.19999999999999987,
+					0.07352941176470583,
+					0.26666666666666666
+				],
+				"primary_color_dark": "4c4c44"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/1319670.jpg",
+			"min_sale_price": null,
+			"press": [
+				"朝华出版社"
+			],
+			"pages": [
+				"240"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1319670",
+			"url": "https://book.douban.com/subject/1319670/",
+			"title": "班森杀人事件",
+			"uri": "douban://douban.com/book/1319670",
+			"subtype": "book",
+			"intro": "《菲洛·万斯探案集》创下了20世纪二三十年代的世界图书销售纪录，成为一战后美国经济大萧条时期硕果仅存的经济奇迹之一，并因此开启了美国推理小说黄金时代。因之改编的电影是同时代最具票房价值的好莱坞电影，布鲁斯、鲍威尔等影坛巨星无不因出演片中主角而名扬天下。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
 		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/36536781 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36536781/interest/4137458271",
 		"tags": [],
@@ -8689,7 +9004,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1570,
+				"count": 1574,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -8760,6 +9075,87 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 3,
+			"value": 3
+		},
+		"sharing_text": "我的评分：★★★ https://www.douban.com/doubanapp/dispatch/book/31655494 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/31655494/interest/4137202351",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-24 18:52:05",
+		"status": "done",
+		"id": 4137202351,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2018-3-1"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s30569553.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s30569553.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "Neil Root / 2018",
+			"book_subtitle": "",
+			"id": "31655494",
+			"author": [
+				"Neil Root"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "725430",
+				"_base_color": [
+					0.0909090909090909,
+					0.5789473684210527,
+					0.07450980392156863
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.12499999999999993,
+					0.2857142857142858,
+					0.27450980392156865
+				],
+				"primary_color_dark": "4c3820"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/31655494.jpg",
+			"min_sale_price": null,
+			"press": [],
+			"pages": [
+				"240"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/31655494",
+			"url": "https://book.douban.com/subject/31655494/",
+			"title": "The Murder Gang: Fleet Street’s Elite Group of Crime Reporters in the Golden Age of Tabloid Crime",
+			"uri": "douban://douban.com/book/31655494",
+			"subtype": "book",
+			"intro": "They were an elite group of renegade Fleet Street crime reporters covering the most notorious British crime between the mid-1930s and the mid-1960s. It was an era in which murder dominated the front and inside pages of the newspapers – the ‘golden age’ of tabloid crime. Members of the Murder Gang knew one another well. They drank together in the same Fleet Street pubs, but they were also ruthlessly competitive in pursuit of the latest scoop. It was said that when the Daily Express covered a big murder story they would send four cars: one containing their reporters, the other three to block the road at crime scenes to stop other rivals getting through. As a matter of course, Murder Gang members listened in to police radios, held clandestine meetings with killers on the run, made huge payments to murderers and their families – and jammed potatoes into their rivals’ exhaust pipes so their cars wouldn’t start. These were just the tools of the trade; it was a far cry from modern reporting. Here, Neil Root delves into their world, examining some of the biggest crime stories of the era and the men who wrote them. In turns fascinating, shocking and comical, this tale of true crime, media and social history will have you turning the pages as if they were those newspapers of old.",
+			"buy_more_uri": "",
+			"null_rating_reason": "暂无评分",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 5,
 			"value": 5
 		},
@@ -8775,7 +9171,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9794,
+				"count": 9801,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -8867,7 +9263,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 28887,
+				"count": 28939,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -8960,7 +9356,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4231,
+				"count": 4247,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -9044,6 +9440,98 @@
 			"star_count": 5,
 			"value": 5
 		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/36483025 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36483025/interest/4089341290",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-03-07 02:19:15",
+		"status": "done",
+		"id": 4089341290,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2023-9-26"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s34591857.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34591857.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[英] Robert Galbraith / 2023 / Sphere",
+			"book_subtitle": "Cormoran Strike Book 7",
+			"id": "36483025",
+			"author": [
+				"[英] Robert Galbraith"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a296",
+				"_base_color": [
+					0.13333333333333322,
+					0.09009009009009016,
+					0.8705882352941177
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.17204301075268816,
+					0.17415730337078655,
+					0.6980392156862745
+				],
+				"primary_color_dark": "7f7d74"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/36483025.jpg",
+			"min_sale_price": null,
+			"press": [
+				"Sphere"
+			],
+			"pages": [
+				"960"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36483025",
+			"url": "https://book.douban.com/subject/36483025/",
+			"title": "The Running Grave",
+			"uri": "douban://douban.com/book/36483025",
+			"subtype": "book",
+			"intro": "Private Detective Cormoran Strike is contacted by a worried father whose son, Will, has gone to join a religious cult in the depths of the Norfolk countryside.\nThe Universal Humanitarian Church is, on the surface, a peaceable organisation that campaigns for a better world. Yet Strike discovers that beneath the surface there are deeply sinister undertones, and unexplained deaths.\nIn order to try to rescue Will, Strike's business partner Robin Ellacott decides to infiltrate the cult and she travels to Norfolk to live incognito amongst them. But in doing so, she is unprepared for the dangers that await her there or for the toll it will take on her . . .\nUtterly page-turning, The Running Grave moves Strike and Robin's story forward in the epic, unforgettable seventh instalment of the series.\n一位忧心忡忡的父亲联系上了私家侦探科莫兰·斯特莱克。他的儿子威尔去了诺福克（Norfolk）乡间，加入了一个宗教团伙。\n表面上看，普世人道主义教会（The Universal Humanitarian Church）是一个和平的组织，致力于建设更美好的世界。然而斯特莱克发现，这背后有着暗流涌动和难以解释的死亡。\n为了营救威尔，斯特莱克的合伙人罗宾·埃拉科特决定渗透进这个组织，隐藏身份，前往诺福克潜伏到他们之中。但是，她对这么做会遇到的危险或是会受到的损失都还没有做好准备……\nThe Running Grave 令人欲罢不能，是史诗般系列的第七部，斯特莱克和罗宾的新一个故事。",
+			"buy_more_uri": "",
+			"null_rating_reason": "暂无评分",
+			"article_intros": [
+				{
+					"useful_count": 1,
+					"uri": "douban://douban.com/review/15791509",
+					"comment_count": 1,
+					"intro": "禁林与阿兹卡班的囚徒",
+					"total": 1,
+					"type": "review"
+				}
+			],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
 		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/6558049 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6558049/interest/4101625672",
 		"tags": [],
@@ -9056,7 +9544,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10045,
+				"count": 10074,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -9150,7 +9638,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2940,
+				"count": 2944,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -9233,10 +9721,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6595,
+				"count": 6600,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9318,7 +9806,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309614,
+				"count": 309713,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -9389,6 +9877,91 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/3279273 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3279273/interest/4093453407",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-02-16 01:53:23",
+		"status": "done",
+		"id": 4093453407,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 7748,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.6
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2008-10"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s3475694.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s3475694.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 7,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "韩寒 / 2008 / 万卷出版公司",
+			"book_subtitle": "",
+			"id": "3279273",
+			"author": [
+				"韩寒"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "f2f1f2",
+				"_base_color": [
+					0.8333333333333334,
+					0.0042553191489361555,
+					0.9215686274509803
+				],
+				"secondary_color": "f9f4f9",
+				"_avg_color": [
+					0.8333333333333334,
+					0.008620689655172382,
+					0.9098039215686274
+				],
+				"primary_color_dark": "f2f1f2"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/3279273.jpg",
+			"min_sale_price": null,
+			"press": [
+				"万卷出版公司"
+			],
+			"pages": [
+				"241"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/3279273",
+			"url": "https://book.douban.com/subject/3279273/",
+			"title": "长安乱",
+			"uri": "douban://douban.com/book/3279273",
+			"subtype": "book",
+			"intro": "我出生未知，父母不详，却不知为何有一个师父。我从小受困，四面高墙，一样不知为何。\n我懂事的时候命运安排我目睹武林中最浩大的一场比武。\n当时江湖中有两个派系，便是少林和武当，少林的势力比武当强大一点，因为大家都觉得长头发很难打理……\n他十八岁下山闯荡江湖，一个神秘的老头改变了他的生活。他得到了老头赠送的当世奇兵，并用它夺取了武林盟主的称号。可是他却最终选择了归隐山林。到底是什么在左右一个少年的命运呢？ 到底什么是这个少年最为珍视的东西呢？本书用第一人称讲述了一个僧人的传奇经历。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -9404,10 +9977,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1011,
+				"count": 1018,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.5
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9467,6 +10040,185 @@
 	},
 	{
 		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/26739737 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26739737/interest/4085961567",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-02-13 03:49:47",
+		"status": "done",
+		"id": 4085961567,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 34,
+				"max": 10,
+				"star_count": 4,
+				"value": 8
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2016-3-22"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s28483574.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s28483574.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "Harlan Coben / 2016 / Dutton",
+			"book_subtitle": "",
+			"id": "26739737",
+			"author": [
+				"Harlan Coben"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a52a0c",
+				"_base_color": [
+					0.032485875706214695,
+					0.921875,
+					0.5019607843137255
+				],
+				"secondary_color": "f9f5f4",
+				"_avg_color": [
+					0.041666666666666664,
+					0.6706586826347305,
+					0.6549019607843137
+				],
+				"primary_color_dark": "7f2009"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26739737.jpg",
+			"min_sale_price": null,
+			"press": [
+				"Dutton"
+			],
+			"pages": [
+				"400"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26739737",
+			"url": "https://book.douban.com/subject/26739737/",
+			"title": "Fool Me Once",
+			"uri": "douban://douban.com/book/26739737",
+			"subtype": "book",
+			"intro": "#1 New York Times bestseller Harlan Coben delivers his next impossible-to-put-down thriller.\n\nIn the course of eight consecutive #1 New York Times bestsellers, millions of readers have discovered Harlan Coben’s page-turning thrillers, filled with his trademark edge-of-your-seat suspense and gut-wrenching emotion. In Fool Me Once, Coben once again outdoes himself.\n\nFormer special ops pilot Maya, home from the war, sees an unthinkable image captured by her nanny cam while she is at work: her two-year-old daughter playing with Maya’s husband, Joe—who had been brutally murdered two weeks earlier. The provocative question at the heart of the mystery: Can you believe everything you see with your own eyes, even when you desperately want to? To find the answer, Maya must finally come to terms with deep secrets and deceit in her own past before she can face the unbelievable truth about her husband—and herself.",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [
+				{
+					"useful_count": 0,
+					"uri": "douban://douban.com/review/15742221",
+					"comment_count": 0,
+					"intro": "让欧美侦探悬疑小说再次伟大",
+					"total": 1,
+					"type": "review"
+				}
+			],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/25831630 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25831630/interest/4085759747",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-02-10 15:30:27",
+		"status": "done",
+		"id": 4085759747,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 278,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.2
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2014-3"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s27232323.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s27232323.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[法国] 弗兰克·蒂利耶 / 2014 / 译林出版社",
+			"book_subtitle": "",
+			"id": "25831630",
+			"author": [
+				"[法国] 弗兰克·蒂利耶"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a2a2",
+				"_base_color": [
+					0,
+					0.021276595744680923,
+					0.1843137254901961
+				],
+				"secondary_color": "f9f4f4",
+				"_avg_color": [
+					0,
+					0.06030150753768851,
+					0.7803921568627451
+				],
+				"primary_color_dark": "7f7c7c"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/25831630.jpg",
+			"min_sale_price": null,
+			"press": [
+				"译林出版社"
+			],
+			"pages": [
+				"368"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25831630",
+			"url": "https://book.douban.com/subject/25831630/",
+			"title": "影像感染",
+			"uri": "douban://douban.com/book/25831630",
+			"subtype": "book",
+			"intro": "影痴吕多维克兴奋地购进多部稀有影片胶卷，正观赏其中一部来源不明的二十世纪五十年代影片时，突然失明！\n惊慌中，他拨电话求救，凑巧打给了担任警探的前女友露西。露西应吕多维克之托展开调查，没想到所有接触该片的人竟都陆续遭遇不测。\n同一时间，受幻觉所苦而遭强制休假的夏戈探长，也因一桩离奇弃尸案被警察局召回。\n两件看似无关的案子，却因一条意外的线索，把个性迥异的露西和夏戈牵连在一起。两人携手调查，逐步发现二十世纪五十年代的美国CIA、法国外籍雇佣军兵团与加拿大孤儿院，似乎都在进行一项邪恶计划，而一切的关键，就在那部神秘影片中！\n影片中到底隐藏了什么信息，足以令人极度不安，甚至传染给其他人？\n随着露西与夏戈的调查，我们对自己眼睛所见事物的理解，也将受到最严苛的挑战……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [
+				{
+					"useful_count": 0,
+					"uri": "douban://douban.com/review/15733782",
+					"comment_count": 0,
+					"intro": "弗兰克·蒂利耶感染",
+					"total": 1,
+					"type": "review"
+				}
+			],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
 		"rating": null,
 		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/36156911 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36156911/interest/4069699649",
@@ -9480,7 +10232,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2013,
+				"count": 2021,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -9579,624 +10331,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2547,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2022-10"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s34320039.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34320039.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 1,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "[法]弗兰克·蒂利耶 / 2022 / 北京联合出版公司",
-			"book_subtitle": "",
-			"id": "36037745",
-			"author": [
-				"[法]弗兰克·蒂利耶"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a53734",
-				"_base_color": [
-					0.0049382716049382975,
-					0.6852791878172588,
-					0.7725490196078432
-				],
-				"secondary_color": "f9f5f4",
-				"_avg_color": [
-					0,
-					0.01999999999999993,
-					0.9803921568627451
-				],
-				"primary_color_dark": "7f2a28"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36037745.jpg",
-			"min_sale_price": null,
-			"press": [
-				"北京联合出版公司"
-			],
-			"pages": [
-				"480"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36037745",
-			"url": "https://book.douban.com/subject/36037745/",
-			"title": "未完成的手稿",
-			"uri": "douban://douban.com/book/36037745",
-			"subtype": "book",
-			"intro": "读完《未完成的手稿》不要急，故事才刚刚开始。\n只有读过《两度》，才能明白《未完成的手稿》的真正意义。\n「凯莱布」系列第二部《两度》——“本书将提供你所有问题的答案。”\n————————————\n😱只有2%的人能猜出「结局」……\n一部套着手稿的手稿，一起套着凶案的凶案。\n📖编辑推荐\n1.双主 线长篇 烧脑悬疑神作，每3页 一反转！文字诡计与谜题陷阱并行！不开放的开放式结局，但答案从一开始就近在眼前。\n2.法国悬疑惊悚天王、全球累计销量1000万册🔥畅销作家的“变焦式”系列 作 品第一部！悬念重生，反转迭起，谜题环环相扣，层层抽丝剥茧，无限变焦式镜头，被誉为2022年度纸版《盗梦空间》。\n3.我们直面罪恶，是为了治愈罪恶。没有脸的死者，没有尸体的调查，一场场无尽的人性之争，处处暗藏惊天线索和致命杀机。你以为你以为的就是你以为的？\n4.亚马逊/Goodreads年度高 分热议作品，引发全球千万悬疑小说粉丝热评！先后获得法国犯罪小说SNCF奖、法国侦探码头文学选择奖、法国地中海侦探小说奖等多项大奖。🏆\n5.内文反丝印刷，柔软小开本，易带易读易翻，打造极致舒适阅读。\n👀内容简介\n一具没有脸的尸体，\n一部未完成的手稿。\n法国格勒诺布尔市，一辆汽车在午夜坠入峡谷，后备箱里有一具女尸：整张脸都被撕掉了。四年前，畅销书女作家琳妮十七岁的女儿突然失踪；如今丈夫意外失忆，一直苦苦追寻真相的她濒临崩溃，而警察一路的抽丝剥茧带给她的却是步步杀机……\n👍媒体推荐\n“令人难以忍受的悬念！恶魔般精心策划的恐怖之旅！”——RTL传媒\n“没有时间休息，没有时间呼吸，疯狂的节奏，不定的起伏。这本书信守承诺，我们会毫不拖延地被吞噬。”——《北方之声》\n“蒂利耶带着一个巧妙编织的谜题回来了！他的阴谋让我们屏息以待……像往常一样完美得无可挑剔！”——《现代女性》",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [
-				{
-					"useful_count": 0,
-					"uri": "douban://douban.com/review/15724072",
-					"comment_count": 0,
-					"intro": "这部套娃作中作，是跃进了现实的字符，还是写好了剧本的宿命",
-					"total": 1,
-					"type": "review"
-				}
-			],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/36122667 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36122667/interest/4047703055",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2024-01-05 22:41:17",
-		"status": "done",
-		"id": 4047703055,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 24297,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2023-1-1"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s34367076.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34367076.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECPY6EKVQ?type=rank&category=book&rank_type=year",
-					"rank": 1,
-					"title": "豆瓣2023年度绘本·漫画图书 "
-				}
-			],
-			"other_versions_count": 5,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "[日] 藤本树 / 2023 / 中信出版社",
-			"book_subtitle": "",
-			"id": "36122667",
-			"author": [
-				"[日] 藤本树"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "72422d",
-				"_base_color": [
-					0.050617283950617285,
-					0.6026785714285714,
-					0.8784313725490196
-				],
-				"secondary_color": "f9f6f4",
-				"_avg_color": [
-					0.638888888888889,
-					0.05555555555555549,
-					0.4235294117647059
-				],
-				"primary_color_dark": "4c2c1e"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36122667.jpg",
-			"min_sale_price": null,
-			"press": [
-				"中信出版社"
-			],
-			"pages": [
-				"208"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36122667",
-			"url": "https://book.douban.com/subject/36122667/",
-			"title": "再见绘梨",
-			"uri": "douban://douban.com/book/36122667",
-			"subtype": "book",
-			"intro": "📷只要能记起，就不怕会忘记。\n以电影收藏回忆，以虚构化解伤痛的青春物语。\n在悲伤时，来一抹奇幻色彩吧！\n——▶▶▶▶▶‖◀◀◀◀◀——\n📱“请你拍到我死的那一刻为止……”\n受病重的母亲请求，优太开始拍摄关于她的电影。\n可随着母亲的去世与电影的失败，\n优太也失去了人生的希望。\n在偶遇的神秘少女绘梨的帮助下，\n优太终于重拾了对电影的热情，\n却不知绘梨其实怀抱着一个秘密……\n💿现实与虚构交织，情感在至深处炸裂。\n将真相丢入回收站，把爱意留在电影中。\n——▶▶▶▶▶‖◀◀◀◀◀——\n✉如果回忆注定有残缺，\n我希望留下你最美的样子。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "东大黑，职场版无人生还，反向运用柯南，感动东京十大人物",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 3,
-			"value": 3
-		},
-		"sharing_text": "我的评分：★★★ 东大黑，职场版无人生还，反向运用柯南，感动东京十大人物 https://www.douban.com/doubanapp/dispatch/book/36283547 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36283547/interest/4040290206",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-12-31 23:09:37",
-		"status": "done",
-		"id": 4040290206,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 21834,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.6
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2023-4"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s34497205.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s34497205.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECPQ6LCVY?type=rank&category=book&rank_type=year",
-					"rank": 1,
-					"title": "推理·悬疑"
-				}
-			],
-			"other_versions_count": 6,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "[日] 浅仓秋成 / 2023 / 四川文艺出版社",
-			"book_subtitle": "",
-			"id": "36283547",
-			"author": [
-				"[日] 浅仓秋成"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "726565",
-				"_base_color": [
-					0,
-					0.11363636363636355,
-					0.6901960784313725
-				],
-				"secondary_color": "f9f4f4",
-				"_avg_color": [
-					0.9285714285714285,
-					0.10769230769230764,
-					0.2549019607843137
-				],
-				"primary_color_dark": "4c4343"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36283547.jpg",
-			"min_sale_price": null,
-			"press": [
-				"四川文艺出版社"
-			],
-			"pages": [
-				"256"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/36283547",
-			"url": "https://book.douban.com/subject/36283547/",
-			"title": "六个说谎的大学生",
-			"uri": "douban://douban.com/book/36283547",
-			"subtype": "book",
-			"intro": "★豆瓣2023年度推理·悬疑图书TOP1。主持人/演员杨迪五星推荐。\n★大学生求职前必看小说。\n★《金色梦乡》作者伊坂幸太郎公开表示：“2021年看过的最好的悬疑推理小说，就是浅仓秋成的《六个说谎的大学生》。”\n★日本著名游戏制作人小岛秀夫多次在社交平台推荐，并将《六个说谎的大学生》列为个人读过 的年度最佳推理小说之一。\n★职场悬疑游戏——6人密室心理战×沉浸式职场 狼人杀×华丽的叙述性诡计。最后还有温情与纯爱。\n----------------\n八年前，日本著名IT企业首次开启校招，六名大学生从五千人中脱颖而出。原以为六人团队可以全部拿到内定，但最终却是六人争夺唯一一个入职名额。伴随紧张气氛而来的，还有六封神秘“告发信”，揭发六人面具之下的“谎言”与“罪恶”。完美光鲜的名校生人设一夕崩塌，谁又能成为最终赢家……\n八年后，当年告发信“策划者”生病离世，给入职者留下新的线索，重新走访其他当事人之后，又是否能够找出隐藏多年的另一重真相……",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": null,
-		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/1867064 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1867064/interest/4025111556",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-12-17 09:58:01",
-		"status": "done",
-		"id": 4025111556,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 8503,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2006-9"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s1887693.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s1887693.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 16,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "[美] 劳伦斯·布洛克 / 2006 / 新星出版社",
-			"book_subtitle": "",
-			"id": "1867064",
-			"author": [
-				"[美] 劳伦斯·布洛克"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5323e",
-				"_base_color": [
-					0.9829545454545454,
-					0.6929133858267716,
-					0.4980392156862745
-				],
-				"secondary_color": "f9f4f5",
-				"_avg_color": [
-					0.9827586206896551,
-					0.3473053892215569,
-					0.6549019607843137
-				],
-				"primary_color_dark": "7f2730"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/1867064.jpg",
-			"min_sale_price": null,
-			"press": [
-				"新星出版社"
-			],
-			"pages": [
-				"383"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/1867064",
-			"url": "https://book.douban.com/subject/1867064/",
-			"title": "八百万种死法",
-			"uri": "douban://douban.com/book/1867064",
-			"subtype": "book",
-			"intro": "《八百万种死法》里的八百万其实是指纽约市里八百万市民。作者在书中经常写出各种离奇古怪的死法———只是在家里看电视却会无辜被炸死、跟相邻几十年的邻居会因一只新宠物而争执动武死亡。“八百万种死法”的意思是每一个人都有他们死的方法———没有人可以逃避，尤其是在纽约这个光怪陆离的罪恶城市。\n一个优雅的皮条客，昌斯，手下有六个姑娘，她们风采各异，有的能写诗，有的熟知报告文学。美丽而天真的金?达科嫩不过是其中之一。她想脱离应召女郎的生涯，找到马修寻求保护，让他跟昌斯说。马修收了金攒的私房钱但没有保住金的命。金被人捣得面目全非，死在公寓中。连金的一些朋友也一个接一个死掉。其中一个姑娘在遗书中写道：“无人愿意为我一掷千金。无人愿意与我共结连理。无人愿意救我一命。我已倦于微笑。我已疲于奔命。美好时光已成过去。”\n尽管肯·德金警官说：“妓女自杀，见怪不怪。”马修还是决定为这些逃回公道。尽管受到警告，但他一心一意要追查到底。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "书中提到了这么多的香港地名，如果制作成互动推理小说就更有沉浸感了",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 4,
-			"value": 4
-		},
-		"sharing_text": "我的评分：★★★★ 书中提到了这么多的香港地名，如果制作成互动推理小说就更有沉浸感了 https://www.douban.com/doubanapp/dispatch/book/34262174 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34262174/interest/4010166218",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-12-02 22:06:30",
-		"status": "done",
-		"id": 4010166218,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 23898,
-				"max": 10,
-				"star_count": 4,
-				"value": 8.1
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2019-8"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s33442256.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s33442256.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECT45OM5A?type=rank&category=book&rank_type=topn_book",
-					"rank": 64,
-					"title": "豆瓣推理小说 Top100"
-				}
-			],
-			"other_versions_count": 12,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "陈浩基 / 2019 / 九州出版社",
-			"book_subtitle": "",
-			"id": "34262174",
-			"author": [
-				"陈浩基"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "726f0b",
-				"_base_color": [
-					0.1606060606060606,
-					0.8979591836734694,
-					0.9607843137254902
-				],
-				"secondary_color": "f9f9f4",
-				"_avg_color": [
-					0.1488095238095238,
-					0.6774193548387096,
-					0.48627450980392156
-				],
-				"primary_color_dark": "4c4a07"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/34262174.jpg",
-			"min_sale_price": null,
-			"press": [
-				"九州出版社"
-			],
-			"pages": [
-				"511"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/34262174",
-			"url": "https://book.douban.com/subject/34262174/",
-			"title": "网内人",
-			"uri": "douban://douban.com/book/34262174",
-			"subtype": "book",
-			"intro": "豆瓣2019读书榜单·推理悬疑第1名\n新周刊·硬核读书会虚构类十大好书\n四十年来首度入选《周刊文春》海外推理BEST10的亚洲作家，《周刊文春》2018年度推理小说&海外推理双冠军得主\n2018“这本推理小说了不起！”（このミステリーがすごい! ）海外作家第二名\n获岛田庄司、王家卫盛赞，重新定义华文推理新高度\n14岁的女中学生曲雅雯死了，她 从二十二楼坠下，警察说是自杀，但她的姐姐阿怡知道，小雯是被“杀死”的。毕竟她在去世前，才因为一起性骚扰案遭到网络霸凌，姓名、学校都被公开，一个网名“kidkit727”的网民以骚扰犯外甥的名义对她发动攻击，声称她是诬告。小雯每天忍受着网友不 堪的辱骂和陌生人恶毒的眼光。\n为找出背后攻击小雯致使她自杀的始作俑者，阿怡找上了神秘的无牌侦探阿涅，阿涅茧居在破落的旧大楼里，生活邋遢、性情乖戾，却拥有超凡的黑客技术。他很快缩小了调查范围，推断幕后黑手就隐藏在小雯身边，小雯的死会是校园霸凌的恶性后果吗？\n但随着真相一层层剥开，阿怡心底那个“妹妹”的形象却渐渐模糊。不知不觉中，她陷入亲情与谎言的迷障里无法抽身，而罪与罚的天平也开始倾斜，急速倒向难以意料的结局。\n【编辑推荐】\n每个人都是网络暴力潜在的施暴者与受害人\n★深入都市日常，捕捉真实生活，构筑一出后真相时代的人物众生相。\n——如果说陈浩基之前获奖无数的《13•67》构架的是昔日香港的光辉与焦灼，那么这部《网内人》刻绘的就是今日香港乃至所有超级都市中芸芸众生的迷惘与焦躁——在迷失中成长与夭折的中学男生女生、为生计奔波的普通职员、野心勃勃的职场精英、无形之中推波助澜的网络暴民。陈浩基以推理小说的逻辑推演方式，将现代社会中的生存困境与人心诡谲展示得淋漓尽致。\n★质问弱肉强食的都市生存逻辑，真实构建互联网时代的职场争斗与残酷角逐。\n——在这个弱肉强食的社会，每个人都分饰着“利用者”和“被利用者”，擅长利用人性弱点的人跻身成功人士之列，被侮辱与被损害者无力通天。陈浩基借用主角阿涅的双重身份，揭露所谓职场精英在飞速发展的社会环境中的扭曲心态与行为，对当今社会的生存逻辑发出质疑。\n★讲述现代都市中的生存压力与复杂人性，披露无所不在的网络安全危机，直面互联网时代的网络霸凌现象。\n——从地铁wifi到邮件追踪，从网站讨论区的匿名帖到生命的真实陨落，陈浩基真切而残酷地揭示了，网络的能量如何变成杀人凶手，面对这个瞬息万变的信息社会，我们应当如何在妥善保护自身信息的同时，维持内心的正义。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 2,
-			"value": 2
-		},
-		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/25731397 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25731397/interest/3832045960",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-06-27 10:02:17",
-		"status": "done",
-		"id": 3832045960,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 2570,
-				"max": 10,
-				"star_count": 3.5,
-				"value": 6.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2013-10"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s27102410.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s27102410.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 2,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "荒木经惟 / 2013 / 广西师范大学出版社",
-			"book_subtitle": "",
-			"id": "25731397",
-			"author": [
-				"荒木经惟"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "720a1c",
-				"_base_color": [
-					0.9705882352941176,
-					0.9077669902912622,
-					0.807843137254902
-				],
-				"secondary_color": "f9f4f5",
-				"_avg_color": [
-					0.9657534246575343,
-					0.5934959349593496,
-					0.4823529411764706
-				],
-				"primary_color_dark": "4c0713"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/25731397.jpg",
-			"min_sale_price": null,
-			"press": [
-				"广西师范大学出版社"
-			],
-			"pages": [
-				"288"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/25731397",
-			"url": "https://book.douban.com/subject/25731397/",
-			"title": "漫步东京",
-			"uri": "douban://douban.com/book/25731397",
-			"subtype": "book",
-			"intro": "摩天大楼群形成的山谷之间、老街的巷弄里、山手线沿线的住宅街、墓地……荒木经惟漫步在他所深爱的城市－－东京。他在途中邂逅了美女，重新体验令人怀念的昭和风情，以及未随着时代变化的孩童笑颜。这一路上，有幸福、有梦。和偶遇的人们凝视、交谈的霎时，荒木的摄影机纪录了迸发于该时空的微妙情感，随意走走如此行进之真意亦在底片感光下解构而出。“女性是最棒的，街道也是最棒的。”名照片以名言点缀的本书，正是“漫步”与“街道纪实摄影”的极致之作！",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "一个下午看完了，有很多相似的经历，比如住YHA",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ 一个下午看完了，有很多相似的经历，比如住YHA https://www.douban.com/doubanapp/dispatch/book/7067934 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/7067934/interest/3823419459",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-06-18 22:03:11",
-		"status": "done",
-		"id": 3823419459,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 4462,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2012-2"
-			],
-			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/l/public/s8511972.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s8511972.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "吴非 / 2012 / 中信出版社",
-			"book_subtitle": "一年实现一个梦",
-			"id": "7067934",
-			"author": [
-				"吴非"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "9da3a5",
-				"_base_color": [
-					0.5499999999999998,
-					0.04999999999999996,
-					0.7843137254901961
-				],
-				"secondary_color": "f4f8f9",
-				"_avg_color": [
-					0.23333333333333317,
-					0.03906249999999997,
-					0.5019607843137255
-				],
-				"primary_color_dark": "797d7f"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/7067934.jpg",
-			"min_sale_price": null,
-			"press": [
-				"中信出版社"
-			],
-			"pages": [
-				"360"
-			],
-			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/7067934",
-			"url": "https://book.douban.com/subject/7067934/",
-			"title": "打工旅行",
-			"uri": "douban://douban.com/book/7067934",
-			"subtype": "book",
-			"intro": "豆瓣、磨房、天涯顶级精华帖\n一件在18-30岁才有资格去做的事\n一年仅1000名额的免费深度旅行\n一人一生只有一次机会\n世界上最IN的乐活方式\n新西兰打工旅行，跳起来就够着的生活\n房子、车子、工作的压力都让我们赶上了，还好，打工旅行的潮流也让我们赶上了。\n没买过车子，没买过房子，我买过最贵的东西，是梦想\n打工+旅行+恋爱+一年自由的生活=梦想\n在都市里一年，不过是大同小异的365天，和许多同龄人一样，吴非知道这生活不是自己想要的，但又不知道自己想要什么。偶然的机会，他知道有一种旅行，方法很贫穷，却可以改变人的一生：打工旅行。2010年4月，他辞职，带着200美元前往新西兰，开始了这段冒险的旅程。\n在新西兰，吴非干了十几份不同的工作：猎人的助手，监狱临时演员，日本餐厅厨师，猕猴桃果园摘果，葡萄园剪枝，大学清洁工……他在当地人家换宿，喂猪、劈材、除草，自由自在做农民。打工攒了钱，便去旅行。\n基督城、皇后镇、米尔福德峡湾、奥克兰、罗托鲁瓦……在这个天堂的国度里，人生是如此不同，生命还有无数种可能。他一个人去汤加丽罗国家公园徒步探险，还差点被大风吹走了。在苹果包装厂，他邂逅了现在的台湾女友。和爱人的环岛旅程，让他拥有了一段成人以后最无忧无虑的回忆。\n有些事一定要趁年轻的时候去干，如果不去做，永远也不知道能超越自己。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 4,
-			"value": 4
-		},
-		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/36037745 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36037745/interest/4069699533",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2024-02-04 19:57:44",
-		"status": "done",
-		"id": 4069699533,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 2547,
+				"count": 2554,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -10546,7 +10681,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24297,
+				"count": 24384,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -10636,7 +10771,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21834,
+				"count": 21912,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -10724,7 +10859,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4211,
+				"count": 4213,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -10807,10 +10942,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 366,
+				"count": 368,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10893,7 +11028,7 @@
 				"count": 101,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.5
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11058,7 +11193,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 792,
+				"count": 793,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -11475,7 +11610,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23898,
+				"count": 23925,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -11568,7 +11703,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 468,
+				"count": 469,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -11651,7 +11786,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1497,
+				"count": 1500,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -11899,7 +12034,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 886,
+				"count": 888,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -12393,7 +12528,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2570,
+				"count": 2571,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -12897,7 +13032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2422,
+				"count": 2427,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -12987,7 +13122,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3388,
+				"count": 3394,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -13080,7 +13215,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 381,
+				"count": 382,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -13165,7 +13300,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4134,
+				"count": 4137,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -13255,7 +13390,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 692,
+				"count": 693,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -13340,7 +13475,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2718,
+				"count": 2726,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -13600,7 +13735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33533,
+				"count": 33955,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -13694,7 +13829,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1163,
+				"count": 1164,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -13858,7 +13993,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21354,
+				"count": 21385,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -13875,8 +14010,7 @@
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
 			],
 			"card_subtitle": "天然 / 2020 / 湖南文艺出版社",
 			"book_subtitle": "",
@@ -14029,7 +14163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5133,
+				"count": 5135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -14119,7 +14253,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1440,
+				"count": 1442,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -14288,7 +14422,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1212,
+				"count": 1213,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -14542,10 +14676,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1196,
+				"count": 1197,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14708,7 +14842,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3833,
+				"count": 3834,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -14792,7 +14926,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 344429,
+				"count": 344529,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -14885,7 +15019,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4277,
+				"count": 4285,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -14968,7 +15102,7 @@
 				"count": 913,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.5
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15057,7 +15191,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 465,
+				"count": 467,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -15141,10 +15275,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1323,
+				"count": 1326,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15392,10 +15526,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65,
+				"count": 66,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.5
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15753,7 +15887,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 545,
+				"count": 546,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -15842,7 +15976,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 302,
+				"count": 303,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -15926,7 +16060,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 56181,
+				"count": 56311,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -16207,7 +16341,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18327,
+				"count": 18347,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -16295,7 +16429,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3521,
+				"count": 3529,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -16379,7 +16513,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26658,
+				"count": 26672,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -16472,7 +16606,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19467,
+				"count": 19480,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -16565,7 +16699,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 136914,
+				"count": 136989,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -16582,7 +16716,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 18,
+					"rank": 17,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -16657,7 +16791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8358,
+				"count": 8366,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -16742,7 +16876,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5526,
+				"count": 5532,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -16830,7 +16964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2462,
+				"count": 2463,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -16916,7 +17050,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20373,
+				"count": 20413,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -17008,10 +17142,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2459,
+				"count": 2464,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17369,7 +17503,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14600,
+				"count": 14618,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -17454,7 +17588,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1003,
+				"count": 1005,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -17551,7 +17685,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5176,
+				"count": 5183,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -17639,7 +17773,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10128,
+				"count": 10138,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -17733,7 +17867,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1235,
+				"count": 1234,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -17820,10 +17954,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2884,
+				"count": 2888,
 				"max": 10,
-				"star_count": 4,
-				"value": 8.4
+				"star_count": 4.5,
+				"value": 8.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17996,7 +18130,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1464,
+				"count": 1466,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -18081,7 +18215,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 108919,
+				"count": 109085,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -18254,7 +18388,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12773,
+				"count": 12774,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
