@@ -4,6 +4,258 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/37007394 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37007394/interest/4526984047",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-07-19 17:22:30",
+		"status": "done",
+		"id": 4526984047,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2024-10-24"
+			],
+			"pic": {
+				"large": "https://img2.doubanio.com/view/subject/l/public/s34988621.jpg",
+				"normal": "https://img2.doubanio.com/view/subject/m/public/s34988621.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "Jeremy Clarkson 杰里米·克拉克森 / 2024 / Penguin",
+			"book_subtitle": "",
+			"id": "37007394",
+			"author": [
+				"Jeremy Clarkson",
+				"杰里米·克拉克森"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a58b39",
+				"_base_color": [
+					0.12711864406779658,
+					0.6555555555555556,
+					0.7058823529411765
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.17901234567901234,
+					0.17880794701986757,
+					0.592156862745098
+				],
+				"primary_color_dark": "7f6b2b"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/37007394.jpg",
+			"min_sale_price": null,
+			"press": [
+				"Penguin"
+			],
+			"pages": [
+				"196"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/37007394",
+			"url": "https://book.douban.com/subject/37007394/",
+			"title": "Diddly Squat: Home to Roost",
+			"uri": "douban://douban.com/book/37007394",
+			"subtype": "book",
+			"intro": "Welcome back to Clarkson’s Farm.\nSo, that went well …\nThe spring barley crop failed. Just like the oil seed rape. And the durum wheat. Then the oats turned the colour of a hearing aid and the mushrooms went mouldy. Farming sheep, pigs and cows was hardly more lucrative. Jeremy would be better off trying to breed ostriches.\nBut in the face of uncooperative weather, the relentless realities of the agricultural economy, bureaucracy, a truculent local planning department and the world’s persistent refusal to recognise his ingenuity and genius, our hero’s not beaten yet. Not while the farm shop’s still doing a roaring trade in candles that smell like his knacker hammock, he isn’t.\nOn the face of it, the challenges of making a success of Diddly Squat are enough to have you weeping into your (Hawkstone) beer, but misery loves company and in girlfriend Lisa, Farm Manager Kaleb, Cheerful Charlie and Gerald his Head of Security Jeremy knows he’s got the best. And it’s hard for a chap to feel too gloomy about things when there’s a JCB telehandler, a crop-spraying hovercraft and a digger in the barn.\nBecause as a wise man* once said, ‘there’s no man alive who wouldn’t have fun with a digger …’\n*Jeremy",
+			"buy_more_uri": "",
+			"null_rating_reason": "暂无评分",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/6084769 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6084769/interest/4588995522",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-07-19 17:07:03",
+		"status": "done",
+		"id": 4588995522,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 37,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-6"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s34792906.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s34792906.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "友松悦子 和栗雅子 宮本淳 / 2010 / アルク",
+			"book_subtitle": "",
+			"id": "6084769",
+			"author": [
+				"友松悦子",
+				"和栗雅子",
+				"宮本淳"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a5a5a2",
+				"_base_color": [
+					0.16666666666666666,
+					0.020576131687242726,
+					0.9529411764705882
+				],
+				"secondary_color": "f9f9f4",
+				"_avg_color": [
+					0.19444444444444442,
+					0.026431718061673916,
+					0.8901960784313725
+				],
+				"primary_color_dark": "7f7f7c"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/6084769.jpg",
+			"min_sale_price": null,
+			"press": [
+				"アルク"
+			],
+			"pages": [
+				"531"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/6084769",
+			"url": "https://book.douban.com/subject/6084769/",
+			"title": "どんなときどう使う日本語表現文型辞典",
+			"uri": "douban://douban.com/book/6084769",
+			"subtype": "book",
+			"intro": "日本語能力試験N1N5の重要表現を網羅。「文型」の意味·機能·使い方などをわかりやすく例文の中で提示し、解説。解説には英語·中国語·韓国語の翻訳を付記。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 2,
+			"value": 2
+		},
+		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/26853001 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26853001/interest/4584708889",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-07-14 22:58:11",
+		"status": "done",
+		"id": 4584708889,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 23,
+				"max": 10,
+				"star_count": 3,
+				"value": 6
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2015"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s28964248.jpg",
+				"normal": "https://img1.doubanio.com/view/subject/m/public/s28964248.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 0,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "Milly / 2015 / 电子工业出版社",
+			"book_subtitle": "",
+			"id": "26853001",
+			"author": [
+				"Milly"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "726151",
+				"_base_color": [
+					0.07936507936507937,
+					0.2876712328767123,
+					0.28627450980392155
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.07894736842105259,
+					0.14960629921259844,
+					0.4980392156862745
+				],
+				"primary_color_dark": "4c4036"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26853001.jpg",
+			"min_sale_price": null,
+			"press": [
+				"电子工业出版社"
+			],
+			"pages": [
+				"253"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/26853001",
+			"url": "https://book.douban.com/subject/26853001/",
+			"title": "Milly的旅日任性时光",
+			"uri": "douban://douban.com/book/26853001",
+			"subtype": "book",
+			"intro": "本书是Milly旅行日本多年来独家工具与行程规划法首度披露。Milly旅行社社长带团，包含全日本最精华的旅游路段：十天九夜“女子好好游”／六天五夜“春日古都漫游”／六天五夜“雪国欢乐团”。不管是一个人旅行、二个人旅行、全家人旅行都能完全充分体会认自助游的乐趣，认识到旅人的做派与旅行的真谛。那些以信任为基础的温暖感悟，一点一滴交织成最美好的回忆，享受 不思议旅程。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 4,
 			"value": 4
 		},
@@ -19,10 +271,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42,
+				"count": 59,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.6
+				"star_count": 4,
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -268,7 +520,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1041,
+				"count": 1044,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -437,7 +689,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 349,
+				"count": 350,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -480,7 +732,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35070926.jpg",
-			"min_sale_price": "¥43.8",
+			"min_sale_price": "¥43.7",
 			"press": [
 				"广东旅游出版社"
 			],
@@ -603,7 +855,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3823,
+				"count": 4005,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -693,7 +945,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6530,
+				"count": 6588,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -786,10 +1038,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1411,
+				"count": 1417,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -869,7 +1121,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1679,
+				"count": 1690,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -959,7 +1211,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3620,
+				"count": 3629,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -1052,10 +1304,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 831,
+				"count": 833,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1382,7 +1634,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3457,
+				"count": 3598,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -1468,10 +1720,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14125,
+				"count": 14217,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.3
+				"value": 7.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1802,10 +2054,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14537,
+				"count": 14551,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1894,7 +2146,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 640,
+				"count": 641,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -2148,7 +2400,7 @@
 				"count": 662,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2231,7 +2483,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2998,
+				"count": 3016,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -2407,7 +2659,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 493,
+				"count": 504,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2493,7 +2745,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12313,
+				"count": 12372,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2659,7 +2911,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 693,
+				"count": 694,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2886,7 +3138,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1969,
+				"count": 1971,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -2972,10 +3224,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4195,
+				"count": 4207,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.5
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3313,7 +3565,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 337,
+				"count": 338,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -3479,7 +3731,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1293,
+				"count": 1294,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -3650,7 +3902,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2196,
+				"count": 2200,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3816,10 +4068,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 362,
+				"count": 364,
 				"max": 10,
 				"star_count": 2.5,
-				"value": 5.2
+				"value": 5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3901,7 +4153,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 907,
+				"count": 908,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -3986,10 +4238,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1370,
+				"count": 1372,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.4
+				"value": 7.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4072,7 +4324,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7419,
+				"count": 7440,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -4241,7 +4493,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1343,
+				"count": 1344,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -4327,7 +4579,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25684,
+				"count": 25763,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4417,7 +4669,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1340,
+				"count": 1345,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4549,7 +4801,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36692828.jpg",
-			"min_sale_price": "¥37.4",
+			"min_sale_price": "¥47.33",
 			"press": [
 				"人民文学出版社"
 			],
@@ -4755,7 +5007,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2325,
+				"count": 2329,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -4838,7 +5090,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4666,
+				"count": 4676,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -5014,7 +5266,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2870,
+				"count": 2871,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -5100,7 +5352,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 893,
+				"count": 894,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -5266,7 +5518,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6260,
+				"count": 6261,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -5351,7 +5603,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3809,
+				"count": 3813,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -5437,7 +5689,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 982,
+				"count": 984,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -5523,7 +5775,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 312,
+				"count": 317,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -5608,10 +5860,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4213,
+				"count": 4215,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.4
+				"value": 7.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5693,7 +5945,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10398,
+				"count": 10405,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -5778,7 +6030,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15385,
+				"count": 15395,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -5868,10 +6120,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10557,
+				"count": 10572,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5954,7 +6206,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10960,
+				"count": 10965,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -6039,7 +6291,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1129,
+				"count": 1132,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6122,7 +6374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1523,
+				"count": 1524,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6205,7 +6457,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5320,
+				"count": 5324,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6288,7 +6540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11688,
+				"count": 11690,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -6454,10 +6706,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1595,
+				"count": 1599,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6539,7 +6791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4185,
+				"count": 4186,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -6624,7 +6876,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7008,
+				"count": 7011,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -6709,7 +6961,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4514,
+				"count": 4515,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -6794,7 +7046,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 509,
+				"count": 513,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -6877,7 +7129,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 647,
+				"count": 649,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -6967,7 +7219,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2596,
+				"count": 2604,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -7060,7 +7312,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213761,
+				"count": 213773,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -7401,7 +7653,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22090,
+				"count": 22109,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -7418,7 +7670,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/ECMYH22JI?type=rank&category=book&rank_type=award_book",
-					"rank": 10,
+					"rank": 24,
 					"title": "芥川奖获奖作品"
 				}
 			],
@@ -7658,7 +7910,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1726,
+				"count": 1729,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -7824,7 +8076,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4675,
+				"count": 4692,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -7877,7 +8129,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36170929.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥38.4",
 			"press": [
 				"四川文艺出版社"
 			],
@@ -7890,7 +8142,7 @@
 			"uri": "douban://douban.com/book/36170929",
 			"subtype": "book",
 			"intro": "一座玻璃塔在雪地深处的森林中闪闪发光。地上十一层，地下一层，它是一个美丽而巨大的尖顶塔。在热爱推理小说的馆主的邀请下，刑警、医生、小说家、编辑、名侦探等各具特色的嘉宾聚集到玻璃塔中。当晚，馆主预定发表重大消息，但在那之前却在密室里被杀了。第二天，玻璃塔因附近山上的雪崩而关闭了交通和通信。被困在塔里的人们，等待警察的帮助，却接二连三地发生了密室杀人事件。此外，还有人用血写下了十三年前的一件疑案。名侦探碧月夜和医生一条游马追查着谜团……\n出人意料的开始，高能不断的剧情，压倒性的诡计伏笔，还有令人惊愕的结局。你准备好接受挑战了吗？",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/36170929/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -7917,7 +8169,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3491,
+				"count": 3497,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -8002,10 +8254,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 975,
+				"count": 977,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8088,10 +8340,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3319,
+				"count": 3323,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.5
+				"star_count": 3.5,
+				"value": 7.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8185,7 +8437,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3679,
+				"count": 3688,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8271,10 +8523,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 957,
+				"count": 958,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8317,7 +8569,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35929083.jpg",
-			"min_sale_price": "¥32.6",
+			"min_sale_price": null,
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -8330,7 +8582,7 @@
 			"uri": "douban://douban.com/book/35929083",
 			"subtype": "book",
 			"intro": "本书以通俗晓畅的语言，系统梳理了世界推理小说180年历史长河中形成的各大流派，精要介绍了各大流派代表性的作家及作品，是一部轻松幽默、普及性的推理小说简史，可谓推理小说迷的案头必备读物。\n此次修订，作者追踪研究了近十年来世界推理小说的最新发展进程，篇幅由初版的12万字增加到30万字，由7个章节增加到10个章节，在各个方面都进行了补充、完善。\n本书附赠：（1）推理迷专属笔记本（2）推理迷专属卡片（3）推理小说200部推荐阅读打卡表",
-			"buy_more_uri": "douban://douban.com/book/35929083/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -8440,10 +8692,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 259,
+				"count": 260,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.9
+				"value": 6.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8571,7 +8823,7 @@
 				"云南人民出版社"
 			],
 			"pages": [
-				"248"
+				"256"
 			],
 			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/11608766",
 			"url": "https://book.douban.com/subject/11608766/",
@@ -8606,10 +8858,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 376,
+				"count": 377,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8872,7 +9124,7 @@
 				"normal": "https://img3.doubanio.com/view/subject/m/public/s8993083.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 15,
+			"other_versions_count": 16,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
@@ -8944,7 +9196,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3669,
+				"count": 3677,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -9194,7 +9446,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 336,
+				"count": 339,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -9325,7 +9577,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36636545.jpg",
-			"min_sale_price": "¥26.4",
+			"min_sale_price": "¥24.0",
 			"press": [
 				"新星出版社"
 			],
@@ -9365,7 +9617,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1944,
+				"count": 1945,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -9451,7 +9703,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2281,
+				"count": 2283,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -9497,7 +9749,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35063970.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥21.5",
 			"press": [
 				"新星出版社"
 			],
@@ -9510,7 +9762,7 @@
 			"uri": "douban://douban.com/book/35063970",
 			"subtype": "book",
 			"intro": "★内容介绍\n《深蓝的故事2：局中人》延续了深蓝的一贯笔致，继续深挖从业多年目睹的大大小小案件，读之时而令人唏嘘不已，时而为人性之复杂瞠目结舌。书中便选取了19个这样的故事。其中有为抓捕犯人不惜“卧底”11年的三大队队长，有平日冷漠脸、甩脸子实则自己连续潜伏60小时殉职的警长，还有为帮女友戒毒、自己当了警察的林所长，另外还有春节致命酒、高招诈骗、校园霸凌引发的误会和悲剧，以及改制、退休等一系列民生热点，从中可见社会百态。\n这些故事的出版，既可以让普通读者更了解基层民警的工作日常，又能用案件警示人们。作者的写法也较第一本相比娴熟了不少，内容上警察的篇幅也多了起来，是名副其实的“新警察故事”。无论从文学价值还是社会价值来看，都是一部优秀的非虚构作品。\n------------------------------------------------\n◎书中《请转告局长，三大队任务完成了》已签下影视版权，影视改编中。\n◎豆瓣“中国文学（非小说类）十大好书”、第二届做書奖获得者，CCTV-10专题推荐的作家——深蓝全新作品，延续《深蓝的故事》的笔触，在内容上更加深刻，令人时而唏嘘，时而惊心。\n◎来自基层民警的一线案件真实记录，非虚构代表作品。\n◎网易·人间诚挚推荐！\n★编辑推荐\n他，为抓犯人，不惜追凶千里“卧底”11年；\n他，表面冷漠，实则为报师父、徒弟皆被歹徒杀害之仇连续潜伏60小时殉职；\n他，吸毒十几年，发现儿子也吸毒后自己做特情，发誓要将儿子身边所有“坏朋友”拉下水，断了自己的后路；\n他，因喝酒24年来每每错失升迁，最后一次好不容易成功，却再次因为豪饮而永远倒在了庆功宴后的雪地里；\n他们，为一个“赌”字赔上了自己的一生；\n……\n肩负着人民警察的职责，深蓝看似站在每个故事之外，但在这一个个如此平常又如此厚重的血与泪、希望与绝望交织的人生故事中，又有多少人能置身事外？深蓝用他的笔记录下这些人心之幽暗与人性之复杂，拉开人间的大幕。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35063970/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -9537,7 +9789,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3114,
+				"count": 3120,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -9789,7 +10041,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 443,
+				"count": 445,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -9875,7 +10127,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2193,
+				"count": 2197,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -10044,10 +10296,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1764,
+				"count": 1779,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10211,7 +10463,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9944,
+				"count": 9950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -10303,7 +10555,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29588,
+				"count": 29634,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -10396,7 +10648,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4415,
+				"count": 4428,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -10583,7 +10835,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10355,
+				"count": 10380,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -10676,7 +10928,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2993,
+				"count": 2994,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -10759,7 +11011,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6692,
+				"count": 6699,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -10844,7 +11096,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 311132,
+				"count": 311230,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11014,10 +11266,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1112,
+				"count": 1116,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.5
+				"star_count": 3.5,
+				"value": 7.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11269,10 +11521,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2095,
+				"count": 2102,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11368,7 +11620,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2649,
+				"count": 2653,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -11552,7 +11804,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 900,
+				"count": 901,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -11718,7 +11970,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25478,
+				"count": 25556,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -11808,7 +12060,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23038,
+				"count": 23108,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -11979,7 +12231,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 380,
+				"count": 382,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -12313,7 +12565,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 96,
+				"count": 97,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -12399,7 +12651,7 @@
 				"count": 515,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -12647,7 +12899,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24295,
+				"count": 24336,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12740,7 +12992,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 477,
+				"count": 478,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -12823,7 +13075,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1558,
+				"count": 1559,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -13071,7 +13323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 905,
+				"count": 906,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -13235,10 +13487,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25,
+				"count": 26,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 9.4
+				"star_count": 5,
+				"value": 9.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13900,7 +14152,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 336,
+				"count": 337,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -14069,7 +14321,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2494,
+				"count": 2498,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -14159,7 +14411,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3485,
+				"count": 3488,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -14337,7 +14589,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4238,
+				"count": 4242,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -14427,10 +14679,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 704,
+				"count": 705,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14512,10 +14764,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2773,
+				"count": 2776,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14773,7 +15025,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38769,
+				"count": 39052,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -15030,7 +15282,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21736,
+				"count": 21759,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15202,7 +15454,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5174,
+				"count": 5177,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -15292,10 +15544,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1473,
+				"count": 1474,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15375,7 +15627,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 739,
+				"count": 741,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -15461,7 +15713,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1221,
+				"count": 1223,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -15544,7 +15796,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 825,
+				"count": 826,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -15630,7 +15882,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 361,
+				"count": 362,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -15713,7 +15965,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1243,
+				"count": 1247,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -15796,7 +16048,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1359,
+				"count": 1360,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -15879,7 +16131,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3864,
+				"count": 3865,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -16023,7 +16275,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4375,
+				"count": 4382,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -16068,7 +16320,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35324197.jpg",
-			"min_sale_price": "¥46.5",
+			"min_sale_price": "¥51.8",
 			"press": [
 				"四川美术出版社"
 			],
@@ -16279,7 +16531,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1342,
+				"count": 1343,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -16630,7 +16882,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 772,
+				"count": 773,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -16677,7 +16929,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27598727.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥35.0",
 			"press": [
 				"中信出版社"
 			],
@@ -16690,7 +16942,7 @@
 			"uri": "douban://douban.com/book/27598727",
 			"subtype": "book",
 			"intro": "本书为经济类商业图书，是吉卜力社长首次亲口公开吉卜力30年的奋斗史。本书是正值吉卜力工作室成立30周年之际，由社长铃木敏夫口述，柳桥闲执笔的作品，从宣传和票房而非制作的角度来解读吉卜力工作室30年来的秘密。全书共分为六个章节，按照时间顺序介绍了吉卜力自创始以来制作全23部长篇电影作品的历程。每一部作品又从题名、宣传语和视觉图的构思及与其他企业联动宣传活动的这两大方面具体描述了电影从企划开始到正式上映为止宣传工作的全过程。不仅是吉卜力的成长历程，更是铃木敏夫自身从一个对电影宣传工作一无所知的门外汉，到成为一名成熟的制作人的心路历程。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/27598727/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -16850,7 +17102,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30162926.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥19.4",
 			"press": [
 				"浙江大学出版社"
 			],
@@ -16861,7 +17113,7 @@
 			"uri": "douban://douban.com/book/30162926",
 			"subtype": "book",
 			"intro": "龙猫的肚子为什么让人那么想扑上去？让琪琪重新飞起来的是什么魔法？汤婆婆的背后隐藏着怎样的世界？一个递香蕉的动作为什么震惊了宫崎骏？\n这些看似不经意的细节背后，隐藏着吉卜力感动世界的原因，也是宫崎骏、高畑勋等顶尖创意人被称为“天才”的原因。吉卜力的动画人是如何创造和构思内容的？在制作内容的过程中，他们曾经历怎样的波折，又是怎样和创作手法“死磕”，避开套路的？如何做到每部作品都能卖座，让全世界的观众都被深深吸引？\n自从进入吉卜力工作室的铃木敏夫制作人门下学习，川上量生就开始尝试对内容论做出自己的解读。本书是他对“内容”的重新定义与再次探索。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/30162926/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -16891,7 +17143,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 551,
+				"count": 552,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -16980,7 +17232,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309,
+				"count": 310,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -17064,7 +17316,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 57626,
+				"count": 57721,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -17081,7 +17333,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 102,
+					"rank": 101,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -17169,7 +17421,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 268,
+				"count": 269,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -17344,7 +17596,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18617,
+				"count": 18647,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -17390,7 +17642,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35552655.jpg",
-			"min_sale_price": "¥16.0",
+			"min_sale_price": null,
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -17403,7 +17655,7 @@
 			"uri": "douban://douban.com/book/35552655",
 			"subtype": "book",
 			"intro": "脱口秀行业的大部分工作，都和创作有关。创意看似是智力活儿，其实是体力活儿，归根结底是苦力活儿。李诞从脱口秀编剧做起，线上线下，台前幕后，该干的不该干的，只要跟脱口秀有关的工作，他几乎全干过了。\n这是李诞写给所有创意工作者的一本工作手册。在本书中，李诞毫无保留地分享了从业以来所有的创作心得，既有具体的创作方法，写逐字稿、天天写稿，也有对待工作的态度，你的全部人生都理应要为你的创作提供养分。除此之外，他还悉心解答了创意工作者在创作、工作过程中遇到的困惑与难题。这些方法、习惯成就了李诞，也会让你收获信念和实实在在的方法。",
-			"buy_more_uri": "douban://douban.com/book/35552655/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -17433,7 +17685,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3627,
+				"count": 3633,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -17517,7 +17769,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26842,
+				"count": 26866,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -17610,7 +17862,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19668,
+				"count": 19689,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -17703,7 +17955,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137867,
+				"count": 137945,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -17720,7 +17972,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 17,
+					"rank": 18,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -17795,7 +18047,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8504,
+				"count": 8512,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -17838,7 +18090,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4832584.jpg",
-			"min_sale_price": "¥90.6",
+			"min_sale_price": "¥89.0",
 			"press": [
 				"广州出版社"
 			],
@@ -17880,7 +18132,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5654,
+				"count": 5664,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -17968,7 +18220,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2476,
+				"count": 2477,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -18054,7 +18306,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20923,
+				"count": 20950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -18071,7 +18323,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 117,
+					"rank": 114,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -18146,7 +18398,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2538,
+				"count": 2544,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -18507,7 +18759,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14800,
+				"count": 14813,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -18550,7 +18802,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35250412.jpg",
-			"min_sale_price": "¥17.0",
+			"min_sale_price": null,
 			"press": [
 				"上海文艺出版社"
 			],
@@ -18563,7 +18815,7 @@
 			"uri": "douban://douban.com/book/35250412",
 			"subtype": "book",
 			"intro": "《候场》是李诞在2020年初完成的一部中篇小说。这本书里，李诞写了一个叫“李诞”的人的故事。“一个在迅速扩张的大时代，一个懵懵懂懂踏入名利场的年轻人，度过激流勇进浑浑噩噩指东打西的短暂人生的成功人士，通过他的观察为我们写下了自己的证词。”\n读者恐怕要把“李诞”直接认作李诞，但这是一部小说，它只是带我们来观察这样一个心灵的样本。如果说这个时代的精神就是娱乐，那么这部小说希望你听到笑声间歇时刻，那些梦想脆断的声音，你将看到这一代杰出的头脑毁于大笑，你也将看到良心、友谊、爱情，如何黏合住了这眼看就要垮掉的世界。",
-			"buy_more_uri": "douban://douban.com/book/35250412/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -18592,7 +18844,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1040,
+				"count": 1045,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -18689,7 +18941,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5275,
+				"count": 5277,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -18777,7 +19029,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10325,
+				"count": 10342,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -18790,14 +19042,7 @@
 				"large": "https://img2.doubanio.com/view/subject/l/public/s33732571.jpg",
 				"normal": "https://img2.doubanio.com/view/subject/m/public/s33732571.jpg"
 			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECBU5VZYQ?type=rank&category=book&rank_type=award_book",
-					"rank": 55,
-					"title": "第十六届文津图书奖获奖图书和推荐图书"
-				}
-			],
+			"honor_infos": [],
 			"other_versions_count": 4,
 			"is_show": false,
 			"vendor_icons": [],
@@ -18958,7 +19203,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2945,
+				"count": 2948,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -19134,7 +19379,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1466,
+				"count": 1467,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -19219,10 +19464,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111142,
+				"count": 111301,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -19391,7 +19636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12804,
+				"count": 12807,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
