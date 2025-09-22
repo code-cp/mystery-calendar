@@ -4,6 +4,176 @@
 		"rating": {
 			"count": 1,
 			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/33450001 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33450001/interest/4643769934",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-09-17 21:49:02",
+		"status": "done",
+		"id": 4643769934,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 443,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 7.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2019-9"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s33472034.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s33472034.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 3,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "[日] 宫部美雪 / 2019 / 北京联合出版公司",
+			"book_subtitle": "",
+			"id": "33450001",
+			"author": [
+				"[日] 宫部美雪"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a59b85",
+				"_base_color": [
+					0.11616161616161619,
+					0.19526627218934908,
+					0.6627450980392157
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.13194444444444456,
+					0.15483870967741936,
+					0.6078431372549019
+				],
+				"primary_color_dark": "7f7766"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/33450001.jpg",
+			"min_sale_price": null,
+			"press": [
+				"北京联合出版公司"
+			],
+			"pages": [
+				"235"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/33450001",
+			"url": "https://book.douban.com/subject/33450001/",
+			"title": "幻色江户怪谈",
+			"uri": "douban://douban.com/book/33450001",
+			"subtype": "book",
+			"intro": "日本国民作家宫部美雪令人惊艳的时代小说！\n奇幻的江户，挣扎求生的庶民，十二个心酸又温柔的悬疑故事\n“胆小鬼有胆小鬼的人生，这话虽然残酷，但我是这么认为的。这世上一定有胆小鬼的容身之处，你不能逃避，只要逃避一次，就必须终生逃避。”\n-------------------------\n十二个苦涩又温暖的短篇故事，一个时代的烟火人生。\n年关将近，酒批发商的佛龛深夜起火，火源竟是驱邪的结绳，事发之后商铺一名年幼的下女连夜逃走……\n土仓房里有个上吊本尊神，每当有小学徒想要到那儿上吊时，都会发现那个神挂在壁钩上，笑眯眯地对他说：“哦，晚安，可惜这儿已经客满了。”",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://www.douban.com/doubanapp/dispatch/book/34431980 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34431980/interest/4642065506",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2025-09-16 20:53:55",
+		"status": "done",
+		"id": 4642065506,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 608,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 6.8
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2019-8"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s33454425.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s33454425.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[日]宫部美雪 / 2019 / 四川文艺出版社",
+			"book_subtitle": "",
+			"id": "34431980",
+			"author": [
+				"[日]宫部美雪"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "1e95a5",
+				"_base_color": [
+					0.5205128205128204,
+					0.8176100628930817,
+					0.6235294117647059
+				],
+				"secondary_color": "f4f9f9",
+				"_avg_color": [
+					0.5181818181818182,
+					0.30555555555555564,
+					0.7058823529411765
+				],
+				"primary_color_dark": "17727f"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/34431980.jpg",
+			"min_sale_price": null,
+			"press": [
+				"四川文艺出版社"
+			],
+			"pages": [
+				"216"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/34431980",
+			"url": "https://book.douban.com/subject/34431980/",
+			"title": "这一夜，谁能安睡",
+			"uri": "douban://douban.com/book/34431980",
+			"subtype": "book",
+			"intro": "从天而降的五亿元巨款，对一个普通的家庭来说到底是福是祸？ 初中生雅男的母亲年轻时救下的人，突然遗赠了五亿元，将这个家庭卷入了一场风暴。媒体蜂拥而至，邻居怒目相向，陌生人不断地打来恐吓电话，连父亲的出轨对象都跑来要分手费，父母关系降至冰点，甚至连雅男的身世都成谜。 这笔巨款撕开了幸福的家庭生活的表象，让少年雅男看到了隐藏其下的暗流。 为了解开自己的身世之谜以及遗赠者跟母亲的关系，雅男和岛崎开始进行一系列的调查……",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
 			"star_count": 5,
 			"value": 5
 		},
@@ -11,6 +181,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30475757/interest/4641249983",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-09-14 19:56:03",
@@ -19,10 +190,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 71170,
+				"count": 71324,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -97,6 +268,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34786067/interest/4634038003",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-09-05 23:11:36",
@@ -105,10 +277,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2818,
+				"count": 2821,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -190,6 +362,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30413046/interest/4634037903",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-09-05 23:11:29",
@@ -198,7 +371,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6459,
+				"count": 6467,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -276,6 +449,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35440551/interest/4550071768",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-08-23 15:17:04",
@@ -362,6 +536,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27189928/interest/4617969986",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-08-17 21:07:04",
@@ -370,10 +545,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1455,
+				"count": 1461,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -448,6 +623,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1394395/interest/4594039858",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-07-24 19:33:42",
@@ -456,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2981,
+				"count": 2983,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -531,6 +707,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37007394/interest/4526984047",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-07-19 17:22:30",
@@ -617,6 +794,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6084769/interest/4588995522",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-07-19 17:07:03",
@@ -702,6 +880,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26853001/interest/4584708889",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-07-14 22:58:11",
@@ -785,6 +964,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37296177/interest/4543377498",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-06-30 23:00:05",
@@ -793,10 +973,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 153,
+				"count": 167,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -809,7 +989,9 @@
 			"honor_infos": [],
 			"other_versions_count": 3,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+			],
 			"card_subtitle": "[日] 山白朝子 / 2025 / 接力出版社",
 			"book_subtitle": "",
 			"id": "37296177",
@@ -853,7 +1035,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -868,6 +1050,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26265094/interest/4465485119",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-06-17 22:24:03",
@@ -951,6 +1134,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27106043/interest/4421167384",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-06-17 21:57:34",
@@ -1034,6 +1218,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27119942/interest/4458731028",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-06-17 21:56:34",
@@ -1042,7 +1227,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1069,
+				"count": 1076,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -1119,6 +1304,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35493748/interest/4552015284",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-06-08 14:01:52",
@@ -1127,7 +1313,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 273,
+				"count": 274,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -1203,6 +1389,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35070926/interest/4335763831",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-06-04 22:04:52",
@@ -1211,10 +1398,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 359,
+				"count": 360,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.5
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1254,7 +1441,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35070926.jpg",
-			"min_sale_price": "¥36.4",
+			"min_sale_price": "¥41.8",
 			"press": [
 				"广东旅游出版社"
 			],
@@ -1286,6 +1473,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27203393/interest/4525632882",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-05-25 18:30:47",
@@ -1294,10 +1482,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3104,
+				"count": 3106,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1369,6 +1557,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36331621/interest/4475690888",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-05-25 16:47:44",
@@ -1377,10 +1566,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5047,
+				"count": 5130,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1452,6 +1641,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36897362/interest/4529321490",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-05-11 18:43:59",
@@ -1460,10 +1650,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7029,
+				"count": 7056,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1545,6 +1735,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36096772/interest/3600857755",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-04-30 22:43:40",
@@ -1553,10 +1744,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1444,
+				"count": 1446,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1628,6 +1819,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36754484/interest/4513393643",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-04-26 09:43:17",
@@ -1636,10 +1828,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1845,
+				"count": 1861,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.6
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1686,7 +1878,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36754484.jpg",
-			"min_sale_price": "¥32.7",
+			"min_sale_price": "¥34.0",
 			"press": [
 				"广西师范大学出版社"
 			],
@@ -1718,6 +1910,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35425712/interest/4468141245",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-04-24 13:29:48",
@@ -1726,10 +1919,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3716,
+				"count": 3727,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1811,6 +2004,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26874773/interest/4508564596",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-04-16 17:23:55",
@@ -1896,6 +2090,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26357782/interest/4508564404",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-04-16 17:23:36",
@@ -1979,6 +2174,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37182829/interest/4488042641",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-03-23 21:04:02",
@@ -2058,6 +2254,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33391931/interest/4487812056",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-03-23 16:27:44",
@@ -2141,6 +2338,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37228445/interest/4487187694",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-03-22 22:24:06",
@@ -2149,10 +2347,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4416,
+				"count": 4473,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2227,6 +2425,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36858240/interest/4163009033",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-03-16 11:50:04",
@@ -2235,7 +2434,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14826,
+				"count": 14877,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -2320,6 +2519,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36685230/interest/4024332447",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-03-09 20:24:33",
@@ -2405,6 +2605,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/12563613/interest/4444519294",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-02-10 22:03:54",
@@ -2482,6 +2683,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2843503/interest/4444518962",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-02-10 22:03:38",
@@ -2561,6 +2763,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/7060186/interest/4436892245",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-02-04 22:15:45",
@@ -2569,10 +2772,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14663,
+				"count": 14677,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2653,6 +2856,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34839849/interest/3610795952",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-01-23 14:33:52",
@@ -2736,6 +2940,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6904799/interest/4415083846",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-01-16 19:29:15",
@@ -2820,6 +3025,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10464541/interest/4415083699",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2025-01-16 19:28:59",
@@ -2904,6 +3110,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36480673/interest/4174810034",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-12-17 22:47:56",
@@ -2912,10 +3119,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 696,
+				"count": 700,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.2
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -2990,6 +3197,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36782247/interest/4368789686",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2024-12-06 19:32:19",
@@ -2998,10 +3206,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3163,
+				"count": 3185,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3082,6 +3290,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4703776/interest/4373586098",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-12-05 19:03:23",
@@ -3165,6 +3374,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36971682/interest/4356934967",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-11-21 21:06:24",
@@ -3173,7 +3383,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 537,
+				"count": 539,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -3251,6 +3461,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35406149/interest/4353360440",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-11-14 21:47:08",
@@ -3259,7 +3470,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12985,
+				"count": 13035,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3334,6 +3545,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26357911/interest/4347116070",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-11-07 22:45:58",
@@ -3417,6 +3629,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35668926/interest/4148460707",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-11-07 22:45:27",
@@ -3425,10 +3638,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 705,
+				"count": 706,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3503,6 +3716,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35917478/interest/4341296165",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-11-03 10:28:18",
@@ -3580,70 +3794,11 @@
 			"star_count": 2,
 			"value": 2
 		},
-		"sharing_text": "我的评分：★★  来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36711037/interest/4073134266",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2024-10-29 21:53:10",
-		"status": "done",
-		"id": 4073134266,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 0,
-				"max": 10,
-				"star_count": 0,
-				"value": 0
-			},
-			"controversy_reason": "",
-			"pubdate": [],
-			"pic": {
-				"large": "https://img2.doubanio.com/f/frodo/ddc30012b6268cb7371e5e339418018e5fef5e06/pics/subject/book_large.jpg",
-				"normal": "https://img1.doubanio.com/f/frodo/b9c30c34e0a0c4697919a65783703492eaf8b674/pics/subject/book_normal.png"
-			},
-			"honor_infos": [],
-			"other_versions_count": 4,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "",
-			"book_subtitle": "",
-			"id": "36711037",
-			"author": [],
-			"is_released": false,
-			"vendor_original_price": "",
-			"color_scheme": null,
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/36711037.jpg",
-			"min_sale_price": null,
-			"press": [],
-			"pages": [],
-			"sharing_url": "",
-			"url": "https://book.douban.com/subject/36711037/",
-			"title": "未知图书",
-			"uri": "douban://douban.com/book/36711037",
-			"subtype": "",
-			"intro": "",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 2,
-			"value": 2
-		},
 		"sharing_text": "我的评分：★★ https://www.douban.com/doubanapp/dispatch/book/35218165 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35218165/interest/4338981057",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-10-29 21:47:23",
@@ -3652,10 +3807,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1986,
+				"count": 1987,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.6
+				"value": 6.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3730,6 +3885,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34800934/interest/4337756580",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-10-28 23:10:52",
@@ -3738,10 +3894,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4316,
+				"count": 4324,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3816,6 +3972,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35726116/interest/4334509138",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-10-24 22:24:35",
@@ -3870,7 +4027,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35726116.jpg",
-			"min_sale_price": "¥25.1",
+			"min_sale_price": "¥28.0",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -3902,6 +4059,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36886638/interest/4331413111",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-10-20 22:31:27",
@@ -3910,10 +4068,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 679,
+				"count": 682,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3986,6 +4144,93 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35728852/interest/4331204894",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-10-20 19:03:23",
+		"status": "done",
+		"id": 4331204894,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 746,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.4
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2022-1-15"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s34089197.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s34089197.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "陈拙 / 2022 / 湖南文艺出版社",
+			"book_subtitle": "医院里的秘密",
+			"id": "35728852",
+			"author": [
+				"陈拙"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a3a5a4",
+				"_base_color": [
+					0.3888888888888889,
+					0.01388888888888884,
+					0.8470588235294118
+				],
+				"secondary_color": "f4f9f6",
+				"_avg_color": [
+					0.5555555555555559,
+					0.045454545454545435,
+					0.7764705882352941
+				],
+				"primary_color_dark": "7d7f7e"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/35728852.jpg",
+			"min_sale_price": "¥28.0",
+			"press": [
+				"湖南文艺出版社"
+			],
+			"pages": [
+				"288"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/35728852",
+			"url": "https://book.douban.com/subject/35728852/",
+			"title": "白色记事簿",
+			"uri": "douban://douban.com/book/35728852",
+			"subtype": "book",
+			"intro": "“医院奇闻录”纪实系列，“魔宙”旗下非虚构品牌“天才捕手计划”重磅作品，引发无数粉丝共鸣的高口碑之作。这里有击穿每个人的故事，没有那句本故事纯属虚构！\n9名专业医护的亲笔记述，15位患者的真实人生。躲在身体里的“妈妈”、不能动的“女王”、变身为少年的“少女”、背负“家族诅咒”的老奶奶……被浓缩的人生，藏匿着生命的秘密！医院里的日常，有不为人知的深情！\n白色记事簿，一本医护手中的记事簿。全书从医护视角，记录了医生和病患如何应对疾病与生死的艰难时刻，以及医生真实的心理与日常，带你了解普通人无法接触的生死场。一本白色记事薄，承载着生命的喜怒哀乐，生死爱恨。",
+			"buy_more_uri": "douban://douban.com/book/35728852/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/35728852 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35728852/interest/4331204894",
+		"tags": [],
+		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-10-20 19:03:23",
@@ -4071,6 +4316,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/11612561/interest/4311582006",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-28 23:01:47",
@@ -4154,6 +4400,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/11612777/interest/4311562891",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-28 23:01:35",
@@ -4237,6 +4484,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36427040/interest/4297095517",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-24 20:08:23",
@@ -4245,10 +4493,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1334,
+				"count": 1337,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4291,7 +4539,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36427040.jpg",
-			"min_sale_price": "¥25.0",
+			"min_sale_price": "¥26.83",
 			"press": [
 				"海南出版社"
 			],
@@ -4323,6 +4571,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/5423899/interest/4297098357",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-24 20:07:43",
@@ -4334,7 +4583,7 @@
 				"count": 3687,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4408,6 +4657,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36207162/interest/4306702449",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-22 22:02:19",
@@ -4416,10 +4666,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2230,
+				"count": 2236,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4492,6 +4742,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35236126/interest/4305266400",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-22 13:37:01",
@@ -4574,6 +4825,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35797392/interest/4271193356",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-21 13:30:11",
@@ -4659,6 +4911,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35267662/interest/4303117312",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-18 22:04:46",
@@ -4667,10 +4920,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 918,
+				"count": 919,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.3
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4744,6 +4997,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35401906/interest/4302241204",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-17 22:14:53",
@@ -4752,10 +5006,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1382,
+				"count": 1384,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.4
+				"value": 7.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4830,6 +5084,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36865034/interest/4301222756",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-16 21:15:50",
@@ -4838,10 +5093,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7617,
+				"count": 7630,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.2
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4915,6 +5170,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30396090/interest/4299906311",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-15 14:46:58",
@@ -4999,6 +5255,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20002789/interest/4297751538",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-12 19:58:18",
@@ -5007,7 +5264,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1361,
+				"count": 1362,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -5085,6 +5342,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25897884/interest/4292790877",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-09-06 17:40:00",
@@ -5093,10 +5351,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26489,
+				"count": 26580,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5110,7 +5368,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 145,
+					"rank": 126,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -5175,6 +5433,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36892666/interest/4282467993",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-08-25 15:26:11",
@@ -5183,10 +5442,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1452,
+				"count": 1464,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5229,7 +5488,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36892666.jpg",
-			"min_sale_price": "¥58.67",
+			"min_sale_price": "¥56.2",
 			"press": [
 				"云南人民出版社"
 			],
@@ -5261,6 +5520,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36692828/interest/4060925829",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-08-20 22:28:13",
@@ -5347,6 +5607,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35005708/interest/4199251809",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-08-20 21:40:27",
@@ -5355,7 +5616,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1811,
+				"count": 1813,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5430,6 +5691,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30422729/interest/4260150928",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-08-01 15:07:53",
@@ -5513,6 +5775,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10594728/interest/4259503725",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-31 19:57:14",
@@ -5596,6 +5859,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36036296/interest/4259497794",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-31 19:50:42",
@@ -5604,7 +5868,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4781,
+				"count": 4793,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -5688,6 +5952,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6969538/interest/4259476272",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-31 19:24:22",
@@ -5772,6 +6037,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34985448/interest/4257809766",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-29 21:15:19",
@@ -5780,10 +6046,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2904,
+				"count": 2908,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.4
+				"value": 7.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5858,6 +6124,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30319961/interest/4257809612",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-29 21:15:11",
@@ -5866,10 +6133,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 909,
+				"count": 911,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.9
+				"value": 6.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5941,6 +6208,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/7916085/interest/4256948114",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-28 22:41:18",
@@ -5952,7 +6220,7 @@
 				"count": 1188,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6024,6 +6292,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3753043/interest/4246781604",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-18 21:38:10",
@@ -6109,6 +6378,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20468727/interest/4246781527",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-18 21:38:06",
@@ -6117,7 +6387,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3867,
+				"count": 3868,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -6195,6 +6465,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35291248/interest/4242960769",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2024-07-14 19:08:49",
@@ -6203,7 +6474,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1010,
+				"count": 1014,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -6281,6 +6552,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36622885/interest/4241887804",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-14 13:32:06",
@@ -6289,10 +6561,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 338,
+				"count": 344,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.7
+				"value": 6.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6366,6 +6638,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3647887/interest/4241469976",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-13 10:42:36",
@@ -6374,7 +6647,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4247,
+				"count": 4248,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -6451,6 +6724,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3615048/interest/4239405501",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-10 22:59:50",
@@ -6459,7 +6733,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10450,
+				"count": 10452,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -6536,6 +6810,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20382491/interest/4238303750",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-09 20:27:04",
@@ -6544,10 +6819,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15498,
+				"count": 15509,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6626,6 +6901,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10740772/interest/4237518088",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-08 22:48:24",
@@ -6634,10 +6910,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10770,
+				"count": 10787,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6680,7 +6956,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/10740772.jpg",
-			"min_sale_price": "¥17.5",
+			"min_sale_price": null,
 			"press": [
 				"新星出版社"
 			],
@@ -6693,7 +6969,7 @@
 			"uri": "douban://douban.com/book/10740772",
 			"subtype": "book",
 			"intro": "华丽至极的病态美，\n奢侈无比的谋杀案！\n影响绫辻行人等推理名家创作理念的传世杰作\n入围「东西推理小说 BEST 100」\n在日本最北端、可以俯瞰鄂霍次克海的悬崖上，有座造型奇特的建筑，名为“流冰馆”。因为其怪异的倾斜结构，当地人称其为“斜屋”。\n在一个飘雪的平安夜，馆内接连发生了密室杀人案件！然而，所有的人都拥有完美的不在场证明，唯一被怀疑的，竟然是在风雪中走动的人偶！\n邪恶无比的杀意潜伏在失去平衡的斜屋之中，正在渐渐扩散……",
-			"buy_more_uri": "douban://douban.com/book/10740772/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -6712,6 +6988,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3187750/interest/4237493403",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-08 22:26:31",
@@ -6720,7 +6997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10990,
+				"count": 10991,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -6797,6 +7074,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1210338/interest/4234889693",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-06 12:33:00",
@@ -6805,7 +7083,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1141,
+				"count": 1140,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6880,6 +7158,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1210306/interest/4234889552",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-06 12:32:48",
@@ -6888,7 +7167,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1535,
+				"count": 1537,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6963,6 +7242,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1210303/interest/4234889490",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-06 12:32:44",
@@ -6971,10 +7251,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5346,
+				"count": 5347,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7046,6 +7326,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1138986/interest/4234889430",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-06 12:32:39",
@@ -7054,7 +7335,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11693,
+				"count": 11694,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -7129,6 +7410,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36352181/interest/4229329367",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-07-03 19:49:17",
@@ -7212,6 +7494,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33476142/interest/4228983574",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-29 22:11:48",
@@ -7220,10 +7503,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1630,
+				"count": 1636,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7297,6 +7580,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3615041/interest/4214749755",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-14 20:52:54",
@@ -7382,6 +7666,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4898712/interest/4213987657",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-12 21:40:20",
@@ -7467,6 +7752,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3787195/interest/4213963836",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-12 20:49:54",
@@ -7475,7 +7761,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4525,
+				"count": 4526,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -7552,6 +7838,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36222109/interest/4210344417",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2024-06-08 22:04:46",
@@ -7560,10 +7847,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 544,
+				"count": 547,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7635,6 +7922,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36478323/interest/4207811757",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-05 23:03:42",
@@ -7643,10 +7931,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 674,
+				"count": 675,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7693,7 +7981,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36478323.jpg",
-			"min_sale_price": "¥102.0",
+			"min_sale_price": "¥152.8",
 			"press": [
 				"民主与建设出版社"
 			],
@@ -7725,6 +8013,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36502890/interest/4204285182",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-01 21:00:04",
@@ -7733,10 +8022,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2711,
+				"count": 2722,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7786,7 +8075,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36502890.jpg",
-			"min_sale_price": "¥28.9",
+			"min_sale_price": "¥26.7",
 			"press": [
 				"译林出版社"
 			],
@@ -7818,6 +8107,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1040771/interest/4204272845",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-01 20:49:42",
@@ -7826,7 +8116,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213906,
+				"count": 213914,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -7908,6 +8198,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30181692/interest/4204272673",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-06-01 20:49:37",
@@ -7916,10 +8207,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 465,
+				"count": 467,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7993,6 +8284,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36362034/interest/4095034683",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-30 21:38:22",
@@ -8076,6 +8368,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1992457/interest/4201732040",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-29 21:09:40",
@@ -8084,10 +8377,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 330,
+				"count": 331,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.5
+				"star_count": 3.5,
+				"value": 7.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8159,6 +8452,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/28171580/interest/4197180286",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-25 22:24:09",
@@ -8167,7 +8461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22274,
+				"count": 22293,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -8252,6 +8546,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36879259/interest/4180842285",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-23 19:42:06",
@@ -8335,6 +8630,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33442275/interest/4085962253",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-23 19:35:08",
@@ -8416,6 +8712,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30468752/interest/4190428990",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-16 19:04:54",
@@ -8424,7 +8721,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1749,
+				"count": 1751,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -8501,6 +8798,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3017523/interest/4190428761",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-16 19:04:30",
@@ -8582,6 +8880,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36170929/interest/3787479455",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-16 18:55:07",
@@ -8590,10 +8889,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4863,
+				"count": 4885,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8675,6 +8974,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27181925/interest/4189533357",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-15 20:24:29",
@@ -8683,10 +8983,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3548,
+				"count": 3558,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8728,7 +9028,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27181925.jpg",
-			"min_sale_price": "¥31.03",
+			"min_sale_price": "¥30.87",
 			"press": [
 				"江西人民出版社"
 			],
@@ -8760,6 +9060,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36209186/interest/4189533279",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-15 20:24:24",
@@ -8768,10 +9069,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1010,
+				"count": 1011,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8846,6 +9147,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34998081/interest/4189533205",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-15 20:24:19",
@@ -8854,7 +9156,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3345,
+				"count": 3347,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -8943,6 +9245,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34805594/interest/4189533084",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-15 20:24:08",
@@ -8951,7 +9254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3756,
+				"count": 3759,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -9029,6 +9332,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35929083/interest/4189518217",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-15 20:05:10",
@@ -9115,6 +9419,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36713186/interest/4188742813",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-14 22:22:25",
@@ -9198,6 +9503,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36179203/interest/4188743038",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-14 22:03:46",
@@ -9206,7 +9512,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 266,
+				"count": 268,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -9281,6 +9587,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/11608766/interest/4182167339",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-07 20:19:48",
@@ -9364,6 +9671,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36284269/interest/4181231322",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-06 20:23:59",
@@ -9372,10 +9680,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 394,
+				"count": 395,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9449,6 +9757,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20503984/interest/4176691618",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-02 19:01:54",
@@ -9532,6 +9841,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20503986/interest/4172709042",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-05-02 19:01:06",
@@ -9616,6 +9926,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/7916107/interest/4163115369",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-18 20:35:44",
@@ -9624,10 +9935,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1694,
+				"count": 1695,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.2
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9702,6 +10013,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34461206/interest/4162265360",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-17 20:32:31",
@@ -9710,7 +10022,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3715,
+				"count": 3720,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -9785,6 +10097,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34885862/interest/4162226974",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-17 19:43:42",
@@ -9871,6 +10184,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2892639/interest/4161334671",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-16 19:44:01",
@@ -9952,6 +10266,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25928076/interest/4147434348",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-04 21:29:01",
@@ -9960,10 +10275,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 345,
+				"count": 347,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10037,6 +10352,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36636545/interest/4147430619",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-03 22:54:35",
@@ -10045,10 +10361,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 701,
+				"count": 704,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10123,6 +10439,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35739094/interest/4146347199",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-02 22:14:08",
@@ -10131,7 +10448,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1970,
+				"count": 1973,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -10209,6 +10526,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35063970/interest/4145190614",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-04-01 18:56:07",
@@ -10217,7 +10535,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2305,
+				"count": 2310,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -10295,6 +10613,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35063969/interest/4144385992",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-31 21:51:38",
@@ -10303,10 +10622,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3179,
+				"count": 3184,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10381,6 +10700,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26309460/interest/4131212730",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-30 23:37:00",
@@ -10389,10 +10709,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 381,
+				"count": 382,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10464,6 +10784,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25950429/interest/4141815197",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-29 10:32:38",
@@ -10547,6 +10868,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30171301/interest/4136808961",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-25 19:05:37",
@@ -10633,6 +10955,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25808629/interest/4137870694",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-25 08:38:14",
@@ -10641,7 +10964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2223,
+				"count": 2225,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -10684,7 +11007,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25808629.jpg",
-			"min_sale_price": "¥26.2",
+			"min_sale_price": "¥24.3",
 			"press": [
 				"湖南美术出版社"
 			],
@@ -10716,6 +11039,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1319670/interest/4137870399",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-25 08:37:40",
@@ -10802,6 +11126,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36536781/interest/4137458271",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-24 21:43:14",
@@ -10810,10 +11135,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1867,
+				"count": 1871,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10888,6 +11213,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/31655494/interest/4137202351",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-24 18:52:05",
@@ -10969,6 +11295,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1158934/interest/4136608472",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-24 09:12:33",
@@ -10977,7 +11304,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10039,
+				"count": 10045,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -11061,6 +11388,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10740776/interest/4136608231",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-24 09:12:08",
@@ -11069,7 +11397,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 30048,
+				"count": 30084,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -11154,6 +11482,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36480672/interest/4036595172",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2024-03-15 20:05:51",
@@ -11162,10 +11491,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4498,
+				"count": 4508,
 				"max": 10,
 				"star_count": 3,
-				"value": 6.4
+				"value": 6.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11249,6 +11578,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36483025/interest/4089341290",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-03-07 02:19:15",
@@ -11341,6 +11671,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/6558049/interest/4101625672",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-22 02:25:46",
@@ -11349,10 +11680,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10560,
+				"count": 10581,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11434,6 +11765,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33402272/interest/4100328542",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-21 00:50:45",
@@ -11442,7 +11774,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3032,
+				"count": 3033,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -11517,6 +11849,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26427703/interest/4100319052",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-21 00:42:05",
@@ -11525,7 +11858,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6759,
+				"count": 6762,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11602,6 +11935,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3066477/interest/4100318757",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-21 00:41:50",
@@ -11610,7 +11944,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 312276,
+				"count": 312384,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -11655,7 +11989,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3066477.jpg",
-			"min_sale_price": "¥15.4",
+			"min_sale_price": "¥16.0",
 			"press": [
 				"重庆出版社"
 			],
@@ -11687,6 +12021,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3279273/interest/4093453407",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-16 01:53:23",
@@ -11772,6 +12107,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36591767/interest/4076137420",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-14 03:57:56",
@@ -11780,10 +12116,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1159,
+				"count": 1165,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11853,6 +12189,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26739737/interest/4085961567",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-13 03:49:47",
@@ -11940,6 +12277,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25831630/interest/4085759747",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-10 15:30:27",
@@ -12027,6 +12365,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36156911/interest/4069699649",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-04 20:01:17",
@@ -12035,7 +12374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2154,
+				"count": 2158,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -12126,6 +12465,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36037745/interest/4069699533",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-04 19:57:44",
@@ -12134,10 +12474,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2711,
+				"count": 2713,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -12218,6 +12558,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36637700/interest/4066580928",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-02-03 17:09:14",
@@ -12310,6 +12651,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/2139400/interest/4074560726",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-01-30 19:30:27",
@@ -12393,6 +12735,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30398397/interest/4049373189",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-01-17 22:45:00",
@@ -12476,6 +12819,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36122667/interest/4047703055",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2024-01-05 22:41:17",
@@ -12484,7 +12828,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26268,
+				"count": 26346,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -12566,6 +12910,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36283547/interest/4040290206",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-31 23:09:37",
@@ -12574,10 +12919,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23643,
+				"count": 23694,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -12654,6 +12999,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1016204/interest/4041785074",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-31 22:49:03",
@@ -12662,7 +13008,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4226,
+				"count": 4227,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -12737,6 +13083,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35616018/interest/4026662468",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-18 18:36:18",
@@ -12820,6 +13167,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34781440/interest/4026436840",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-18 17:04:50",
@@ -12903,6 +13251,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1867064/interest/4025111556",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-17 09:58:01",
@@ -12956,7 +13305,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1867064.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥20.3",
 			"press": [
 				"新星出版社"
 			],
@@ -12969,7 +13318,7 @@
 			"uri": "douban://douban.com/book/1867064",
 			"subtype": "book",
 			"intro": "《八百万种死法》里的八百万其实是指纽约市里八百万市民。作者在书中经常写出各种离奇古怪的死法———只是在家里看电视却会无辜被炸死、跟相邻几十年的邻居会因一只新宠物而争执动武死亡。“八百万种死法”的意思是每一个人都有他们死的方法———没有人可以逃避，尤其是在纽约这个光怪陆离的罪恶城市。\n一个优雅的皮条客，昌斯，手下有六个姑娘，她们风采各异，有的能写诗，有的熟知报告文学。美丽而天真的金?达科嫩不过是其中之一。她想脱离应召女郎的生涯，找到马修寻求保护，让他跟昌斯说。马修收了金攒的私房钱但没有保住金的命。金被人捣得面目全非，死在公寓中。连金的一些朋友也一个接一个死掉。其中一个姑娘在遗书中写道：“无人愿意为我一掷千金。无人愿意与我共结连理。无人愿意救我一命。我已倦于微笑。我已疲于奔命。美好时光已成过去。”\n尽管肯·德金警官说：“妓女自杀，见怪不怪。”马修还是决定为这些逃回公道。尽管受到警告，但他一心一意要追查到底。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/1867064/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -12988,6 +13337,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1922654/interest/4022631194",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-14 22:33:58",
@@ -13071,6 +13421,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26603307/interest/3867060635",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-11 22:30:23",
@@ -13154,6 +13505,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36493045/interest/4014658028",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2023-12-10 21:43:38",
@@ -13162,7 +13514,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 537,
+				"count": 538,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -13239,6 +13591,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26603305/interest/3621664941",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-06 19:22:26",
@@ -13322,6 +13675,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26713852/interest/4011296254",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-03 22:00:12",
@@ -13405,6 +13759,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34262174/interest/4010166218",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-12-02 22:06:30",
@@ -13413,10 +13768,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24608,
+				"count": 24638,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13498,6 +13853,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35396633/interest/3822939486",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-11-29 19:44:29",
@@ -13581,6 +13937,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30389703/interest/3717301698",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-11-04 22:50:02",
@@ -13589,10 +13946,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1603,
+				"count": 1607,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13667,6 +14024,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34456274/interest/3957802879",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-10-09 23:30:03",
@@ -13678,7 +14036,7 @@
 				"count": 4311,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -13748,6 +14106,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1339285/interest/3918379611",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-09-01 18:55:42",
@@ -13829,6 +14188,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35058684/interest/3886925154",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-08-10 18:44:32",
@@ -13912,6 +14272,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/17787811/interest/3754794215",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-08-10 18:42:59",
@@ -13993,6 +14354,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36477900/interest/3862588712",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 7,
 		"create_time": "2023-07-23 20:28:51",
@@ -14076,6 +14438,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36308034/interest/3853258841",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2023-07-16 19:23:26",
@@ -14159,6 +14522,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26643882/interest/3835450969",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-30 21:56:41",
@@ -14242,6 +14606,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30306741/interest/3833477468",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-28 20:45:45",
@@ -14323,6 +14688,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/25731397/interest/3832045960",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-27 10:02:17",
@@ -14331,10 +14697,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2587,
+				"count": 2588,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7
+				"value": 6.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14409,6 +14775,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3278380/interest/3781563207",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-21 15:50:05",
@@ -14492,6 +14859,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/7067934/interest/3823419459",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-18 22:03:11",
@@ -14575,6 +14943,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27614355/interest/3740156220",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-12 10:57:06",
@@ -14658,6 +15027,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33500744/interest/3702724512",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-06-06 21:54:18",
@@ -14709,7 +15079,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/33500744.jpg",
-			"min_sale_price": "¥58.29",
+			"min_sale_price": "¥53.8",
 			"press": [
 				"南海出版公司"
 			],
@@ -14741,6 +15111,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30300859/interest/3802576932",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-05-28 15:43:50",
@@ -14827,6 +15198,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34996428/interest/3769002204",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-05-26 18:50:43",
@@ -14835,7 +15207,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2540,
+				"count": 2544,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -14917,6 +15289,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36149278/interest/3686971347",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2023-05-17 12:36:06",
@@ -14925,10 +15298,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3547,
+				"count": 3553,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14978,7 +15351,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36149278.jpg",
-			"min_sale_price": "¥33.0",
+			"min_sale_price": "¥34.0",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -15010,6 +15383,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36062365/interest/3781560980",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-05-12 17:43:17",
@@ -15021,7 +15395,7 @@
 				"count": 406,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15095,6 +15469,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1485501/interest/3774184986",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-05-02 22:22:36",
@@ -15103,7 +15478,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4328,
+				"count": 4337,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -15185,6 +15560,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35767793/interest/3745868252",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-04-22 21:53:08",
@@ -15193,10 +15569,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 716,
+				"count": 717,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15270,6 +15646,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30175836/interest/3759438711",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-04-18 19:53:33",
@@ -15278,7 +15655,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2792,
+				"count": 2793,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -15362,6 +15739,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/33380265/interest/3754691575",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-04-14 16:31:05",
@@ -15448,6 +15826,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34885303/interest/3751882861",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-04-11 22:14:36",
@@ -15531,6 +15910,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36096287/interest/3585409197",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-04-03 17:25:01",
@@ -15539,7 +15919,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 41352,
+				"count": 41497,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -15592,7 +15972,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36096287.jpg",
-			"min_sale_price": "¥39.5",
+			"min_sale_price": "¥51.35",
 			"press": [
 				"上海三联书店"
 			],
@@ -15624,6 +16004,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/3150093/interest/3737375113",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-30 13:06:49",
@@ -15705,6 +16086,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1420505/interest/3733891322",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-26 22:56:16",
@@ -15788,6 +16170,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35088492/interest/3733720146",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-26 20:59:55",
@@ -15796,7 +16179,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22011,
+				"count": 22037,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15874,6 +16257,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36068765/interest/3731465186",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-24 22:18:05",
@@ -15960,6 +16344,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30302300/interest/3730264858",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-23 19:59:56",
@@ -15968,7 +16353,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5205,
+				"count": 5207,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -16050,6 +16435,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30276928/interest/3728550816",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-21 23:16:38",
@@ -16058,10 +16444,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1493,
+				"count": 1494,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.3
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16133,6 +16519,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35390564/interest/3727390311",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-20 20:59:11",
@@ -16141,10 +16528,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 750,
+				"count": 751,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.3
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16219,6 +16606,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34876352/interest/3726541529",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-19 23:10:02",
@@ -16302,6 +16690,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36078381/interest/3592687661",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-03-04 12:47:23",
@@ -16388,6 +16777,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36063083/interest/3696464248",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-02-18 21:53:05",
@@ -16396,10 +16786,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 365,
+				"count": 366,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9
+				"value": 8.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16471,6 +16861,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35492907/interest/3696345548",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-02-18 20:24:33",
@@ -16479,10 +16870,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1272,
+				"count": 1276,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16522,7 +16913,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35492907.jpg",
-			"min_sale_price": null,
+			"min_sale_price": "¥30.6",
 			"press": [
 				"北京联合出版公司"
 			],
@@ -16535,7 +16926,7 @@
 			"uri": "douban://douban.com/book/35492907",
 			"subtype": "book",
 			"intro": "编辑推荐\n【吉卜力官方唯一简体中文版，宫崎骏殿堂级作品首次引进中国。】\n【《千与千寻》上映20周年特别纪念】\n★全球唯一同时获得奥斯卡金像奖与柏林金熊奖的动画电影。征服全世界近50个国家的观众，荣获30多项大奖。创造日本影史神话，票房冠军保持19年。\n★深受中国观众的热 爱，豆瓣电影No.7，动画电影排名第1，豆瓣网友超过184万人打出9.4高分。引进中国时，井柏然、周冬雨、彭昱畅、田壮壮等一众明星、名人动情演绎。\n★迪士尼和皮克斯首席创意官、《玩具总动员》系列导演约翰拉塞特，《大护法》导演不思凡，马未都、许知远、蔡康永、迪丽热巴等名人推荐的动画作品。\n★征服全球媒体，《人民日报》、《纽约时报》、《洛杉矶时报》、《纽约邮报》、《好莱坞报道》、《金融时报》、《Time out LONDON》、《BBC文化专栏》等众多媒体盛赞，“毫无疑问：这是一部传奇作品”。\n★吉卜力工作室指定颜色校准，专业色彩还原，精美双封。重现电影经典画面，再次体会千寻、白龙、无脸男等让人印象深刻的角色的动人故事。\n★吉卜力官方指定译本。《窗边的小豆豆》的译者赵玉皎担当翻译，吉卜力官方亲自监修译文。\n★其实我们每个人都是千寻，勇敢地走向自己独一无二的人生。跨越二十年历久弥新的故事，重温真心与感动。\n【内容简介】\n《千与千寻》是宫崎骏殿堂级作品，全球唯一同时获得奥斯卡金像奖与柏林金熊奖的动画电影，吉卜力官方首次授权简体中文版。\n10岁的千寻与爸爸妈妈一起前往新家。在郊外的小路上，他们意外地进入了一个神秘小镇。千寻的爸爸妈妈因为吃了这里的东西变成了猪。千寻则在少年白龙的帮助下，进入一个叫“油屋”的地方工作。白龙告诉她，这里的人都会被汤婆婆夺去名字，而没有工作的人会变成动物。千寻一边应付油屋的工作，一边寻找解救爸爸妈妈的方法。在这里，她不仅遇到了面硬心软的锅炉爷爷，还有善良热情的小玲，更意外地认识了孤独沉默的无脸男。千寻经历了许多不可思议的事情，逐渐变得勇敢坚强，内心也变得越发坚定。\n一次，千寻发现白龙被一群白色人形纸片打伤，为了救白龙，千寻、无脸男等踏上了前往沼底的电车……",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/35492907/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -16554,6 +16945,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35900925/interest/3633180066",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 1,
 		"create_time": "2023-02-14 22:13:09",
@@ -16562,10 +16954,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1377,
+				"count": 1380,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16637,6 +17029,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1022783/interest/3661469020",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2023-01-24 16:42:02",
@@ -16645,7 +17038,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3882,
+				"count": 3883,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -16710,66 +17103,6 @@
 		}
 	},
 	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★  来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/20427187/interest/3659802629",
-		"tags": [],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2023-01-23 21:25:32",
-		"status": "done",
-		"id": 3659802629,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 0,
-				"max": 10,
-				"star_count": 0,
-				"value": 0
-			},
-			"controversy_reason": "",
-			"pubdate": [],
-			"pic": {
-				"large": "https://img2.doubanio.com/f/frodo/ddc30012b6268cb7371e5e339418018e5fef5e06/pics/subject/book_large.jpg",
-				"normal": "https://img1.doubanio.com/f/frodo/b9c30c34e0a0c4697919a65783703492eaf8b674/pics/subject/book_normal.png"
-			},
-			"honor_infos": [],
-			"other_versions_count": 0,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "",
-			"book_subtitle": "",
-			"id": "20427187",
-			"author": [],
-			"is_released": false,
-			"vendor_original_price": "",
-			"color_scheme": null,
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/20427187.jpg",
-			"min_sale_price": null,
-			"press": [],
-			"pages": [],
-			"sharing_url": "",
-			"url": "https://book.douban.com/subject/20427187/",
-			"title": "未知图书",
-			"uri": "douban://douban.com/book/20427187",
-			"subtype": "",
-			"intro": "",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
 		"comment": "艺术能放飞想象，却也可以成为枷锁。",
 		"rating": {
 			"count": 1,
@@ -16781,6 +17114,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35324197/interest/3623835616",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-12-30 22:40:22",
@@ -16789,7 +17123,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4431,
+				"count": 4433,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -16861,6 +17195,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30356082/interest/3617151030",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-12-26 19:30:12",
@@ -16953,6 +17288,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35069016/interest/3570543768",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-11-17 21:37:03",
@@ -17005,7 +17341,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35069016.jpg",
-			"min_sale_price": "¥33.0",
+			"min_sale_price": null,
 			"press": [
 				"江苏凤凰文艺出版社"
 			],
@@ -17018,7 +17354,7 @@
 			"uri": "douban://douban.com/book/35069016",
 			"subtype": "book",
 			"intro": "※ 跟随“实习生”柏拉图，阅尽哲学家的职场百态！\n※ 3000年的哲学智慧，帮助我们重新思考职场！\n※ 继《智者星球》之后，读者在现代职场再次遇见人类最伟大的哲学家！\n\n◎ 编辑推荐\n💼 古希腊哲学家柏拉图摇身一变成为实习生，带你前往“思考公司”，体验一次职场历险！\n21世纪，大学生柏拉图进入一家名为“思考公司”的企业实习，毛手毛脚闯祸不断：误给实习老师苏格拉底喝下毒芹汁，冒犯在木桶里办公的第欧根尼，误删马克思写的工会罢工宣传稿，毁掉尼采千辛万苦签成的合同……乌龙连连，妙趣横生，轻快诙谐的法式幽默令你忍俊不禁！\n🎓 以哲学视角透视职场，看古今中外哲学大咖如何金句频出，以独到智慧应对“办公室那些事儿”！\n柏拉图因为冗余的流程倒错咖啡，第欧根尼住在木桶里反抗开放式办公，福柯利用监控系统扩大权力范围，笛卡尔每天几小时躲在厕所里放空，赫拉克利特用每个季度一次的送行小酒会揭示——职场的重复劳动本质上是一种“永恒轮回”……\n×在网上赌博和认真工作完全是一回事儿，都只不过是艰难的人类处境的形式而已。\n×办公室的生活就是这样：人们不期而遇，走廊的某一头有可能突然就成为人们相依为命的孤岛。\n×工作，是比成为动物更糟糕的事。人类是唯一强迫自己工作以满足基本需求的动物。然而，也许还有比工作更糟糕的事儿：没有工作。\n👑 继《智者星球》后，毕业于“法国哲学家的摇篮”——巴黎高等师范学院的漫画家朱勒和法国著名哲学家夏尔·佩潘再次鼎力合作！\n法国《哲学杂志》推荐漫画——《智者星球》的两位作者再次联手，脑洞大开编绘哲学家活灵活现的职场故事！\n\n◎ 内容简介\n本书延续了《智者星球》的新颖形式，将趣味漫画与文字解析相结合，带领读者跟随实习生柏拉图进入现代职场，在嬉笑怒骂间揭示职场生活的哲学本质。\n在这个特殊的“思考公司”，员工全部是古今中外的著名哲学家，实习生柏拉图不断闯祸，见识到各式各样的趣事奇景：实习指导老师苏格拉底误喝毒芹汁，自称“超级人道”的人力资源总监尼采暴躁解雇员工，“公司之眼”保安福柯24小时注视着监控，维修工德里达热衷于拆解复印机，工会代表马克思在设计“罢工”传单……\n从这些趣闻轶事中，又映射出哲学视角下的一个个职场问题，从邮件回复到PPT演讲，从开放式办公室到公司监控，从老板助理的权力大小到如何做好一个领导，事无巨细，包罗万象。\n漫画与文字巧妙结合，亦庄亦谐，法式幽默和理性智慧跃然纸上。\n\n◎ 媒体推荐\n当最伟大的哲学家遇到我们的日常工作，一切都用漫画形式处理得聪明又有趣……这里集合了几千年来最伟大的思想家，他们研究着我们每天在工作中遇到的问题：开放式空间、权力、服从、重复的任务……当然，还有工作的意义。\n—— 法国新闻广播电台\n《智者星球》的二人组在职场中找到了一个新的舞台，带领读者和哲学家们一起欢笑，并进行哲学思考。通过朱勒的幽默故事和夏尔·佩潘的哲学讲解，各种伟大的世界观得以呈现。本书描绘了一个疯狂的世界，但与现实并不遥远，相反，这些对办公室生活的欢乐讽刺，简直堪称“哲学家的职场生存指南”!\n—— 瑞士读者最多的报纸丨《20分钟》报\n这部漫画非常有趣，幽默感十足。笛卡尔在厕所冥想，蒙田滞留在试用期，德里达拆解复印机：所有这些奇思妙想，再配上俏皮的玩笑和双关语，令人开怀大笑的同时又引人思考。\n—— 自由艺术网站丨Baz-Art",
-			"buy_more_uri": "douban://douban.com/book/35069016/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -17037,6 +17373,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/27038832/interest/3570530263",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-11-17 21:27:05",
@@ -17045,10 +17382,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1359,
+				"count": 1361,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17088,7 +17425,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/27038832.jpg",
-			"min_sale_price": "¥61.3",
+			"min_sale_price": null,
 			"press": [
 				"北京联合出版公司"
 			],
@@ -17101,7 +17438,7 @@
 			"uri": "douban://douban.com/book/27038832",
 			"subtype": "book",
 			"intro": "当卢浮宫遇见漫画\n穿越梦幻的时空，神游艺术的历史\n谷口治郎的诗意水彩\n描绘对艺术、对生命的深刻解读\n“这个不可思议的迷宫里，\n住着一群它的守护者。\n我们想让你感受到你应有的快乐和光明”\n………………\n※编辑推荐※\n☆《卢浮宫的守护者》是一部意味悠长的图像小说，书中传达了作者本人对绘画、艺术和生命的深刻解读。\n☆“我们想让你感受到你应有的快乐和光明，灿烂生命和勃勃生机就存在于其中。即使是再微小、再不起眼的东西，也都活过，也会有自己的故事。你在这里所看到的一切，就是寄宿在每个事物中的灵魂所演奏的安魂曲。”\n☆卢浮宫邀请创作，漫画与艺术的相遇。柯罗、凡·高等大师悉数登场，胜利女神也现身相见。\n☆谷口治郎是日本漫画在世界范围内的代表人物之一，与大友克洋、宫崎骏齐名。自编自画的代表作《散步去》，为其赢得了世界性的肯定。\n☆清新雅致的水彩手绘，偏向欧漫的写实画风，诗意地描绘卢浮之美，浸润出一股淡淡的忧思之情。\n...................\n※内容简介※\n大病初愈的日本漫画家独自参观卢浮宫博物馆，正当他感到身体不适时，一位神秘女子出现在他的身边，自称是卢浮宫的守护者——萨莫色雷斯的胜利女神。在胜利女神的陪伴下，他神游于梦境与现实交界的卢浮迷宫，在柯罗笔下的森林遇见画家本人，在奥维尔小镇遇见文森特·凡·高，在二战时期空荡荡的卢浮宫见到了忧心忡忡的圣爱克苏佩里……而他不知道的是，那位他日思夜想的最重要的人，正在卢浮宫等待着与他重逢……\n本书是“当卢浮宫遇见漫画”系列作品之一。\n卢浮宫博物馆与法国出版社联合推出“当卢浮宫遇见漫画”计划，邀请全球一线大师以“卢浮宫”为主题创作命题漫画，原则是创作者必须从卢浮宫的一件藏品、一间展厅或者卢浮宫整体出发，之后即可信马由缰地构思故事情节。计划的主旨是打造一个充满奇思妙想的梦幻系列，让两个看似独立的艺术世界持续地关联起来。\n受邀的创作者们享有罕见的特权：博物馆闭馆期间，无论昼夜，在展厅和藏品中长时间地闲逛，下至地下室上至屋顶，随意参观每一个角落。谷口治郎便是受邀画家之一。他独立创作这本《卢浮宫的守护者》，以绘本般的全彩手绘画讲述了一个发生在卢浮宫的乡愁故事。\n...................\n※获奖记录※\n1992年 第37回小学馆漫画奖评审特别奖（《犬を饲う》）\n1993年 第12回日本漫画家协会奖优秀奖（《少爷的时代》系列）\n1998年 第2回手冢治虫文化奖漫画大奖（《少爷的时代》系列）\n1998年 第3回文化厅媒体艺术祭漫画部门优秀奖（《遥远的小镇》）\n2001年 第5回文化厅媒体艺术祭漫画部门优秀奖（《神之山岭》系列）\n2002年 法国安古兰国际漫画节 最优秀剧本奖（《遥远的小镇》）\n2002年 法国安古兰国际漫画节 优秀书店奖（《遥远的小镇》）\n2005年 法国安古兰国际漫画节祭 最优秀美术奖（《神之山岭》）",
-			"buy_more_uri": "douban://douban.com/book/27038832/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -17120,6 +17457,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26340272/interest/3524777244",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-10-08 20:46:31",
@@ -17198,6 +17536,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36044253/interest/3521010043",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-10-05 21:03:32",
@@ -17288,6 +17627,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35776474/interest/3498681941",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-09-15 16:36:11",
@@ -17296,10 +17636,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67,
+				"count": 68,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17388,6 +17728,7 @@
 			"吉卜力"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-01-23 21:34:04",
@@ -17477,6 +17818,7 @@
 			"编程"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2022-01-13 11:01:05",
@@ -17485,10 +17827,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 134,
+				"count": 135,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17565,6 +17907,7 @@
 			"宫崎骏"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-12-27 17:20:13",
@@ -17649,6 +17992,7 @@
 			"深度学习"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-12-05 10:56:00",
@@ -17657,7 +18001,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 559,
+				"count": 560,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -17738,6 +18082,7 @@
 			"机器学习"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-12-03 06:19:16",
@@ -17822,6 +18167,7 @@
 			"心理咨询"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-11-26 15:26:11",
@@ -17830,10 +18176,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 58648,
+				"count": 58731,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17847,7 +18193,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 94,
+					"rank": 102,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -17927,6 +18273,7 @@
 			"计算机视觉"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-11-12 06:02:51",
@@ -18013,6 +18360,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35265195/interest/3087521234",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-10-27 03:39:24",
@@ -18101,6 +18449,7 @@
 			"脱口秀"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-10-05 13:07:26",
@@ -18109,7 +18458,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18912,
+				"count": 18965,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -18190,6 +18539,7 @@
 			"金庸"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-09-17 03:51:44",
@@ -18198,7 +18548,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3701,
+				"count": 3707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -18274,6 +18624,7 @@
 			"金庸"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-09-13 00:33:04",
@@ -18282,7 +18633,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26994,
+				"count": 27003,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -18367,6 +18718,7 @@
 			"金庸"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-09-06 02:17:29",
@@ -18375,7 +18727,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19800,
+				"count": 19810,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -18460,6 +18812,7 @@
 			"武侠"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-09-04 08:43:52",
@@ -18468,7 +18821,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 138550,
+				"count": 138599,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -18485,7 +18838,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 17,
+					"rank": 18,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -18552,6 +18905,7 @@
 			"金庸"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-08-29 04:00:43",
@@ -18560,7 +18914,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8621,
+				"count": 8630,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -18637,6 +18991,7 @@
 			"推理小说"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-08-23 10:24:36",
@@ -18645,10 +19000,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5752,
+				"count": 5760,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -18691,7 +19046,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/35058746.jpg",
-			"min_sale_price": "¥23.4",
+			"min_sale_price": "¥25.0",
 			"press": [
 				"新星出版社"
 			],
@@ -18725,6 +19080,7 @@
 			"悬疑"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-08-17 12:10:33",
@@ -18733,7 +19089,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2489,
+				"count": 2491,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -18811,6 +19167,7 @@
 			"自传"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-08-10 11:04:00",
@@ -18819,7 +19176,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21352,
+				"count": 21410,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -18836,7 +19193,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 142,
+					"rank": 110,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -18903,6 +19260,7 @@
 			"日系推理"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-08-09 13:15:05",
@@ -18911,10 +19269,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2596,
+				"count": 2603,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -18988,6 +19346,7 @@
 			"心理"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-07-21 11:12:03",
@@ -19075,6 +19434,7 @@
 			"J.K.Rowling"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-06-19 09:59:49",
@@ -19169,6 +19529,7 @@
 			"老友记"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-06-11 10:25:26",
@@ -19177,7 +19538,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42,
+				"count": 43,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -19264,6 +19625,7 @@
 			"李诞"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-06-06 03:25:15",
@@ -19272,7 +19634,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14928,
+				"count": 14939,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -19349,6 +19711,7 @@
 			"华裔"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-05-13 10:44:47",
@@ -19357,10 +19720,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1061,
+				"count": 1065,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -19446,6 +19809,7 @@
 			"新加坡"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-03-26 12:23:13",
@@ -19454,7 +19818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5316,
+				"count": 5319,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -19474,11 +19838,14 @@
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
-			"card_subtitle": "李光耀 / 2013 / 中信出版社",
+			"card_subtitle": "[新加坡] 李光耀(口述) [美] 格雷厄姆.艾利森(编) [美] 罗伯特·D.布莱克威尔(编) [美] 阿里·温尼(编) / 2013 / 中信出版社",
 			"book_subtitle": "",
 			"id": "25730239",
 			"author": [
-				"李光耀"
+				"[新加坡] 李光耀(口述)",
+				"[美] 格雷厄姆.艾利森(编)",
+				"[美] 罗伯特·D.布莱克威尔(编)",
+				"[美] 阿里·温尼(编)"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
@@ -19500,7 +19867,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/25730239.jpg",
-			"min_sale_price": "¥39.0",
+			"min_sale_price": "¥42.4",
 			"press": [
 				"中信出版社"
 			],
@@ -19512,7 +19879,7 @@
 			"title": "李光耀论中国与世界",
 			"uri": "douban://douban.com/book/25730239",
 			"subtype": "book",
-			"intro": "《李光耀论中国与世界》首先是一本预言社会发展趋势的书，全书的架构就是从中国的未来、美国的未来、中美关系的未来、印度的未来、伊斯兰世界的未来、全球经济增长的未来、地缘政治和全球化的未来、民主的未来、李光耀怎么想等等。其次是一本新加坡前总理李光耀预言社会发展趋势的书，李光耀会晤过毛泽东、邓小平、江泽民、胡锦涛等多位中国大陆领导人，对中国的改革开放政策制定方面有重要影响。同时，这还是一本亚洲重要领导人预言世界大势的作品。李光耀不仅在亚洲有着很高的影响力，他的施政方略以及影响力已经深刻地影响到西方国家。比如，他是美国多届美国总统的座上宾，而且新加坡的成功发展模式一直被很多西方经济学家所津津乐道。\n李光耀一讲话，各国总统、总理、外交官和企业首席执行官们都会洗耳恭听。他是新加坡的“国父”，在1959年至1990年担任新加坡总理，在50余年的世界舞台生涯中砥砺了智慧。他几乎是独当一面地领导了新加坡的转型，让新加坡的经济取得了西方式的成功。\n李光耀对东西方的地缘政治问题有自己独到的见解。从尼克松到奥巴马，历届美国总统都非常欢迎他访问白宫；从撒切尔到布莱尔，历任英国首相都肯定他的智慧；从新闻集团创始人默多克到埃克森美孚首席执行官蒂勒森，商业领袖们都对他的成就点头赞许。\n对于中国的未来，李光耀认为“中国希望和美国平等共享这个世纪”。他肯定了美国作为世界超级大国的地位，但对美国政治体系的反复无常表示失望。他对如何与中国打交道提出了自己的建议；继而讨论了印度的未来、伊斯兰恐怖主义、经济增长、地缘政治和全球化以及民主等话题。李光耀直言不讳，以直白的语言表达了对多元文化论、福利国家、教育以及自由市场的看法。",
+			"intro": "李光耀一讲话，各国总统、总理、外交官和企业首席执行官们都会洗耳恭听。他是新加坡的“国父”，在1959年至1990年担任新加坡总理，在50余年的世界舞台生涯中砥砺了智慧。他几乎是独当一面地领导了新加坡的转型，让新加坡的经济取得了西方式的成功。\n李光耀对东西方的地缘政治问题有自己独到的见解。从尼克松到奥巴马，历届美国总统都非常欢迎他访问白宫；从撒切尔到布莱尔，历任英国首相都肯定他的智慧；从新闻集团创始人默多克到埃克森美孚首席执行官蒂勒森，商业领袖们都对他的成就点头赞许。\n对于中国的未来，李光耀认为“中国希望和美国平等共享这个世纪”。他肯定了美国作为世界仅有的超级大国的地位，但对美国政治体系的反复无常表示失望。他对如何与中国打交道提出了自己的建议；继而讨论了印度的未来、伊斯兰恐怖主义、经济增长、地缘政治和全球化以及民主等话题。李光耀直言不讳，以直白的语言表达了对多元文化论、福利国家、教育以及自由市场的看法。",
 			"buy_more_uri": "douban://douban.com/book/25730239/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
@@ -19534,6 +19901,7 @@
 			"心理"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-01-23 11:59:54",
@@ -19542,7 +19910,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10442,
+				"count": 10459,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -19621,6 +19989,7 @@
 			"精神分析"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2021-01-04 12:39:30",
@@ -19708,6 +20077,7 @@
 			"推理"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2020-12-29 14:23:22",
@@ -19716,10 +20086,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3010,
+				"count": 3014,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -19803,6 +20173,7 @@
 			"手绘食谱"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2020-11-10 07:44:51",
@@ -19884,6 +20255,7 @@
 			"世界科幻大师丛书"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2020-08-26 10:55:08",
@@ -19969,6 +20341,7 @@
 			"日系推理"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2020-08-14 09:55:46",
@@ -19977,10 +20350,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 112678,
+				"count": 112817,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -20030,7 +20403,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/34996429.jpg",
-			"min_sale_price": "¥16.3",
+			"min_sale_price": "¥18.2",
 			"press": [
 				"上海文艺出版社"
 			],
@@ -20062,6 +20435,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/34907500/interest/2470711191",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2020-07-29 08:11:10",
@@ -20141,6 +20515,7 @@
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1962923/interest/2435654656",
 		"tags": [],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2020-06-29 00:03:58",
@@ -20149,7 +20524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12839,
+				"count": 12842,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -20236,6 +20611,7 @@
 			"旅行悬疑小说"
 		],
 		"charts": [],
+		"is_editable": false,
 		"platforms": [],
 		"vote_count": 0,
 		"create_time": "2019-05-25 08:06:20",
@@ -20244,7 +20620,94 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 203,
+				"count": 204,
+				"max": 10,
+				"star_count": 4,
+				"value": 8.3
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2019-3"
+			],
+			"pic": {
+				"large": "https://img9.doubanio.com/view/subject/l/public/s29980156.jpg",
+				"normal": "https://img9.doubanio.com/view/subject/m/public/s29980156.jpg"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [],
+			"card_subtitle": "邹凡凡 / 2019 / 云南美术出版社",
+			"book_subtitle": "",
+			"id": "30434959",
+			"author": [
+				"邹凡凡"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "a53c42",
+				"_base_color": [
+					0.9903846153846154,
+					0.6341463414634146,
+					0.3215686274509804
+				],
+				"secondary_color": "f9f4f5",
+				"_avg_color": [
+					0.018018018018018018,
+					0.24025974025974026,
+					0.6039215686274509
+				],
+				"primary_color_dark": "7f2e33"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/30434959.jpg",
+			"min_sale_price": "¥27.0",
+			"press": [
+				"云南美术出版社"
+			],
+			"pages": [
+				"288"
+			],
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/30434959",
+			"url": "https://book.douban.com/subject/30434959/",
+			"title": "秘密之旅：蒙娜丽莎的秘密",
+			"uri": "douban://douban.com/book/30434959",
+			"subtype": "book",
+			"intro": "●旅行悬疑少年小说重磅出击！\n●探险欧洲知名博物馆、艺术宫、文化古迹，带领孩子走出去，放眼看世界！\n● 名画《蒙娜丽莎》离奇失踪，中法小侦探联手捉凶！跟随身怀绝技的少年，开启一场秘密之旅！\n●1000+专家、作家、辣妈、文化大V、博物学者和10000+小读者口碑认证！\n● 法 国领事馆、一条视频、沪江网、cctalk权威推荐！\n●冰心儿童图书奖得主、旅法学者、儿童美学教育专家邹凡凡，口碑代表作！\n● “东方文化幻想”少年小说开创者杨翠、“中华姓氏文化”少年小说开创者范先慧联合推荐！\n————————————\n来自东方的少年怀着珍爱艺术的拳拳热心，踏上心中向往的欧洲大陆，从巴黎卢浮宫追到伦敦贝克街，从威尼斯的运河追到梵蒂冈圣彼得大教堂，一件件尘封的悬案破茧而出，追溯辉煌的欧洲艺术源头，故事无处不在，秘密就无处不有。\n卢浮宫遭遇千古奇案，《蒙娜丽莎》一夜之间不翼而飞。监控录像毫无异常，是谁布下密室迷局，逃过众人的眼睛？\n天才少女孙漪恰巧身处案发现场，发誓用高超的计算机技术查出真相。然而，随着调查深入，《蒙娜丽莎》的秘密悄悄浮现，迷人的微笑背后，竟然是孙漪无法想象的权力旋涡和危险博弈……",
+			"buy_more_uri": "douban://douban.com/book/30434959/vendors_douban",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": false
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://www.douban.com/doubanapp/dispatch/book/30434959 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30434959/interest/1798139901",
+		"tags": [
+			"儿童文学",
+			"旅行悬疑小说"
+		],
+		"charts": [],
+		"is_editable": false,
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2019-05-25 08:06:20",
+		"status": "done",
+		"id": 1798139901,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 204,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
